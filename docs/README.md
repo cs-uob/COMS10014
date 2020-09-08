@@ -68,10 +68,6 @@ As a rough guide to time planning:
   2. In your first teaching block, you have three units each worth 20 credits. This means on average you will spend just over 13 hours per week on each unit, that is a bit more than a day and a half - although in practice most students will have units that take them shorter or longer than others.
   3. The timetabled _synchronous_ hours - in this unit the workshops, in others maybe labs or problem classes - take up much less time than the 13-ish hours you are supposed to spend on the unit. In a normal year with lectures and labs, the advice to students was to spend at least as much time again on each unit in self-study, as you have in contact hours. This year with lectures replaced by _asynchronous_ material, e.g. you can read or watch it in your own time, your contact time in the workshops and drop-ins will make up only a tiny part of all the work you are expected to do for each unit.
 
-## Navigating the course
-
-This website will be your main online resource for the unit.
-
 ## Contacts
 
 Your main ways of getting help with the unit are:
@@ -86,3 +82,14 @@ You must not e-mail unit staff individually with questions about the material, a
 We do not offer extra private lessons for individual students. However, if you are a student with a registered disability, or from a widening participation background, there may be extra support that you can access through the university.
 
 ## Assessment
+
+To pass this unit, you must do two things:
+
+  * Attend at least 75% of all workshops (including class tests and mock exams in workshop slots) in the teaching weeks.
+  * Attend and pass the exam in January. The pass mark is 40%, and if you achieve this then your unit mark will be your exam mark.
+  
+ Attendance does not count towards your grade, but if you do not meet the 75% attendance target then you automatically fail the unit. TAs will be taking attendance in every workshop and it is important that you turn up on time and switch to the correct online "room" for your group; if you are late to a workshop then you must find a TA and make sure that you are recorded. If you are unwell then you must submit a [self-certification for absence form (use the "Engineering Student Forms" link)](http://www.bristol.ac.uk/engineering/current-students/) _before the workshop starts_, in which case it will count as attended. If you are unwell for longer than a week, you should see a doctor and get a doctor's note. Since the workshops are online, you are expected to attend even if you are self-isolating or in quarantine, if you are well enough to do so.
+
+The class tests and mock exams in some workshops are formative, that is they are purely for feedback to you and they do not count towards your unit grade. Attending them does count towards your 75% attendance target however.
+
+Drop-in sessions and optional slots in revision weeks are not mandatory and cannot be used to count towards your attendance target. 
