@@ -20,7 +20,7 @@ The timetabled sessions for this unit are:
   * Thursday, 2-3pm: drop-in session (optional)
   * Friday, 2-4pm: workshop 2 (mandatory)
   
-All the sessions will be held online using Microsoft Teams. This runs both in the browser, or if you want to you can download it as a separate program. Drop-ins are optional sessions where the TAs are active on Teams and you can come in to ask them questions.
+All the sessions will be held online using Microsoft Teams. This runs both in the browser, or if you want to you can download it as a separate program. Drop-ins are optional sessions where the TAs are active on Teams and you can come in to ask them questions. There will be no in-person (on campus) teaching on this unit.
 
 For the workshops and drop-ins, you will need an internet connection, a microphone and a web camera (most smartphones have a pretty good microphone and camera built in). Since writing mathematics on a computer can be hard, you might want to also have a pad of paper and a pen nearby and point your camera at that when you want to show something to a TA.
 
@@ -32,20 +32,20 @@ Some of the workshops are in-class tests or mock exams. These are _formative_, w
 
 The currently planned structure of the activities is as follows, but this may change during term if necessary, in which case we will inform all of you and update this page. Workshops for activities marked `--` will not take place, and so also do not count towards your 75% attendance hurdle. 
 
-| Week | Activity 1                     | Activity 2             |
-|-----:|--------------------------------|------------------------|
-|    1 | welcome and introduction       | Boolean logic          |
-|    2 | logic 2                        | proofs 1               |
-|    3 | class test                     | set theory             |
-|    4 | predicate logic                | logic and proof        |
-|    5 | mock exam                      | --                     |
-|    6 | --                             | --                     |
-|    7 | combinatorics                  | probability            |
-|    8 | conditional probability, Bayes | class test             |
-|    9 | random variables               | discrete distributions |
-|   10 | continuous probability         | mock exam              |
-|   11 | --                             | --                     |
-|   12 | --                             | --                     |
+| Week | Starts on   | Activity 1                     | Activity 2             |
+|-----:|-------------|--------------------------------|------------------------|
+|    1 |  5 October  | welcome and introduction       | Boolean logic          |
+|    2 | 12 October  | logic 2                        | proofs 1               |
+|    3 | 19 October  | class test                     | set theory             |
+|    4 | 26 October  | predicate logic                | logic and proof        |
+|    5 |  2 November | mock exam                      | --                     |
+|    6 |  9 November | --                             | --                     |
+|    7 | 16 November | combinatorics                  | probability            |
+|    8 | 23 November | conditional probability, Bayes | class test             |
+|    9 | 30 November | random variables               | discrete distributions |
+|   10 |  7 December | continuous probability         | mock exam              |
+|   11 | 14 December | --                             | --                     |
+|   12 | 11 Jan 2021 | --                             | --                     |
 
 Week 12 is in January, before the start of the exam period where you will sit the exam for this unit. Due to limited TA budget this year, it is not clear yet whether we will be able to offer any TA support in the weeks where there are no workshops - TAs are paid by the hour and it would not be fair on them to ask them to support students for extra hours which we cannot pay them for. If there is no TA budget for the remaining weeks, then the best I can offer is that you should support each other. Hopefully, by then you will be on good terms with the rest of your bubble.
 
