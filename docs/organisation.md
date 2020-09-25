@@ -30,7 +30,7 @@ If you miss a workshop, your tutor will be informed and repeated unexcused absen
 
 Some of the workshops are in-class tests or mock exams. These are _formative_, which means the results from these tests are not used for your unit mark, but they do help you to understand your own performance on the unit.
 
-The currently planned structure of the activities is as follows, but this may change during term if necessary, in which case we will inform all of you and update this page. Workshops for activities marked `--` will not take place, and so also do not count towards your 75% attendance hurdle. 
+The currently planned structure of the activities is as follows, but this may change during term if necessary, in which case we will inform all of you and update this page. Workshops for activities marked -- will not take place, and so also do not count towards your 75% attendance hurdle. 
 
 | Week | Starts on   | Activity 1                     | Activity 2             |
 |-----:|-------------|--------------------------------|------------------------|
@@ -83,4 +83,4 @@ Attendance does not count towards your grade, but if you do not meet the 75% att
 
 The class tests and mock exams in some workshops are formative, that is they are purely for feedback to you and they do not count towards your unit grade. Attending them does count towards your 75% attendance target however.
 
-Drop-in sessions and optional slots in non-teaching weeks marked `--` above, if we have the budget to hold any, are not mandatory and cannot be used to count towards your attendance target. 
+Drop-in sessions and optional slots in non-teaching weeks marked -- above, if we have the budget to hold any, are not mandatory and cannot be used to count towards your attendance target. 
