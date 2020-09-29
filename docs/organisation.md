@@ -4,7 +4,7 @@
 
 We require an A* grade in mathematics at A-levels, or an equivalent qualification, to join the Computer Science degree. Obviously, A-levels have been disrupted this year but that does not mean we are going to make you leave with a less valuable degree in three to four years time by "dumbing down" the content of your degree. You have chosen to enrol in one of the better universities in the country and that means we trust you are able to identify by yourself where you have gaps in your previous knowledge, and to deal with this for example by independently teaching yourself missing topics with the help of books in the library or online resources - there are free videos online on every part of A-level mathematics.
 
-## Schedule
+## Activities
 
 Each week, you will complete two _activities_, in which you will
 
@@ -12,7 +12,7 @@ Each week, you will complete two _activities_, in which you will
   * Attend an online workshop in which you work on a problem sheet related to a material in groups.
   * Revise the material further in your own time.
 
-The main learning on this unit will happen in the online workshops. Teaching Assistants (TAs) will be around during the workshops to help your group with any questions that you might have. In these workshops, you will work in groups of 12 called _bubbles_ and you will stay in the same bubble for the entire unit - a good way to safely socialise with some other students on your course.
+The main learning on this unit will happen in the online workshops. Teaching Assistants (TAs) will be around during the workshops to help your group with any questions that you might have. In these workshops, you will work in groups of 12 and you will stay in the same group for the entire unit - a good way to safely socialise with some other students on your course.
 
 The timetabled sessions for this unit are:
 
@@ -29,27 +29,6 @@ For the workshops and drop-ins, you will need an internet connection, a micropho
 If you miss a workshop, your tutor will be informed and repeated unexcused absences may be noted on your student record and lead to other consequences - a student who almost never engages may be asked to withdraw from the university. If you are unable to attend a workshop for good reason, such as illness, then you must self-certify your absence using the university process for this, **before** the start of the workshop. If you are struggling with the unit or the course for any reason, you must inform your personal tutor as soon as possible. On no account should you stop going to the workshops because you've fallen behind, because that leads to falling further behind and failing the year.
 
 Some of the workshops are in-class tests or mock exams. These are _formative_, which means the results from these tests are not used for your unit mark, but they do help you to understand your own performance on the unit.
-
-The currently planned structure of the activities is as follows, but this may change during term if necessary, in which case we will inform all of you and update this page. Workshops for activities marked -- will not take place, and so also do not count towards your 75% attendance hurdle. 
-
-| Week | Starts on   | Activity 1                     | Activity 2             |
-|-----:|-------------|--------------------------------|------------------------|
-|    1 |  5 October  | welcome and introduction       | Boolean logic          |
-|    2 | 12 October  | logic 2                        | proofs 1               |
-|    3 | 19 October  | class test                     | set theory             |
-|    4 | 26 October  | predicate logic                | logic and proof        |
-|    5 |  2 November | mock exam                      | --                     |
-|    6 |  9 November | --                             | --                     |
-|    7 | 16 November | combinatorics                  | probability            |
-|    8 | 23 November | conditional probability, Bayes | class test             |
-|    9 | 30 November | random variables               | discrete distributions |
-|   10 |  7 December | continuous probability         | mock exam              |
-|   11 | 14 December | --                             | --                     |
-|   12 | 11 Jan 2021 | --                             | --                     |
-
-Week 12 is in January, before the start of the exam period where you will sit the exam for this unit. Due to limited TA budget this year, it is not clear yet whether we will be able to offer any TA support in the weeks where there are no workshops - TAs are paid by the hour and it would not be fair on them to ask them to support students for extra hours which we cannot pay them for. If there is no TA budget for the remaining weeks, then the best I can offer is that you should support each other. Hopefully, by then you will be on good terms with the rest of your bubble.
-
-The first workshop in Week 1 on Tuesday 6 October will be an introduction workshop - you do not have to prepare anything for this workshop.
 
 ## Time planning
 
