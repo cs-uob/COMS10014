@@ -23,10 +23,12 @@ The workshops will be held online using Microsoft Teams. Open [teams.microsoft.c
 
   - Click the "Teams" button on the left to show a list of teams you are in.
   - Click the _group COMS10014 Mathematics A_ team.
+  - Select "Channels" if this is not already visible.
+  - Join your group's channel. You may need to select "show hidden channels" to see all the group channels.
 
 In the Mathematics A team, there is a _general_ channel where we will share information and problem sheets with you, a _main_ channel where you can ask TAs for help and a number of group channels named after a number and an element of the periodic table e.g. _01 Hydrogen_. In the workshops, you will join the channel for your assigned group of students and solve the problem sheets as a group.
 
   * For the first 20 minutes or so of each workshop, you will work in your group on the problem sheets.
   * Around 20 minutes after the start of each session, TAs will circulate among the groups. This is your opportunity to ask any questions that you have prepared, and the TAs will ask you questions if you don't have any questions for them. The TAs will also take attendance at this time, so you must be in your assigned group room by this time.
-  * Afterwards, the TAs will be in the main channel and if you need any help, you can switch to the main channel and ask a TA to come to your group room and help you.
+  * Afterwards, you will continue to work in groups on the problem sheets. The TAs will be in the main channel and if you need any help, you can switch to the main channel and ask a TA to come to your group room and help you.
 

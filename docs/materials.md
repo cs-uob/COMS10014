@@ -2,7 +2,7 @@
 
 ## Schedule
 
-The currently planned structure of the activities is as follows, but this may change during term if necessary, in which case we will inform all of you and update this page. Workshops for activities marked -- will not take place, and so also do not count towards your 75% attendance hurdle. 
+The currently planned structure of the activities is as follows, but this may change during term if necessary, in which case we will inform all of you and update this page. Workshops for activities marked -- will not take place, and so also do not count towards your 75% attendance hurdle.
 
 | Week | Starts on   | Activity 1                     | Activity 2             |
 |-----:|-------------|--------------------------------|------------------------|
@@ -42,6 +42,7 @@ The workshops will be held on Microsoft Teams. Open [teams.microsoft.com](http:/
 
   - Click the "Teams" button on the left to show a list of teams you are in.
   - Click the _group COMS10014 Mathematics A_ team.
+  - Find the channel for your group and join it. You may need to select "show hidden channels" in the channels list to see the group channels.
 
 You are reminded that attending the workshops is mandatory.
 

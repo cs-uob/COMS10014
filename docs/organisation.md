@@ -62,4 +62,4 @@ Attendance does not count towards your grade, but if you do not meet the 75% att
 
 The class tests and mock exams in some workshops are formative, that is they are purely for feedback to you and they do not count towards your unit grade. Attending them does count towards your 75% attendance target however.
 
-Drop-in sessions and optional slots in non-teaching weeks marked -- above, if we have the budget to hold any, are not mandatory and cannot be used to count towards your attendance target. 
+Drop-in sessions and optional slots in weeks where there are no workshops (marked -- on the [schedule](materials.md)) are not mandatory and cannot be used to count towards your attendance target. These slots will only be staffed if we have enough TA budget to hold them.
