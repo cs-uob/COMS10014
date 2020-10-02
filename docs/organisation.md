@@ -6,6 +6,8 @@ We require an A* grade in mathematics at A-levels, or an equivalent qualificatio
 
 ## Activities
 
+_For organisational reasons, we have decided to delay the start of this unit to Week 2 (starting Monday 12 October)._
+
 Each week, you will complete two _activities_, in which you will
 
   * Prepare yourself by studying assigned material in your own time - this will be a combination of videos and written notes.

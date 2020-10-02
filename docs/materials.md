@@ -4,13 +4,15 @@
 
 The currently planned structure of the activities is as follows, but this may change during term if necessary, in which case we will inform all of you and update this page. Workshops for activities marked -- will not take place, and so also do not count towards your 75% attendance hurdle.
 
+_For organisational reasons, we have decided to delay the start of this unit to Week 2 (starting Monday 12 October)._
+
 | Week | Starts on   | Activity 1                     | Activity 2             |
 |-----:|-------------|--------------------------------|------------------------|
-|    1 |  5 October  | welcome and introduction       | Boolean logic          |
-|    2 | 12 October  | logic 2                        | proofs 1               |
-|    3 | 19 October  | class test                     | set theory             |
-|    4 | 26 October  | predicate logic                | logic and proof        |
-|    5 |  2 November | mock exam                      | --                     |
+|    1 |  5 October  | --                             | --                     |
+|    2 | 12 October  | Boolean logic                  | logic 2                |
+|    3 | 19 October  | proofs 1                       | class test             |
+|    4 | 26 October  | set theory                     | predicate logic        |
+|    5 |  2 November | logic and proof                | mock exam              |
 |    6 |  9 November | --                             | --                     |
 |    7 | 16 November | combinatorics                  | probability            |
 |    8 | 23 November | conditional probability, Bayes | class test             |
@@ -21,12 +23,11 @@ The currently planned structure of the activities is as follows, but this may ch
 
 Week 12 is in January, before the start of the exam period where you will sit the exam for this unit. Due to limited TA budget this year, it is not clear yet whether we will be able to offer any TA support in the weeks where there are no workshops - TAs are paid by the hour and it would not be fair on them to ask them to support students for extra hours which we cannot pay them for. If there is no TA budget for the remaining weeks, then the best I can offer is that you should support each other. Hopefully, by then you will be on good terms with the rest of your bubble.
 
-The first workshop in Week 1 on Tuesday 6 October will be an introduction workshop - you do not have to prepare anything for this workshop.
+Please prepare for the workshops as follows:
 
-After this, please prepare for the workshops as follows:
-
-  * Friday Week 1, 9 October: Watch the video "Logic 1: Introduction to Mathematical Logic" (see the videos section below).
-  * Tuesday Week 2, 13 October: Watch the videos titled "Logic 2" (this is one "lecture" but split into several parts).
+  * Week 1: no workshops, but please complete the questions in our [A-level revision sheet](files/a-level-revision.pdf) on your own. You should be able to do all of these, but if not, then you know that you need to revise some A level mathematics material in your own time.
+  * Tuesday Week 2, 13 October: Watch the video "Logic 1: Introduction to Mathematical Logic" (see the videos section below).
+  * Friday Week 2, 16 October: Watch the videos titled "Logic 2" (this is one "lecture" but split into several parts).
 
 ## Videos
 

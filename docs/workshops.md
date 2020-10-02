@@ -15,7 +15,7 @@ For each workshop, you will:
   - Attend the workshop, where a problem sheet will be handed out that you will work on in a group of around 12 students. Teaching Assistants will be around to help you with any questions you have.
   - After the workshop, individually or with other students, go over anything you don't understand again, write up your own notes, and revise the material. Sample solutions to the problem sheets, as well as the sheets themselves, will appear on this website.
 
-The first workshop will be on Tuesday 6 October at 2pm, and you do not need to prepare anything for this.
+The first workshop will be on Tuesday 13 October at 2pm, as we have made the decision to delay the start of this unit one week for organisational reasons.
 
 ## Workshop location
 
