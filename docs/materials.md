@@ -9,10 +9,10 @@ _For organisational reasons, we have decided to delay the start of this unit to 
 | Week | Starts on   | Activity 1                     | Activity 2             |
 |-----:|-------------|--------------------------------|------------------------|
 |    1 |  5 October  | --                             | --                     |
-|    2 | 12 October  | Boolean logic                  | logic 2                |
-|    3 | 19 October  | proofs 1                       | class test             |
-|    4 | 26 October  | set theory                     | predicate logic        |
-|    5 |  2 November | logic and proof                | mock exam              |
+|    2 | 12 October  | propositional logic            | Boolean algebra        |
+|    3 | 19 October  | proofs                         | class test             |
+|    4 | 26 October  | proof strategies               | predicate logic        |
+|    5 |  2 November | logic and proof revision       | mock exam              |
 |    6 |  9 November | --                             | --                     |
 |    7 | 16 November | combinatorics                  | probability            |
 |    8 | 23 November | conditional probability, Bayes | class test             |
@@ -28,6 +28,12 @@ Please prepare for the workshops as follows:
   * Week 1: no workshops, but please complete the questions in our [A-level revision sheet](files/a-level-revision.pdf) on your own. You should be able to do all of these, but if not, then you know that you need to revise some A level mathematics material in your own time.
   * Tuesday Week 2, 13 October: Watch the video "Logic 1: Introduction to Mathematical Logic" (see the videos section below).
   * Friday Week 2, 16 October: Watch the videos titled "Logic 2" (this is one "lecture" but split into several parts).
+  * Tuesday Week 3, 20 October: Watch the videos on "Proof 1: introduction to proof".
+  * Friday Week 3, 23 October: Watch the videos on "Proof 2: mathematical induction".
+  * Tuesday Week 4, 27 October: Watch the videos on "proof strategies".
+  * Friday Week 4, 30 October: Watch the videos on "introduction to predicate logic".
+  * Tuesday Week 5, 3 November: Watch the videos on "the formal side of predicate logic".
+  * Friday Week 5, 6 November: Watch the videas on "introduction to set theory".
 
 ## Videos
 
