@@ -35,13 +35,18 @@ Please prepare for the workshops as follows:
   * Tuesday Week 5, 3 November: Watch the videos on "the formal side of predicate logic".
   * Friday Week 5, 6 November: Watch the videas on "introduction to set theory".
 
-## Videos
+## Videos and slides
 
 Your lecture videos are hosted on blackboard, the university's content management system.
 
 To access them you must first log in to blackboard at [ole.bris.ac.uk](https://ole.bristol.ac.uk). Then you can use [this link](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_240774_1&content_id=_4562298_1) to view the videos.
 
 If you cannot access the blackboard videos, you must e-mail the school office at coms-info@bristol.ac.uk, not the unit lecturers - lecturers do not have access to the tools to enrol students on units, only the office can do that.
+
+The slides-only versions of the presentations are hosted on blackboard, available to enrolled students below (you will need to be logged in to blackboard):
+
+  * [logic 1](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10014_2020_TB-1/files/logic-1-6up.pdf)
+  * [logic 2](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10014_2020_TB-1/files/logic-2-6up.pdf)
 
 ## Workshop rooms
 
@@ -56,3 +61,7 @@ You are reminded that attending the workshops is mandatory.
 ## Problem sheets
 
 Problem sheets for each workshop session will be handed out in the workshop itself. Afterwards, links to the problem sheets and sample solutions will appear below on this page.
+
+These are hosted on blackboard, so they are only available to enrolled students. You will need to sign in to blackboard before accessing these.
+
+  * [Logic 1 problems](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10014_2020_TB-1/files/logic-1-WS.pdf)
