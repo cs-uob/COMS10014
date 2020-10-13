@@ -47,6 +47,9 @@ The slides-only versions of the presentations are hosted on blackboard, availabl
 
   * [logic 1](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10014_2020_TB-1/files/logic-1-6up.pdf)
   * [logic 2](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10014_2020_TB-1/files/logic-2-6up.pdf)
+  * [logic 3](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10014_2020_TB-1/files/logic-3-6up.pdf)
+  * [logic 4](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10014_2020_TB-1/files/logic-4-6up.pdf)
+  * [logic 5](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10014_2020_TB-1/files/logic-5-6up.pdf)
 
 ## Workshop rooms
 
