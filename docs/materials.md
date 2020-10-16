@@ -47,7 +47,7 @@ The slides-only versions of the presentations are hosted in the Teams group. You
 
 
   * [logic 1](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/logic-1-6up.pdf)
-  * [logic 2]((https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/logic-2-6up.pdf)
+  * [logic 2](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/logic-2-6up.pdf)
   * [proof 1: introduction](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/proof-1-introduction-to-proof-narrated_v3-plain.pdf) and [proof 1: formal reasoning](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/proof-1-formhttps://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/logic-3-6up.pdf)
   * [logic 4](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/logic-4-6up.pdf)
   * [logic 5](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/logic-5-6up.pdf)
