@@ -81,3 +81,6 @@ These are hosted on blackboard, so they are only available to enrolled students.
 ## Solutions
 
 Solutions will appear here week by week.
+
+  * [Logic 1](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SOLUTIONS/logic-1-SOL.pdf)
+  * [Logic 2](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SOLUTIONS/logic-2-SOL.pdf)
