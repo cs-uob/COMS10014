@@ -73,6 +73,10 @@ These are hosted on blackboard, so they are only available to enrolled students.
 
   * [Logic 1 problems](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/logic-1-WS.pdf)
   * [Logic 2 problems](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/logic-2-WS.pdf)
+  * [Logic 3 problems](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/logic-3-WS.pdf)
+  * [Proof 1 problems](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/proof-1-WS.pdf)
+  * [Proof 2 problems](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/proof-2-WS.pdf)
+  * [Logic and proof revision problems](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/logic-and-proof-WS.pdf)
 
 ## Solutions
 
