@@ -43,14 +43,16 @@ To access them you must first log in to blackboard at [ole.bris.ac.uk](https://o
 
 If you cannot access the blackboard videos, you must e-mail the school office at coms-info@bristol.ac.uk, not the unit lecturers - lecturers do not have access to the tools to enrol students on units, only the office can do that.
 
-The slides-only versions of the presentations are hosted on blackboard, available to enrolled students below (you will need to be logged in to blackboard):
+The slides-only versions of the presentations are hosted in the Teams group. You can access them from the _Files_ tab in teams, or use the direct links here. (Unlike blackboard, if you click these links when you are not logged in, Teams does the right thing which is show you a login page instead of give an access denied error.)
 
-  * [logic 1](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10014_2020_TB-1/files/logic-1-6up.pdf)
-  * [logic 2](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10014_2020_TB-1/files/logic-2-6up.pdf)
-  * [proof 1: introduction](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10014_2020_TB-1/files/proof-1-introduction-to-proof-narrated_v3-plain.pdf) and [proof 1: formal reasoning](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10014_2020_TB-1/files/proof-1-formal-reasoning-narrated_v3-plain.pdf)
-  * [logic 3](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10014_2020_TB-1/files/logic-3-6up.pdf)
-  * [logic 4](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10014_2020_TB-1/files/logic-4-6up.pdf)
-  * [logic 5](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10014_2020_TB-1/files/logic-5-6up.pdf)
+
+  * [logic 1](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/logic-1-6up.pdf)
+  * [logic 2]((https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/logic-2-6up.pdf)
+  * [proof 1: introduction](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/proof-1-introduction-to-proof-narrated_v3-plain.pdf) and [proof 1: formal reasoning](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/proof-1-formhttps://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/logic-3-6up.pdf)
+  * [logic 4](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/logic-4-6up.pdf)
+  * [logic 5](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/logic-5-6up.pdf)
+
+You can also browse the [folder of all slides, worksheets and solutions](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/).
 
 ## Workshop rooms
 
@@ -68,4 +70,9 @@ Problem sheets for each workshop session will be handed out in the workshop itse
 
 These are hosted on blackboard, so they are only available to enrolled students. You will need to sign in to blackboard before accessing these.
 
-  * [Logic 1 problems](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10014_2020_TB-1/files/logic-1-WS.pdf)
+  * [Logic 1 problems](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/logic-1-WS.pdf)
+  * [Logic 2 problems](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/logic-2-WS.pdf)
+
+## Solutions
+
+Solutions will appear here week by week.
