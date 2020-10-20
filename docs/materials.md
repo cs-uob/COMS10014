@@ -1,41 +1,6 @@
 # Unit materials and schedule
 
-## Schedule
-
-The currently planned structure of the activities is as follows, but this may change during term if necessary, in which case we will inform all of you and update this page. Workshops for activities marked -- will not take place, and so also do not count towards your 75% attendance hurdle.
-
-_For organisational reasons, we have decided to delay the start of this unit to Week 2 (starting Monday 12 October)._
-
-| Week | Starts on   | Activity 1 (workshop)                      | Activity 2 (workshop)           |
-|-----:|-------------|--------------------------------------------|---------------------------------|
-|    1 |  5 October  | --                                         | --                              |
-|    2 | 12 October  | propositional logic (logic-1)              | Boolean algebra (logic-2)       |
-|    3 | 19 October  | proofs (proof-1)                           | class test                      |
-|    4 | 26 October  | proof strategies (proof-2)                 | predicate logic (logic-3)       |
-|    5 |  2 November | logic and proof revision (logic-and-proof) | mock exam                       |
-|    6 |  9 November | --                                         | --                              |
-|    7 | 16 November | combinatorics                              | probability                     |
-|    8 | 23 November | conditional probability, Bayes             | class test                      |
-|    9 | 30 November | random variables                           | discrete distributions          |
-|   10 |  7 December | continuous probability                     | mock exam                       |
-|   11 | 14 December | --                                         | --                              |
-|   12 | 11 Jan 2021 | --                                         | --                              |
-
-Week 12 is in January, before the start of the exam period where you will sit the exam for this unit. Due to limited TA budget this year, it is not clear yet whether we will be able to offer any TA support in the weeks where there are no workshops - TAs are paid by the hour and it would not be fair on them to ask them to support students for extra hours which we cannot pay them for. If there is no TA budget for the remaining weeks, then the best I can offer is that you should support each other. Hopefully, by then you will be on good terms with the rest of your bubble.
-
-Please prepare for the workshops as follows:
-
-  * Week 1: no workshops, but please complete the questions in our [A-level revision sheet](files/a-level-revision.pdf) on your own. You should be able to do all of these, but if not, then you know that you need to revise some A level mathematics material in your own time.
-  * Tuesday Week 2, 13 October: Watch the video "Logic 1: introduction to mathematical logic" (see the videos section below).
-  * Friday Week 2, 16 October: Watch the videos titled "Logic 2" (this is one "lecture" but split into several parts).
-  * Tuesday Week 3, 20 October: Watch the videos on "Proof 1: introduction to proof" and  "Proof 2: mathematical induction", parts I and II.
-  * Friday Week 3, 23 October: Revise the material on Mathematical Logic for our first class test during the workshop.
-  * Tuesday Week 4, 27 October: Watch the videos on "Proof 3: proof strategies".
-  * Friday Week 4, 30 October: Watch the videos on "Logic 3: introduction to predicate logic".
-  * Tuesday Week 5, 3 November: Watch the videos on "Logic 4: the formal side of predicate logic", both parts, and "Logic 5: Set Theory", all three parts.
-  * Friday Week 5, 6 November: Revise all material for our first mock exam.
-
-## Videos and slides
+## Materials
 
 Your lecture videos are hosted on blackboard, the university's content management system.
 
@@ -43,18 +8,88 @@ To access them you must first log in to blackboard at [ole.bris.ac.uk](https://o
 
 If you cannot access the blackboard videos, you must e-mail the school office at coms-info@bristol.ac.uk, not the unit lecturers - lecturers do not have access to the tools to enrol students on units, only the office can do that.
 
-The slides-only versions of the presentations are hosted in the Teams group. You can access them from the _Files_ tab in teams, or use the direct links here. (Unlike blackboard, if you click these links when you are not logged in, Teams does the right thing which is show you a login page instead of give an access denied error.)
+Everything else, including worksheets, solutions and PDF versions of the slides, is hosted on the [Teams filestore](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/). It is always safe to use this link - if you are not logged in, then you will get a login page.
 
+## Schedule
 
-  * [logic 1](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/logic-1-6up.pdf)
-  * [logic 2](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/logic-2-6up.pdf)
-  * [proof 1: introduction](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/proof-1-introduction-to-proof-narrated_v3-plain.pdf) and [proof 1: formal reasoning](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/proof-1-formal-reasoning-narrated_v3-plain.pdf)
-  * [proof 2: introduction to inductive proof](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/proof-2-mathematical-induction-narrated-plain_v3.pdf), [example inductive proof](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/proof-2_example_inductive_proof_v2.pdf) and [proof 2: a loop invariant proof](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/proof-2-loop-invariant-proof-narrated-plain_v3.pdf)
-  * [logic 3](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/logic-3-6up.pdf)
-  * [logic 4](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/logic-4-6up.pdf)
-  * [logic 5](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SLIDES/logic-5-6up.pdf)
+The currently planned structure of the activities is as follows, but this may change during term if necessary, in which case we will inform all of you and update this page. In weeks 6 and 11-12 there are currently planned to be no new topics, and unless this plan changes then the workshops in these weeks are not mandatory (and may not take place at all) and do not count towards your 75% attendance hurdle. The mandatory workshops for attendance purposes are weeks 2-5 and 7-10.
 
-You can also browse the [folder of all slides, worksheets and solutions](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/).
+For each week, you should watch the videos associated with each workshop before the workshop itself (on Tuesday or Friday). You will then solve the worksheet in groups during the workshop.
+
+_For organisational reasons, we have decided to delay the start of this unit to Week 2 (starting Monday 12 October)._
+
+### Week 1 (Monday 5 October)
+
+Solve the [A-level revision sheet](files/a-level-revision.pdf) on your own. If there is something you do not understand here, revise it in your own time. This week does not count towards your attendance, as there are no workshops.
+
+### Week 2 (Monday 12 October)
+
+Tuesday workshop:
+
+  * Videos: **logic 1** "propositional logic".
+  * Worksheet: [logic 1](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/logic-1-WS.pdf).
+
+Friday workshop:
+
+  * Videos: **logic 2** "Boolean algebra".
+  * Worksheet: [logic 2](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/logic-2-WS.pdf).
+
+### Week 3 (Monday 19 October)
+
+Tuesday workshop:
+
+  * Videos: **proof 1** "introduction to proof" and **proof 2** "mathematical induction".
+  * Worksheet: [proof 1](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/proof-1-WS.pdf).
+
+_There was a technical problem with uploading the induction videos on time. If you did not manage to watch them before the workshop, that is not your fault - please watch them and solve the induction questions on the worksheet in your own time._
+
+Friday workshop:
+
+The worksheet is replaced with a class test. No new videos to watch, but please catch up on mathematical induction if you did not watch it yet. This counts as a normal workshop for attendance purposes.
+
+### Week 4 (Monday 26 October)
+
+Tuesday workshop:
+
+  * Videos: **proof 3** "proof strategies".
+  * Worksheet: [proof 2](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/proof-2-WS.pdf) (note, videos and worksheets are not in sync today)
+
+Friday workshop:
+
+  * Videos: **logic 3** "predicate logic".
+  * Worksheet: [logic 3](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/logic-3-WS.pdf)
+
+### Week 5 (Monday 2 November)
+
+Tuesday workshop:
+
+  * Videos: **logic 4** "the formal side" and **logic 5** "set theory".
+  * Worksheet: [logic and proof](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/logic-and-proof-WS.pdf) (revision worksheet).
+
+Friday workshop:
+
+No new videos. In the workshop, we will hold a mock exam. This counts as a normal workshop for attendance purposes.
+
+### Week 6 (Monday 9 November)
+
+We currently plan to pause teaching in Week 6 and to use it as a revision/catch-up week for you. Details to follow.
+
+Workshops during this week will not be mandatory (and may not exist at all) and will not count towards your attendance target.
+
+### Week 7 onwards
+
+We start with our second topic, _Combinatorics and Probability_. This is our current plan:
+
+| Week | Starts on   | Activity 1 (workshop)                      | Activity 2 (workshop)           |
+|-----:|-------------|--------------------------------------------|---------------------------------|
+|    7 | 16 November | combinatorics                              | probability                     |
+|    8 | 23 November | conditional probability, Bayes             | class test                      |
+|    9 | 30 November | random variables                           | discrete distributions          |
+|   10 |  7 December | continuous probability                     | mock exam                       |
+|   11 | 14 December | --                                         | --                              |
+|   12 | 11 Jan 2021 | --                                         | --                              |
+
+Week 12 is in January, before the start of the exam period where you will sit the exam for this unit. 
 
 ## Workshop rooms
 
@@ -66,22 +101,9 @@ The workshops will be held on Microsoft Teams. Open [teams.microsoft.com](http:/
 
 You are reminded that attending the workshops is mandatory.
 
-## Problem sheets
-
-Problem sheets for each workshop session will be handed out in the workshop itself. Afterwards, links to the problem sheets and sample solutions will appear below on this page.
-
-These are hosted on blackboard, so they are only available to enrolled students. You will need to sign in to blackboard before accessing these.
-
-  * [Logic 1 problems](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/logic-1-WS.pdf)
-  * [Logic 2 problems](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/logic-2-WS.pdf)
-  * [Proof 1 problems](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/proof-1-WS.pdf)
-  * [Proof 2 problems](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/proof-2-WS.pdf)
-  * [Logic 3 problems](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/logic-3-WS.pdf)
-  * [Logic and proof revision problems](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/WORKSHEETS/logic-and-proof-WS.pdf)
-
 ## Solutions
 
-Solutions will appear here week by week.
+Solutions are hosted in the same filestore as the worksheets, and will be uploaded at the end of each week. The currently published ones are:
 
-  * [Logic 1](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SOLUTIONS/logic-1-SOL.pdf)
-  * [Logic 2](https://uob.sharepoint.com/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SOLUTIONS/logic-2-SOL.pdf)
+  * [logic 1](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SOLUTIONS/logic-1-SOL.pdf)
+  * [logic 2](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SOLUTIONS/logic-2-SOL.pdf)
