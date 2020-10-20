@@ -6,20 +6,20 @@ The currently planned structure of the activities is as follows, but this may ch
 
 _For organisational reasons, we have decided to delay the start of this unit to Week 2 (starting Monday 12 October)._
 
-| Week | Starts on   | Activity 1                     | Activity 2             |
-|-----:|-------------|--------------------------------|------------------------|
-|    1 |  5 October  | --                             | --                     |
-|    2 | 12 October  | propositional logic            | Boolean algebra        |
-|    3 | 19 October  | proofs                         | class test             |
-|    4 | 26 October  | proof strategies               | predicate logic        |
-|    5 |  2 November | logic and proof revision       | mock exam              |
-|    6 |  9 November | --                             | --                     |
-|    7 | 16 November | combinatorics                  | probability            |
-|    8 | 23 November | conditional probability, Bayes | class test             |
-|    9 | 30 November | random variables               | discrete distributions |
-|   10 |  7 December | continuous probability         | mock exam              |
-|   11 | 14 December | --                             | --                     |
-|   12 | 11 Jan 2021 | --                             | --                     |
+| Week | Starts on   | Activity 1                                 | Activity 2                      |
+|-----:|-------------|--------------------------------------------|---------------------------------|
+|    1 |  5 October  | --                                         | --                              |
+|    2 | 12 October  | propositional logic (logic-1)              | Boolean algebra (logic-2)       |
+|    3 | 19 October  | proofs (proof-1)                           | class test                      |
+|    4 | 26 October  | proof strategies (proof-2)                 | predicate logic (logic-3)       |
+|    5 |  2 November | logic and proof revision (logic-and-proof) | mock exam                       |
+|    6 |  9 November | --                                         | --                              |
+|    7 | 16 November | combinatorics                              | probability                     |
+|    8 | 23 November | conditional probability, Bayes             | class test                      |
+|    9 | 30 November | random variables                           | discrete distributions          |
+|   10 |  7 December | continuous probability                     | mock exam                       |
+|   11 | 14 December | --                                         | --                              |
+|   12 | 11 Jan 2021 | --                                         | --                              |
 
 Week 12 is in January, before the start of the exam period where you will sit the exam for this unit. Due to limited TA budget this year, it is not clear yet whether we will be able to offer any TA support in the weeks where there are no workshops - TAs are paid by the hour and it would not be fair on them to ask them to support students for extra hours which we cannot pay them for. If there is no TA budget for the remaining weeks, then the best I can offer is that you should support each other. Hopefully, by then you will be on good terms with the rest of your bubble.
 
