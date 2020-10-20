@@ -26,13 +26,13 @@ Week 12 is in January, before the start of the exam period where you will sit th
 Please prepare for the workshops as follows:
 
   * Week 1: no workshops, but please complete the questions in our [A-level revision sheet](files/a-level-revision.pdf) on your own. You should be able to do all of these, but if not, then you know that you need to revise some A level mathematics material in your own time.
-  * Tuesday Week 2, 13 October: Watch the video "Logic 1: Introduction to Mathematical Logic" (see the videos section below).
+  * Tuesday Week 2, 13 October: Watch the video "Logic 1: introduction to mathematical logic" (see the videos section below).
   * Friday Week 2, 16 October: Watch the videos titled "Logic 2" (this is one "lecture" but split into several parts).
   * Tuesday Week 3, 20 October: Watch the videos on "Proof 1: introduction to proof" and  "Proof 2: mathematical induction", parts I and II.
   * Friday Week 3, 23 October: Revise the material on Mathematical Logic for our first class test during the workshop.
   * Tuesday Week 4, 27 October: Watch the videos on "Proof 3: proof strategies".
   * Friday Week 4, 30 October: Watch the videos on "Logic 3: introduction to predicate logic".
-  * Tuesday Week 5, 3 November: Watch the videos on "Logic 4: the formal side of predicate logic" and "Logic 5: Set Theory", all three parts.
+  * Tuesday Week 5, 3 November: Watch the videos on "Logic 4: the formal side of predicate logic", both parts, and "Logic 5: Set Theory", all three parts.
   * Friday Week 5, 6 November: Revise all material for our first mock exam.
 
 ## Videos and slides
