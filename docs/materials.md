@@ -108,3 +108,5 @@ Solutions are hosted in the same filestore as the worksheets, and will be upload
   * [logic 1](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SOLUTIONS/logic-1-SOL.pdf)
   * [logic 2](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SOLUTIONS/logic-2-SOL.pdf)
   * [proof 1](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SOLUTIONS/proof-1-SOL.pdf)
+  * [proof 2](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SOLUTIONS/proof-2-SOL.pdf)
+  * [logic 3](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SOLUTIONS/logic-3-SOL.pdf)
