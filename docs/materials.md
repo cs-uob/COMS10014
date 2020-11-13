@@ -110,3 +110,6 @@ Solutions are hosted in the same filestore as the worksheets, and will be upload
   * [proof 1](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SOLUTIONS/proof-1-SOL.pdf)
   * [proof 2](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SOLUTIONS/proof-2-SOL.pdf)
   * [logic 3](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SOLUTIONS/logic-3-SOL.pdf)
+  * [logic and proof revision](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10014MathematicsA102/Shared%20Documents/General/SOLUTIONS/logic-and-proof-SOL.pdf)
+
+There are no sample solutions for the week 5 mock exam, but enrolled students can retake it as often as they want on blackboard and see their score after each attempt.
