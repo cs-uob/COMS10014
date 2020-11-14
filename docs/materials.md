@@ -76,9 +76,12 @@ We currently plan to pause teaching in Week 6 and to use it as a revision/catch-
 
 Workshops during this week will not be mandatory (and may not exist at all) and will not count towards your attendance target.
 
-### Week 7 onwards
+### Week 7
 
-We start with our second topic, _Combinatorics and Probability_. This is our current plan:
+* Notes: [probability and combinatorics](https://github.com/coms10011/2020_21/raw/master/01_probability/1_probability.pdf)
+
+
+This is our current plan for _Combinatorics and Probability_. 
 
 | Week | Starts on   | Activity 1 (workshop)                      | Activity 2 (workshop)           |
 |-----:|-------------|--------------------------------------------|---------------------------------|
