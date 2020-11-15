@@ -79,7 +79,8 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 ### Week 7
 
 * Notes: [probability and combinatorics](https://github.com/coms10011/2020_21/raw/master/01_probability/1_probability.pdf)
-
+* Slides:
+** [slides for lecture 1](https://github.com/coms10011/2020_21/raw/master/01_probability/lecture_1_slides.pdf)
 
 This is our current plan for _Combinatorics and Probability_. 
 
