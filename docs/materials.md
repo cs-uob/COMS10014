@@ -81,6 +81,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 * Notes: [probability and combinatorics (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/1_probability.pdf)
 * Videos:
     * [lecture 1: introducing probability (youtube)](https://youtu.be/m4VZmCaPg6A)
+    * [lecture 2: combinatorics (youtube)](https://youtu.be/NkPpy23FQik)
 * Slides:
     * [slides for lecture 1 (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/lecture_1_slides.pdf)
     * [slides for lecture 2 (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/lecture_2_slides.pdf)
