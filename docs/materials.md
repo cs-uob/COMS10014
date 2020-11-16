@@ -80,9 +80,9 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 
 * Notes: [probability and combinatorics (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/1_probability.pdf)
 * Videos:
-    * [lecture 1: introducing probability (youtube)](https://youtu.be/m4VZmCaPg6A)
-    * [lecture 2: combinatorics (youtube)](https://youtu.be/NkPpy23FQik)
-    * [lecture 3: a quick example from poker (youtube)](https://youtu.be/iPRLjaFcmkE)
+    * [lecture 1: introducing probability (youtube -  slides)](https://youtu.be/m4VZmCaPg6A)
+    * [lecture 2: combinatorics (youtube - slides)](https://youtu.be/NkPpy23FQik)
+    * [lecture 3: a quick example from poker (youtube - visualizer)](https://youtu.be/iPRLjaFcmkE)
 
 * Slides:
     * [slides for lecture 1 (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/lecture_1_slides.pdf)
