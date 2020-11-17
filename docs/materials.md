@@ -90,7 +90,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 * Slides:
     * [slides for lecture 1 (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/lecture_1_slides.pdf)
     * [slides for lecture 2 (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/lecture_2_slides.pdf)
-* Source: [source files (github)](https://github.com/coms10011/2020_21/01_probability)
+* Source: [source files (github)](https://github.com/coms10011/2020_21/tree/master/01_probability)
 
 This is our current plan for _Combinatorics and Probability_. 
 
