@@ -87,7 +87,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
     * [lecture 3: a quick example from poker (youtube - visualizer)](https://youtu.be/iPRLjaFcmkE)
     * [lecture 4: two more examples (youtube - visualizer)](https://youtu.be/IqtLhm3RLs4)
 * Worksheets:
-    * [worksheet 1 (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/ws1.pdf)
+    * [worksheet 1 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws1.pdf)
 
 * Slides:
     * [slides for lecture 1 (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/lecture_1_slides.pdf)
