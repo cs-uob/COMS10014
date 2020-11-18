@@ -123,14 +123,15 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 * Slides:
 
 * Source:
-    * [source files the Bayes theorem (github)](https://github.com/coms10011/2020_21/tree/master/04_random_variables)
-    * [source files the Bayes theorem (github)](https://github.com/coms10011/2020_21/tree/master/05_binomial_distribution)
-    * [source files the Bayes theorem (github)](https://github.com/coms10011/2020_21/tree/master/04_Poisson_distribution)
+    * [source files random variables (github)](https://github.com/coms10011/2020_21/tree/master/04_random_variables)
+    * [source files binomial distribution (github)](https://github.com/coms10011/2020_21/tree/master/05_binomial_distribution)
+    * [source files Poisson distribution (github)](https://github.com/coms10011/2020_21/tree/master/06_Poisson_distribution)
 
 ### Week 10
 
 * Notes:
-
+    * [continuous distributions (pdf)](https://github.com/coms10011/2020_21/raw/master/07_continuous_distribution/7_continuous_distribution.pdf)
+    * [the Gaussian distribution (pdf)](https://github.com/coms10011/2020_21/raw/master/08_Gauss/8_Gauss_distribution.pdf)
     
 * Videos:
 
@@ -139,7 +140,8 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 * Slides:
 
 * Source:
-
+    * [source files continuous distributions (github)](https://github.com/coms10011/2020_21/raw/master/07_continuous_distribution)
+    * [source files the Gaussian distribution (github)](https://github.com/coms10011/2020_21/raw/master/08_Gauss)
 
 
 This is our current plan for _Combinatorics and Probability_. 
