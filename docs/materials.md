@@ -78,7 +78,9 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 
 ### Week 7
 
-* Notes: [probability and combinatorics (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/1_probability.pdf)
+* Notes:
+    * [probability and combinatorics (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/1_probability.pdf)
+    * [conditional probability (pdf)](https://github.com/coms10011/2020_21/raw/master/02_conditional_probability/1_conditional_probability.pdf)
 * Videos:
     * [lecture 1: introducing probability (youtube -  slides)](https://youtu.be/m4VZmCaPg6A)
     * [lecture 2: combinatorics (youtube - slides)](https://youtu.be/NkPpy23FQik)
@@ -90,7 +92,55 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 * Slides:
     * [slides for lecture 1 (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/lecture_1_slides.pdf)
     * [slides for lecture 2 (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/lecture_2_slides.pdf)
-* Source: [source files (github)](https://github.com/coms10011/2020_21/tree/master/01_probability)
+* Source:
+    * [source files probability and combinatorics (github)](https://github.com/coms10011/2020_21/tree/master/01_probability)
+    * [source files conditional probability (github)](https://github.com/coms10011/2020_21/tree/master/02_probability)
+
+### Week 8
+
+* Notes:
+    * [the Bayes theorem (pdf)](https://github.com/coms10011/2020_21/raw/master/03_bayes/3_bayes.pdf)
+* Videos:
+
+* Worksheets:
+
+* Slides:
+
+* Source:
+    * [source files the Bayes theorem (github)](https://github.com/coms10011/2020_21/tree/master/03_bayes)
+
+
+### Week 9
+
+* Notes:
+    * [random variables (pdf)](https://github.com/coms10011/2020_21/raw/master/04_random_variables/4_random_variables.pdf)
+    * [binomial distribution (pdf)](https://github.com/coms10011/2020_21/raw/master/05_binomial_distribution/4_binomial_distribution.pdf)
+    * [Poisson distribution (pdf)](https://github.com/coms10011/2020_21/raw/master/06_Poisson_distribution/6_Poisson_distribution.pdf)
+* Videos:
+
+* Worksheets:
+
+* Slides:
+
+* Source:
+    * [source files the Bayes theorem (github)](https://github.com/coms10011/2020_21/tree/master/04_random_variables)
+    * [source files the Bayes theorem (github)](https://github.com/coms10011/2020_21/tree/master/05_binomial_distribution)
+    * [source files the Bayes theorem (github)](https://github.com/coms10011/2020_21/tree/master/04_Poisson_distribution)
+
+### Week 10
+
+* Notes:
+
+    
+* Videos:
+
+* Worksheets:
+
+* Slides:
+
+* Source:
+
+
 
 This is our current plan for _Combinatorics and Probability_. 
 
