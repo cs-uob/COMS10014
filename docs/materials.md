@@ -80,7 +80,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 
 * Notes:
     * [probability and combinatorics (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/1_probability.pdf)
-    * [conditional probability (pdf)](https://github.com/coms10011/2020_21/raw/master/02_conditional_probability/1_conditional_probability.pdf)
+    * [conditional probability (pdf)](https://github.com/coms10011/2020_21/raw/master/02_conditional_probability/2_conditional_probability.pdf)
 * Videos:
     * [lecture 1: introducing probability (youtube -  slides)](https://youtu.be/m4VZmCaPg6A)
     * [lecture 2: combinatorics (youtube - slides)](https://youtu.be/NkPpy23FQik)
