@@ -86,6 +86,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
     * [lecture 2: combinatorics (youtube - slides)](https://youtu.be/NkPpy23FQik)
     * [lecture 3: a quick example from poker (youtube - visualizer)](https://youtu.be/iPRLjaFcmkE)
     * [lecture 4: two more examples (youtube - visualizer)](https://youtu.be/IqtLhm3RLs4)
+    * [lecture 4: conditional probability (youtube - slides)](https://youtu.be/HFqQ-PbeAO4)
 * Worksheets:
     * [worksheet 1 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws1.pdf)
     * [worksheet 2 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws2.pdf)	
