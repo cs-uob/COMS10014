@@ -93,6 +93,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 * Slides:
     * [slides for lecture 1 (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/lecture_1_slides.pdf)
     * [slides for lecture 2 (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/lecture_2_slides.pdf)
+    * [slides for lecture 5 (pdf)](https://github.com/coms10011/2020_21/raw/master/02_conditional_probability/lecture_5_slides.pdf)	
 * Source:
     * [source files probability and combinatorics (github)](https://github.com/coms10011/2020_21/tree/master/01_probability)
     * [source files conditional probability (github)](https://github.com/coms10011/2020_21/tree/master/02_probability)
