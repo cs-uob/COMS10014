@@ -111,7 +111,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 * Worksheets:
 
 * Slides:
-
+    * [slides for lecture 8 (pdf)](https://github.com/coms10011/2020_21/raw/master/03_bayes/lecture_8_slides.pdf)	
 * Source:
     * [source files the Bayes theorem (github)](https://github.com/coms10011/2020_21/tree/master/03_bayes)
 
