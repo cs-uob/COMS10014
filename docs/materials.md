@@ -107,7 +107,8 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
     * [The Bayes theorem (pdf)](https://github.com/coms10011/2020_21/raw/master/03_bayes/3_bayes.pdf)
 * Videos:
     * [lecture 7: Bayes' theorem (youtube - visualizer)](https://youtu.be/T-couJdnpzQ)
-    
+    * [lecture 8: Conditional independence (youtube - slides)](https://youtu.be/UyNTsRi89qE)
+
 * Worksheets:
 
 * Slides:
