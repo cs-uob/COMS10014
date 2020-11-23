@@ -91,6 +91,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 
 * Worksheets:
     * [worksheet 1 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws1.pdf)
+    * [worksheet 1 solutions (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws1.solns.pdf)	
     * [worksheet 2 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws2.pdf)	
 
 * Slides:
@@ -110,7 +111,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
     * [lecture 8: Conditional independence (youtube - slides)](https://youtu.be/UyNTsRi89qE)
 
 * Worksheets:
-
+    * [worksheet 3 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws3.pdf)
 * Slides:
     * [slides for lecture 8 (pdf)](https://github.com/coms10011/2020_21/raw/master/03_bayes/lecture_8_slides.pdf)	
 * Source:
