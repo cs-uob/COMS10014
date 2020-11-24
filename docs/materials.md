@@ -92,7 +92,8 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 * Worksheets:
     * [worksheet 1 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws1.pdf)
     * [worksheet 1 solutions (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws1.solns.pdf)	
-    * [worksheet 2 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws2.pdf)	
+    * [worksheet 2 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws2.pdf)
+    * [worksheet 2 solutions (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws2.solns.pdf)		
 
 * Slides:
     * [slides for lecture 1 (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/lecture_1_slides.pdf)
@@ -106,12 +107,15 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 
 * Notes:
     * [The Bayes theorem (pdf)](https://github.com/coms10011/2020_21/raw/master/03_bayes/3_bayes.pdf)
+
 * Videos:
     * [lecture 7: Bayes' theorem (youtube - visualizer)](https://youtu.be/T-couJdnpzQ)
     * [lecture 8: Conditional independence (youtube - slides)](https://youtu.be/UyNTsRi89qE)
 
 * Worksheets:
     * [worksheet 3 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws3.pdf)
+    * [worksheet 3 solutions (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws3.solns.pdf)	
+
 * Slides:
     * [slides for lecture 8 (pdf)](https://github.com/coms10011/2020_21/raw/master/03_bayes/lecture_8_slides.pdf)	
 * Source:
