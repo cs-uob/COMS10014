@@ -111,13 +111,16 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 * Videos:
     * [lecture 7: Bayes' theorem (youtube - visualizer)](https://youtu.be/T-couJdnpzQ)
     * [lecture 8: Conditional independence (youtube - slides)](https://youtu.be/UyNTsRi89qE)
+    * [lecture 9: Naive Bayes classifier (youtube - slides)](https://youtu.be/UQnIz2w6tZs)
 
 * Worksheets:
     * [worksheet 3 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws3.pdf)
     * [worksheet 3 solutions (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws3.solns.pdf)	
     * [class test (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/test.pdf)
+    * [class test solutions (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/test.solns.pdf)
 * Slides:
-    * [slides for lecture 8 (pdf)](https://github.com/coms10011/2020_21/raw/master/03_bayes/lecture_8_slides.pdf)	
+    * [slides for lecture 8 (pdf)](https://github.com/coms10011/2020_21/raw/master/03_bayes/lecture_8_slides.pdf)
+    * [slides for lecture 9 (pdf)](https://github.com/coms10011/2020_21/raw/master/03_bayes/lecture_9_slides.pdf)	
 * Source:
     * [source files the Bayes theorem (github)](https://github.com/coms10011/2020_21/tree/master/03_bayes)
 
