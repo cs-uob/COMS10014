@@ -132,11 +132,12 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
     * [binomial distribution (pdf)](https://github.com/coms10011/2020_21/raw/master/05_binomial_distribution/4_binomial_distribution.pdf)
     * [Poisson distribution (pdf)](https://github.com/coms10011/2020_21/raw/master/06_Poisson_distribution/6_Poisson_distribution.pdf)
 * Videos:
+    * [lecture 9: Random variables (youtube - slides)](https://youtu.be/SLMaAnok4Os)
 
 * Worksheets:
 
 * Slides:
-
+    * [slides for lecture 10 (pdf)](https://github.com/coms10011/2020_21/raw/master/04_random_variables/lecture_10_slides.pdf)
 * Source:
     * [source files random variables (github)](https://github.com/coms10011/2020_21/tree/master/04_random_variables)
     * [source files binomial distribution (github)](https://github.com/coms10011/2020_21/tree/master/05_binomial_distribution)
