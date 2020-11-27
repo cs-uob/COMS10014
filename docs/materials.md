@@ -115,7 +115,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 * Worksheets:
     * [worksheet 3 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws3.pdf)
     * [worksheet 3 solutions (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws3.solns.pdf)	
-
+    * [class test (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/test.pdf)
 * Slides:
     * [slides for lecture 8 (pdf)](https://github.com/coms10011/2020_21/raw/master/03_bayes/lecture_8_slides.pdf)	
 * Source:
