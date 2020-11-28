@@ -132,7 +132,8 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
     * [binomial distribution (pdf)](https://github.com/coms10011/2020_21/raw/master/05_binomial_distribution/4_binomial_distribution.pdf)
     * [Poisson distribution (pdf)](https://github.com/coms10011/2020_21/raw/master/06_Poisson_distribution/6_Poisson_distribution.pdf)
 * Videos:
-    * [lecture 9: Random variables (youtube - slides)](https://youtu.be/SLMaAnok4Os)
+    * [lecture 10: Random variables (youtube - slides)](https://youtu.be/SLMaAnok4Os)
+    * [lecture 11: The joint distribution (youtube - visualizer)](https://youtu.be/xxqJ2qG-1nM)
 
 * Worksheets:
 
