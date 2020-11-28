@@ -139,6 +139,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 
 * Slides:
     * [slides for lecture 10 (pdf)](https://github.com/coms10011/2020_21/raw/master/04_random_variables/lecture_10_slides.pdf)
+    * [slides for lecture 12 (pdf)](https://github.com/coms10011/2020_21/raw/master/04_random_variables/lecture_12_slides.pdf)	
 * Source:
     * [source files random variables (github)](https://github.com/coms10011/2020_21/tree/master/04_random_variables)
     * [source files binomial distribution (github)](https://github.com/coms10011/2020_21/tree/master/05_binomial_distribution)
