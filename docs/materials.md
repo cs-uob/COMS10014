@@ -134,7 +134,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 * Videos:
     * [lecture 10: Random variables (youtube - slides)](https://youtu.be/SLMaAnok4Os)
     * [lecture 11: The joint distribution (youtube - visualizer)](https://youtu.be/xxqJ2qG-1nM)
-
+    * [lecture 12: Expected values (youtube - slides)](https://youtu.be/_YmTIHCNAUg)
 * Worksheets:
 
 * Slides:
