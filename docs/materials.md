@@ -137,7 +137,8 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
     * [lecture 12: Expected values (youtube - slides)](https://youtu.be/_YmTIHCNAUg)
     * [lecture 13: The binomial distribution (youtube - visualizer)](https://youtu.be/cERVjRttFr4)
 * Worksheets:
-
+    * [worksheet 4 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws4.pdf)
+    
 * Slides:
     * [slides for lecture 10 (pdf)](https://github.com/coms10011/2020_21/raw/master/04_random_variables/lecture_10_slides.pdf)
     * [slides for lecture 12 (pdf)](https://github.com/coms10011/2020_21/raw/master/04_random_variables/lecture_12_slides.pdf)	
