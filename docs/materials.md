@@ -87,7 +87,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
     * [lecture 3: a quick example from poker (youtube - visualizer)](https://youtu.be/iPRLjaFcmkE)
     * [lecture 4: two more examples (youtube - visualizer)](https://youtu.be/IqtLhm3RLs4)
     * [lecture 5: conditional probability (youtube - slides)](https://youtu.be/HFqQ-PbeAO4)
-    * [lecture 6: conditional probability (youtube - visualizer)](https://youtu.be/tywtuVCu6T4)
+    * [lecture 6: conditional probability examples (youtube - visualizer)](https://youtu.be/tywtuVCu6T4)
 
 * Worksheets:
     * [worksheet 1 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws1.pdf)
@@ -135,6 +135,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
     * [lecture 10: Random variables (youtube - slides)](https://youtu.be/SLMaAnok4Os)
     * [lecture 11: The joint distribution (youtube - visualizer)](https://youtu.be/xxqJ2qG-1nM)
     * [lecture 12: Expected values (youtube - slides)](https://youtu.be/_YmTIHCNAUg)
+    * [lecture 13: The binomial distribution (youtube - visualizer)](https://youtu.be/cERVjRttFr4)
 * Worksheets:
 
 * Slides:
