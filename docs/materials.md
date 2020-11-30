@@ -136,6 +136,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
     * [lecture 11: The joint distribution (youtube - visualizer)](https://youtu.be/xxqJ2qG-1nM)
     * [lecture 12: Expected values (youtube - slides)](https://youtu.be/_YmTIHCNAUg)
     * [lecture 13: The binomial distribution (youtube - visualizer)](https://youtu.be/cERVjRttFr4)
+    * [lecture 14: The Poisson distribution (youtube - visualizer)](https://youtu.be/VEOEiElTNe0)
 * Worksheets:
     * [worksheet 4 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws4.pdf)
     
