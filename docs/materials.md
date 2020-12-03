@@ -139,6 +139,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
     * [lecture 14: The Poisson distribution (youtube - visualizer)](https://youtu.be/1CfCRt4Bntg)
 * Worksheets:
     * [worksheet 4 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws4.pdf)
+    * [worksheet 4 solutions (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws4.solns.pdf)
     
 * Slides:
     * [slides for lecture 10 (pdf)](https://github.com/coms10011/2020_21/raw/master/04_random_variables/lecture_10_slides.pdf)
