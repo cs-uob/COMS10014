@@ -141,6 +141,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
     * [worksheet 4 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws4.pdf)
     * [worksheet 4 solutions (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws4.solns.pdf)
     * [worksheet 5 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws5.pdf)
+    * [worksheet 5 solutions (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws5.solns.pdf)
 * Slides:
     * [slides for lecture 10 (pdf)](https://github.com/coms10011/2020_21/raw/master/04_random_variables/lecture_10_slides.pdf)
     * [slides for lecture 12 (pdf)](https://github.com/coms10011/2020_21/raw/master/04_random_variables/lecture_12_slides.pdf)	
