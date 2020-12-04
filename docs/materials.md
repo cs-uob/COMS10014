@@ -161,7 +161,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 * Worksheets:
 
 * Slides:
-
+    * [slides for lecture 15 (pdf)](https://github.com/coms10011/2020_21/raw/master/07_continuous_distribution/lecture_15_slides.pdf)
 * Source:
     * [source files continuous distributions (github)](https://github.com/coms10011/2020_21/raw/master/07_continuous_distribution)
     * [source files the Gaussian distribution (github)](https://github.com/coms10011/2020_21/raw/master/08_Gauss)
