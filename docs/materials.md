@@ -157,7 +157,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
     * [the Gaussian distribution (pdf)](https://github.com/coms10011/2020_21/raw/master/08_Gauss/8_Gauss_distribution.pdf)
     
 * Videos:
-
+    * [lecture 15: continuous distributions (youtube - slides)](https://youtu.be/au5duss4xPI)
 * Worksheets:
 
 * Slides:
