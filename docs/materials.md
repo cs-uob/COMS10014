@@ -158,6 +158,8 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
     
 * Videos:
     * [lecture 15: continuous distributions (youtube - slides)](https://youtu.be/au5duss4xPI)
+    * [lecture 16: more expected values (youtube - visualizer)](https://youtu.be/hQGDAjPvLe8)
+    
 * Worksheets:
 
 * Slides:
