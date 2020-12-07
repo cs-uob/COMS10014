@@ -161,7 +161,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
     * [lecture 16: more expected values (youtube - visualizer)](https://youtu.be/hQGDAjPvLe8)
     
 * Worksheets:
-
+    * [worksheet 6 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws6.pdf)
 * Slides:
     * [slides for lecture 15 (pdf)](https://github.com/coms10011/2020_21/raw/master/07_continuous_distribution/lecture_15_slides.pdf)
 * Source:
