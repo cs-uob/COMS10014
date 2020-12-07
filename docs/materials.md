@@ -153,7 +153,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 ### Week 10
 
 * Notes:
-    * [continuous distributions (pdf)](https://github.com/coms10011/2020_21/raw/master/07_continuous_distribution/7_continuous_distribution.pdf)
+    * [continuous distributions (pdf)](https://github.com/coms10011/2020_21/raw/master/07_continuous_distribution/7_continuous_random.pdf)
     * [the Gaussian distribution (pdf)](https://github.com/coms10011/2020_21/raw/master/08_Gauss/8_Gauss_distribution.pdf)
     
 * Videos:
