@@ -162,6 +162,7 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
     * [lecture 17: the Gauss distribution (youtube - visualizer)](https://youtu.be/xTcLKGYbu6U)    
 * Worksheets:
     * [worksheet 6 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws6.pdf)
+    * [worksheet 6 solutions (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws6.solns.pdf)
 * Slides:
     * [slides for lecture 15 (pdf)](https://github.com/coms10011/2020_21/raw/master/07_continuous_distribution/lecture_15_slides.pdf)
 * Source:
