@@ -163,23 +163,13 @@ Workshops during this week will not be mandatory (and may not exist at all) and 
 * Worksheets:
     * [worksheet 6 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws6.pdf)
     * [worksheet 6 solutions (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws6.solns.pdf)
+    * [mock exam solutions (txt)](https://github.com/coms10011/2020_21/raw/master/worksheets/2020-12_mock.txt)
 * Slides:
     * [slides for lecture 15 (pdf)](https://github.com/coms10011/2020_21/raw/master/07_continuous_distribution/lecture_15_slides.pdf)
 * Source:
     * [source files continuous distributions (github)](https://github.com/coms10011/2020_21/raw/master/07_continuous_distribution)
     * [source files the Gaussian distribution (github)](https://github.com/coms10011/2020_21/raw/master/08_Gauss)
 
-
-This is our current plan for _Combinatorics and Probability_. 
-
-| Week | Starts on   | Activity 1 (workshop)                      | Activity 2 (workshop)           |
-|-----:|-------------|--------------------------------------------|---------------------------------|
-|    7 | 16 November | combinatorics                              | probability                     |
-|    8 | 23 November | conditional probability, Bayes             | class test                      |
-|    9 | 30 November | random variables                           | discrete distributions          |
-|   10 |  7 December | continuous probability                     | mock exam                       |
-|   11 | 14 December | --                                         | --                              |
-|   12 | 11 Jan 2021 | --                                         | --                              |
 
 Week 12 is in January, before the start of the exam period where you will sit the exam for this unit. 
 
