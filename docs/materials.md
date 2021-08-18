@@ -76,18 +76,100 @@ We currently plan to pause teaching in Week 6 and to use it as a revision/catch-
 
 Workshops during this week will not be mandatory (and may not exist at all) and will not count towards your attendance target.
 
-### Week 7 onwards
+### Week 7
 
-We start with our second topic, _Combinatorics and Probability_. This is our current plan:
+* Notes:
+    * [probability and combinatorics (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/1_probability.pdf)
+    * [conditional probability (pdf)](https://github.com/coms10011/2020_21/raw/master/02_conditional_probability/2_conditional_probability.pdf)
+* Videos:
+    * [lecture 1: introducing probability (youtube -  slides)](https://youtu.be/m4VZmCaPg6A)
+    * [lecture 2: combinatorics (youtube - slides)](https://youtu.be/NkPpy23FQik)
+    * [lecture 3: a quick example from poker (youtube - visualizer)](https://youtu.be/iPRLjaFcmkE)
+    * [lecture 4: two more examples (youtube - visualizer)](https://youtu.be/IqtLhm3RLs4)
+    * [lecture 5: conditional probability (youtube - slides)](https://youtu.be/HFqQ-PbeAO4)
+    * [lecture 6: conditional probability examples (youtube - visualizer)](https://youtu.be/tywtuVCu6T4)
 
-| Week | Starts on   | Activity 1 (workshop)                      | Activity 2 (workshop)           |
-|-----:|-------------|--------------------------------------------|---------------------------------|
-|    7 | 16 November | combinatorics                              | probability                     |
-|    8 | 23 November | conditional probability, Bayes             | class test                      |
-|    9 | 30 November | random variables                           | discrete distributions          |
-|   10 |  7 December | continuous probability                     | mock exam                       |
-|   11 | 14 December | --                                         | --                              |
-|   12 | 11 Jan 2021 | --                                         | --                              |
+* Worksheets:
+    * [worksheet 1 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws1.pdf)
+    * [worksheet 1 solutions (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws1.solns.pdf)	
+    * [worksheet 2 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws2.pdf)
+    * [worksheet 2 solutions (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws2.solns.pdf)		
+
+* Slides:
+    * [slides for lecture 1 (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/lecture_1_slides.pdf)
+    * [slides for lecture 2 (pdf)](https://github.com/coms10011/2020_21/raw/master/01_probability/lecture_2_slides.pdf)
+    * [slides for lecture 5 (pdf)](https://github.com/coms10011/2020_21/raw/master/02_conditional_probability/lecture_5_slides.pdf)	
+* Source:
+    * [source files probability and combinatorics (github)](https://github.com/coms10011/2020_21/tree/master/01_probability)
+    * [source files conditional probability (github)](https://github.com/coms10011/2020_21/tree/master/02_probability)
+
+### Week 8
+
+* Notes:
+    * [The Bayes theorem (pdf)](https://github.com/coms10011/2020_21/raw/master/03_bayes/3_bayes.pdf)
+
+* Videos:
+    * [lecture 7: Bayes' theorem (youtube - visualizer)](https://youtu.be/T-couJdnpzQ)
+    * [lecture 8: Conditional independence (youtube - slides)](https://youtu.be/UyNTsRi89qE)
+    * [lecture 9: Naive Bayes classifier (youtube - slides)](https://youtu.be/UQnIz2w6tZs)
+
+* Worksheets:
+    * [worksheet 3 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws3.pdf)
+    * [worksheet 3 solutions (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws3.solns.pdf)	
+    * [class test (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/test.pdf)
+    * [class test solutions (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/test.solns.pdf)
+* Slides:
+    * [slides for lecture 8 (pdf)](https://github.com/coms10011/2020_21/raw/master/03_bayes/lecture_8_slides.pdf)
+    * [slides for lecture 9 (pdf)](https://github.com/coms10011/2020_21/raw/master/03_bayes/lecture_9_slides.pdf)	
+* Source:
+    * [source files the Bayes theorem (github)](https://github.com/coms10011/2020_21/tree/master/03_bayes)
+
+
+### Week 9
+
+* Notes:
+    * [random variables (pdf)](https://github.com/coms10011/2020_21/raw/master/04_random_variables/4_random_variables.pdf)
+    * [binomial distribution (pdf)](https://github.com/coms10011/2020_21/raw/master/05_binomial_distribution/5_binomial_distribution.pdf)
+    * [Poisson distribution (pdf)](https://github.com/coms10011/2020_21/raw/master/06_Poisson_distribution/6_Poisson_distribution.pdf)
+* Videos:
+    * [lecture 10: Random variables (youtube - slides)](https://youtu.be/SLMaAnok4Os)
+    * [lecture 11: The joint distribution (youtube - visualizer)](https://youtu.be/xxqJ2qG-1nM)
+    * [lecture 12: Expected values (youtube - slides)](https://youtu.be/_YmTIHCNAUg)
+    * [lecture 13: The binomial distribution (youtube - visualizer)](https://youtu.be/cERVjRttFr4)
+    * [lecture 14: The Poisson distribution (youtube - visualizer)](https://youtu.be/1CfCRt4Bntg)
+* Worksheets:
+    * [worksheet 4 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws4.pdf)
+    * [worksheet 4 solutions (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws4.solns.pdf)
+    * [worksheet 5 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws5.pdf)
+    * [worksheet 5 solutions (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws5.solns.pdf)
+* Slides:
+    * [slides for lecture 10 (pdf)](https://github.com/coms10011/2020_21/raw/master/04_random_variables/lecture_10_slides.pdf)
+    * [slides for lecture 12 (pdf)](https://github.com/coms10011/2020_21/raw/master/04_random_variables/lecture_12_slides.pdf)	
+* Source:
+    * [source files random variables (github)](https://github.com/coms10011/2020_21/tree/master/04_random_variables)
+    * [source files binomial distribution (github)](https://github.com/coms10011/2020_21/tree/master/05_binomial_distribution)
+    * [source files Poisson distribution (github)](https://github.com/coms10011/2020_21/tree/master/06_Poisson_distribution)
+
+### Week 10
+
+* Notes:
+    * [continuous distributions (pdf)](https://github.com/coms10011/2020_21/raw/master/07_continuous_distribution/7_continuous_random.pdf)
+    * [the Gaussian distribution (pdf)](https://github.com/coms10011/2020_21/raw/master/08_Gauss/8_Gauss_distribution.pdf)
+    
+* Videos:
+    * [lecture 15: continuous distributions (youtube - slides)](https://youtu.be/au5duss4xPI)
+    * [lecture 16: more expected values (youtube - visualizer)](https://youtu.be/hQGDAjPvLe8)
+    * [lecture 17: the Gauss distribution (youtube - visualizer)](https://youtu.be/xTcLKGYbu6U)    
+* Worksheets:
+    * [worksheet 6 (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws6.pdf)
+    * [worksheet 6 solutions (pdf)](https://github.com/coms10011/2020_21/raw/master/worksheets/ws6.solns.pdf)
+    * [mock exam solutions (txt)](https://github.com/coms10011/2020_21/raw/master/worksheets/2020-12_mock.txt)
+* Slides:
+    * [slides for lecture 15 (pdf)](https://github.com/coms10011/2020_21/raw/master/07_continuous_distribution/lecture_15_slides.pdf)
+* Source:
+    * [source files continuous distributions (github)](https://github.com/coms10011/2020_21/raw/master/07_continuous_distribution)
+    * [source files the Gaussian distribution (github)](https://github.com/coms10011/2020_21/raw/master/08_Gauss)
+
 
 Week 12 is in January, before the start of the exam period where you will sit the exam for this unit. 
 
