@@ -34,3 +34,57 @@ Before the workshop, please watch the following videos:
 The worksheet for this workshop is
 
   - [Logic 2](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/logic-2-WS.pdf)
+
+## Week 2, Thursday (7 October)
+
+Before the workshop, please watch the following videos:
+
+  - [Proof 1 (introduction, 18 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949648_1&course_id=_247724_1)
+  - [Proof 1 (formal reasoning, 24 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949649_1&course_id=_247724_1)
+
+There will be a formative class test in the workshop. Formative means that the class test will not count towards your unit grade, but it will count towards your attendance and it will give you feedback on how you are doing early on in this unit.
+
+## Week 3, Monday (11 October)
+
+Before the workshop, please watch the following videos:
+
+  - [Proof 2 (inductive proof, 26 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949650_1&course_id=_247724_1)
+  - [Proof 2 (invariants, 28 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949651_1&course_id=_247724_1)
+
+The worksheet for this workshop is
+
+  - [Proof 1](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/proof-1-WS.pdf)
+
+## Week 3, Thursday (14 October)
+
+Before the workshop, please watch the following videos:
+
+  - [Proof 3 (strategies, 49 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949652_1&course_id=_247724_1)
+
+The worksheet for this workshop is
+
+  - [Proof 2](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/proof-2-WS.pdf)
+
+## Week 4, Monday (18 October)
+
+Before the workshop, please watch the following videos:
+
+  - [Logic 3 (predicates, 4 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949653_1&course_id=_247724_1)
+  - [Logic 3 (programming, 11 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949654_1&course_id=_247724_1)
+  - [Logic 3 (quantifiers, 15 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949655_1&course_id=_247724_1)
+  - [Logic 3 (using quantifiers, 13 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949656_1&course_id=_247724_1)
+
+The worksheet for this workshop is
+
+  - [Logic 3](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/logic-3-WS.pdf)
+
+## Week 4, Thursday (21 October)
+
+Before the workshop, please watch the following videos:
+
+  - [Logic 4 (syntax, 10 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949657_1&course_id=_247724_1)
+  - [Logic 4 (translating, 22 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949658_1&course_id=_247724_1)
+
+The worksheet for this workshop is
+
+  - [Logic and Proof](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/logic-and-proof-WS.pdf)
