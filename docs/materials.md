@@ -10,6 +10,8 @@ You do not need to prepare anything for this workshop, just turn up at 1pm - eit
 
 The worksheet for this workshop will be [Logic Puzzles](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/WORKSHOPS/W0-WS.pdf).
 
+The [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SOLUTIONS/W0-SOL.pdf) are now available.
+
 ## Week 1, Thursday (30 September)
 
 Before the workshop, please watch the following video.
