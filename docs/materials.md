@@ -22,6 +22,7 @@ _For all video links, you will need to be logged in to blackboard first, which y
 The worksheet for this workshop is
 
   - [Logic 1](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/WORKSHOPS/logic-1-WS.pdf)
+  - [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SOLUTIONS/logic-1-SOL.pdf)
 
 ## Week 2, Monday (4 October)
 
