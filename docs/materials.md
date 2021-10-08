@@ -56,7 +56,7 @@ Before the workshop, please watch the following videos:
 
   - [Proof 2 (inductive proof, 26 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949650_1&course_id=_247724_1)
   - [Proof 2 (invariants, 28 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949651_1&course_id=_247724_1)
-  - [slides part 1](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SLIDES/W3-L1-Proof-2/proof-2-mathematical-induction-narrated_v3-plain.pdf) and [slides part 2](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SLIDES/W3-L1-Proof-2/proof-2-loop-invariant-proof-narrated_v3-plain.pdf)
+  - [slides part 1](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SLIDES/W3-L1-Proof-2/proof-2-mathematical-induction-narrated-plain_v3.pdf) and [slides part 2](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SLIDES/W3-L1-Proof-2/proof-2-loop-invariant-proof-narrated-plain_v3.pdf)
 
 The worksheet for this workshop is
 
