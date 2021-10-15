@@ -62,7 +62,7 @@ Before the workshop, please watch the following videos:
 The worksheet for this workshop is
 
   - [Proof 1](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/WORKSHOPS/proof-1-WS.pdf)
-  - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/WORKSHOPS/proof-1-SOL.pdf)
+  - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SOLUTIONS/proof-1-SOL.pdf)
 
 ## Week 3, Thursday (14 October)
 
@@ -74,6 +74,7 @@ Before the workshop, please watch the following videos:
 The worksheet for this workshop is
 
   - [Proof 2](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/WORKSHOPS/proof-2-WS.pdf)
+  - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SOLUTIONS/proof-2-SOL.pdf)
 
 ## Week 4, Monday (18 October)
 
