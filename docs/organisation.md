@@ -14,11 +14,11 @@ Each week, you will complete two _activities_, in which you will
 
 The timetabled sessions for this unit are:
 
-  * Monday, 1-3pm: workshop 1 (mandatory)
-  * Thursday, 9:30-11:30am: workshop 2 (mandatory)
+  * Monday, 12:30-14:10pm: workshop 1 (mandatory)
+  * Thursday, 9:30-11:10am: workshop 2 (mandatory)
   * Friday, 10-11am: drop-in session (optional, online only)
 
-_Note: the Thursday session has been moved to a 9:30 start (from 10am) as of Week 2 to avoid a room booking conflict._
+_The workshop times do not start/end on the full hour so that the university has time to set up the room in "workshop mode" and put it back again afterwards._
 
 Your first workshop will be on Monday 27 September, known as "Week 1" in the university calendar.
 
