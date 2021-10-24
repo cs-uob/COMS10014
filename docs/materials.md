@@ -110,7 +110,8 @@ Before the workshop, please watch the following videos:
   - [Logic 5 (properties of sets, 10 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949660_1&course_id=_247724_1)
   - [Logic 5 (cardinality, 14 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949661_1&course_id=_247724_1)
 
-The worksheet for this workshop will be released soon.
+The worksheet for this workshop is
+  - [Sets](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/WORKSHOPS/sets-WS.pdf)
 
 ## Week 5, Thursday (4 November)
 
