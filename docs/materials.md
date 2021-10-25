@@ -89,6 +89,8 @@ Before the workshop, please watch the following videos:
 The worksheet for this workshop is
 
   - [Logic 3](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/WORKSHOPS/logic-3-WS.pdf)
+  - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SOLUTIONS/logic-3-SOL.pdf)
+
 
 ## Week 4, Thursday (21 October)
 
@@ -101,6 +103,8 @@ Before the workshop, please watch the following videos:
 The worksheet for this workshop is
 
   - [Logic and Proof](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/WORKSHOPS/logic-and-proof-WS.pdf)
+  - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SOLUTIONS/logic-and-proof-SOL.pdf)
+
 
 ## Week 5, Monday (25 October)
 
