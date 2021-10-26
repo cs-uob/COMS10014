@@ -117,6 +117,8 @@ Before the workshop, please watch the following videos:
 
 The worksheet for this workshop is
   - [Sets](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/WORKSHOPS/sets-WS.pdf)
+  - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SOLUTIONS/sets-SOL.pdf)
+
 
 ## Week 5, Thursday (28 October)
 
