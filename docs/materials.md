@@ -122,7 +122,11 @@ The worksheet for this workshop is
 
 ## Week 5, Thursday (28 October)
 
-_The videos for this week will be released soon._
+The following two videos give you an introduction to functions and relations. There is no workshop associated with this topic.
+
+  - [Logic 6 (Introduction to Functions (and Relations), 22 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_6224983_1&course_id=_247724_1)
+  - [Logic 6 (Introduction to Relations, 26 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_6224984_1&course_id=_247724_1)
+  - [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SLIDES/W5-L2-Logic-6/logic-6-slides.pdf)
 
 The Thursday workshop will be a mock exam. This will both give you an opportunity to review your learning and get feedback on your progress, as you will see your results afterwards, and practice with the online format of the January exam. The mock exam does not count towards your unit mark.
 
