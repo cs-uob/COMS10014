@@ -124,7 +124,7 @@ The worksheet for this workshop is
 
 The following two videos give you an introduction to functions and relations. There is no workshop associated with this topic.
 
-  - [Logic 6 (Introduction to Functions (and Relations), 22 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_6224983_1&course_id=_247724_1)
+  - [Logic 6 (Introduction to Functions (and Relations), 23 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_6224983_1&course_id=_247724_1)
   - [Logic 6 (Introduction to Relations, 26 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_6224984_1&course_id=_247724_1)
   - [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SLIDES/W5-L2-Logic-6/logic-6-slides.pdf)
 
