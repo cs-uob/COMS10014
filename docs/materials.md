@@ -133,3 +133,23 @@ The Thursday workshop will be a mock exam. This will both give you an opportunit
   - From 9:30 to 10:30, take the mock exam online on blackboard.
   - Attendance for Thursday is given for taking the mock exam. You do not need to achieve a minimum mark to get attendance.
   - From 10:30-11:15, you may turn up either online or in person if you are in Group 2, and TAs will be around to help you with any questions about the mock exam material.
+
+## Week 7, Monday (8 November)
+
+There are four lectures introducing probability, defining some of the
+initial concepts and describing how to calculate probabilities when
+they can be calculated by counting:
+
+ - [Probability 1 (Introduction to probability) 15 minutes](https://web.microsoftstream.com/video/57a96bd7-ada1-46f7-b0c5-80244b3d7c40)
+ - [Probability 2 (Combinatorics) 16 minutes](https://www.youtube.com/watch?v=NkPpy23FQik)
+ - [Probability 3 (A quick example from poker) 6 minutes](https://www.youtube.com/watch?v=NkPpy23FQik)
+ - [Probability 4 (Some more examples) 17 minutes](https://www.youtube.com/watch?v=IqtLhm3RLs4)
+
+There is also a set of printed notes for this material:
+
+ - [Probability and Combinatorics (pdf)](https://github.com/coms10011/2020_21/blob/master/01_probability/1_probability.pdf)
+
+and the slides for lectures 1 and 2 are available:
+
+- [Slides for lectures 1 and 2 (github)](https://github.com/coms10011/2020_21/tree/master/01_probability)
+
