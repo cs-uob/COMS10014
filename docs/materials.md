@@ -144,10 +144,10 @@ There are four lectures introducing probability, defining some of the
 initial concepts and describing how to calculate probabilities when
 they can be calculated by counting:
 
- - [Probability 1 (Introduction to probability) 15 minutes](https://web.microsoftstream.com/video/57a96bd7-ada1-46f7-b0c5-80244b3d7c40)
- - [Probability 2 (Combinatorics) 16 minutes](https://www.youtube.com/watch?v=NkPpy23FQik)
- - [Probability 3 (A quick example from poker) 6 minutes](https://www.youtube.com/watch?v=NkPpy23FQik)
- - [Probability 4 (Some more examples) 17 minutes](https://www.youtube.com/watch?v=IqtLhm3RLs4)
+ - [Probability 1 (Introduction to probability 15 minutes)](https://web.microsoftstream.com/video/57a96bd7-ada1-46f7-b0c5-80244b3d7c40)
+ - [Probability 2 (Combinatorics 16 minutes)](https://www.youtube.com/watch?v=NkPpy23FQik)
+ - [Probability 3 (A quick example from poker 6 minutes)](https://www.youtube.com/watch?v=NkPpy23FQik)
+ - [Probability 4 (Some more examples 17 minutes)](https://www.youtube.com/watch?v=IqtLhm3RLs4)
 
 There is also a set of printed notes for this material:
 
@@ -160,8 +160,15 @@ and the slides for lectures 1 and 2 are available:
 01_probability/2_probability.pdf
 ## Week 7, Thursday (11 November)
 
+There are two lectures about conditional probability:
+
+ - [Probability 5 (Conditional probability 9 minutes)](https://web.microsoftstream.com/video/761d2d39-8ee2-47a2-9bea-fbb5101cf8a4)
+ - [Probability 6 (conditional probability examples 14 minutes)](https://www.youtube.com/watch?v=tywtuVCu6T4)
+
 These are the printed notes for this material:
 
  - [Probability and Combinatorics (pdf)](https://github.com/coms10011/2020_21/blob/master/02_conditional_probability/02_conditional_probability.pdf)
+
+
 
 The lectures will follow.
