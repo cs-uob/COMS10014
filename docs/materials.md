@@ -110,9 +110,11 @@ Before the workshop, please watch the following videos:
   - [Logic 5 (properties of sets, 10 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949660_1&course_id=_247724_1)
   - [Logic 5 (cardinality, 14 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949661_1&course_id=_247724_1)
 
-The worksheet for this workshop will be released soon.
+The worksheet for this workshop is
 
-## Week 5, Thursday (4 November)
+  - [Sets](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/WORKSHOPS/sets-WS.pdf)
+
+## Week 5, Thursday (28 October)
 
 _The videos for this week will be released soon._
 
@@ -121,3 +123,24 @@ The Thursday workshop will be a mock exam. This will both give you an opportunit
   - From 9:30 to 10:30, take the mock exam online on blackboard.
   - Attendance for Thursday is given for taking the mock exam. You do not need to achieve a minimum mark to get attendance.
   - From 10:30-11:15, you may turn up either online or in person if you are in Group 2, and TAs will be around to help you with any questions about the mock exam material.
+
+## Week 6
+
+Week 6 is reading week, there are no lectures or workshops.
+
+## Week 7, Monday (8 November)
+
+  - [lecture notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/post-reading%20week/1_probability.pdf)
+  - [Lecture 1](https://web.microsoftstream.com/video/57a96bd7-ada1-46f7-b0c5-80244b3d7c40) This one is hosted on Microsoft Streams.
+  - [Lecture 2](https://www.youtube.com/watch?v=NkPpy23FQik) This one is hosted on youtube. No login required.
+
+During the workshop, we will work on the following problem sheet:
+
+  - [Worksheet 1](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/post-reading%20week/ws1.pdf)
+
+## Week 7, Thursday (11 November)
+
+Before the workshop, please watch the following videos:
+
+  - [Lecture 3](https://www.youtube.com/watch?v=NkPpy23FQik)
+  - [Lecture 4](https://www.youtube.com/watch?v=NkPpy23FQik)
