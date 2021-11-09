@@ -89,6 +89,8 @@ Before the workshop, please watch the following videos:
 The worksheet for this workshop is
 
   - [Logic 3](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/WORKSHOPS/logic-3-WS.pdf)
+  - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SOLUTIONS/logic-3-SOL.pdf)
+
 
 ## Week 4, Thursday (21 October)
 
@@ -101,6 +103,8 @@ Before the workshop, please watch the following videos:
 The worksheet for this workshop is
 
   - [Logic and Proof](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/WORKSHOPS/logic-and-proof-WS.pdf)
+  - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SOLUTIONS/logic-and-proof-SOL.pdf)
+
 
 ## Week 5, Monday (25 October)
 
@@ -109,14 +113,20 @@ Before the workshop, please watch the following videos:
   - [Logic 5 (Set Theory, 15 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949659_1&course_id=_247724_1)
   - [Logic 5 (properties of sets, 10 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949660_1&course_id=_247724_1)
   - [Logic 5 (cardinality, 14 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_5949661_1&course_id=_247724_1)
+  - [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SLIDES/W5-L1-Logic-5/logic-5-slides.pdf), [overlays](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SLIDES/W5-L1-Logic-5/logic-5-overlays.pdf), and [6up](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SLIDES/W5-L1-Logic-5/logic-5-6up.pdf)
 
 The worksheet for this workshop is
-
   - [Sets](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/WORKSHOPS/sets-WS.pdf)
+  - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SOLUTIONS/sets-SOL.pdf)
+
 
 ## Week 5, Thursday (28 October)
 
-_The videos for this week will be released soon._
+The following two videos give you an introduction to functions and relations. There is no workshop associated with this topic.
+
+  - [Logic 6 (Introduction to Functions (and Relations), 23 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_6224983_1&course_id=_247724_1)
+  - [Logic 6 (Introduction to Relations, 26 minutes)](https://www.ole.bris.ac.uk/webapps/sofo-mediasite-content-BB60e83182c0bd4/Launcher.jsp?content_id=_6224984_1&course_id=_247724_1)
+  - [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/SLIDES/W5-L2-Logic-6/logic-6-slides.pdf)
 
 The Thursday workshop will be a mock exam. This will both give you an opportunity to review your learning and get feedback on your progress, as you will see your results afterwards, and practice with the online format of the January exam. The mock exam does not count towards your unit mark.
 
@@ -130,17 +140,19 @@ Week 6 is reading week, there are no lectures or workshops.
 
 ## Week 7, Monday (8 November)
 
-  - [lecture notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/post-reading%20week/1_probability.pdf)
-  - [Lecture 1](https://web.microsoftstream.com/video/57a96bd7-ada1-46f7-b0c5-80244b3d7c40) This one is hosted on Microsoft Streams.
-  - [Lecture 2](https://www.youtube.com/watch?v=NkPpy23FQik) This one is hosted on youtube. No login required.
+There are four lectures introducing probability, defining some of the
+initial concepts and describing how to calculate probabilities when
+they can be calculated by counting:
 
-During the workshop, we will work on the following problem sheet:
+ - [Probability 1 (Introduction to probability) 15 minutes](https://web.microsoftstream.com/video/57a96bd7-ada1-46f7-b0c5-80244b3d7c40)
+ - [Probability 2 (Combinatorics) 16 minutes](https://www.youtube.com/watch?v=NkPpy23FQik)
+ - [Probability 3 (A quick example from poker) 6 minutes](https://www.youtube.com/watch?v=NkPpy23FQik)
+ - [Probability 4 (Some more examples) 17 minutes](https://www.youtube.com/watch?v=IqtLhm3RLs4)
 
-  - [Worksheet 1](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2021-22-TB-1-A/Class%20Materials/post-reading%20week/ws1.pdf)
+There is also a set of printed notes for this material:
 
-## Week 7, Thursday (11 November)
+ - [Probability and Combinatorics (pdf)](https://github.com/coms10011/2020_21/blob/master/01_probability/1_probability.pdf)
 
-Before the workshop, please watch the following videos:
+and the slides for lectures 1 and 2 are available:
 
-  - [Lecture 3](https://www.youtube.com/watch?v=NkPpy23FQik)
-  - [Lecture 4](https://www.youtube.com/watch?v=NkPpy23FQik)
+- [Slides for lectures 1 and 2 (github)](https://github.com/coms10011/2020_21/tree/master/01_probability)
