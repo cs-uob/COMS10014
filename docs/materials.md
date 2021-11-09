@@ -153,3 +153,11 @@ and the slides for lectures 1 and 2 are available:
 
 - [Slides for lectures 1 and 2 (github)](https://github.com/coms10011/2020_21/tree/master/01_probability)
 
+
+## Week 7, Thursday (11 November)
+
+These are the printed notes for this material:
+
+ - [Probability and Combinatorics (pdf)](https://github.com/coms10011/2020_21/blob/master/02_conditional_probability/02_conditional_probability.pdf)
+
+The lectures will follow.
