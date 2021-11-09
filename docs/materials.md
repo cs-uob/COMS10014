@@ -134,6 +134,10 @@ The Thursday workshop will be a mock exam. This will both give you an opportunit
   - Attendance for Thursday is given for taking the mock exam. You do not need to achieve a minimum mark to get attendance.
   - From 10:30-11:15, you may turn up either online or in person if you are in Group 2, and TAs will be around to help you with any questions about the mock exam material.
 
+## Week 6
+
+Week 6 is reading week, there are no lectures or workshops.
+
 ## Week 7, Monday (8 November)
 
 There are four lectures introducing probability, defining some of the
@@ -153,7 +157,7 @@ and the slides for lectures 1 and 2 are available:
 
 - [Slides for lectures 1 and 2 (github)](https://github.com/coms10011/2020_21/tree/master/01_probability)
 
-
+01_probability/2_probability.pdf
 ## Week 7, Thursday (11 November)
 
 These are the printed notes for this material:
