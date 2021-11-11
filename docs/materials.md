@@ -161,7 +161,6 @@ This is the worksheet:
 
 - [Worksheet 1 (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws1.pdf)
 
-01_probability/2_probability.pdf
 ## Week 7, Thursday (11 November)
 
 There are two lectures about conditional probability:
