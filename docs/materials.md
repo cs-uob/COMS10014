@@ -155,7 +155,11 @@ There is also a set of printed notes for this material:
 
 and the slides for lectures 1 and 2 are available:
 
-- [Slides for lectures 1 and 2 (github)](https://github.com/coms10011/2020_21/tree/master/01_probability)
+- [Slides for lectures 1 and 2 (github)](https://github.com/coms10011/2021_22/tree/master/01_probability)
+
+This is the worksheet:
+
+- [Worksheet 1 (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws1.pdf)
 
 01_probability/2_probability.pdf
 ## Week 7, Thursday (11 November)
@@ -170,5 +174,6 @@ These are the printed notes for this material:
  - [Probability and Combinatorics (pdf)](https://github.com/coms10011/2020_21/blob/master/02_conditional_probability/02_conditional_probability.pdf)
 
 
+This is the worksheet:
 
-The lectures will follow.
+- [Worksheet 2 (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws2.pdf)
