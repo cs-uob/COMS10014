@@ -172,7 +172,7 @@ There are two lectures about conditional probability:
 
 These are the printed notes for this material:
 
- - [Probability and Combinatorics (pdf)](https://github.com/coms10011/2020_21/blob/master/02_conditional_probability/02_conditional_probability.pdf)
+ - [Probability and Combinatorics (pdf)](https://github.com/coms10011/2020_21/blob/master/02_conditional_probability/2_conditional_probability.pdf)
 
 
 This is the worksheet:
