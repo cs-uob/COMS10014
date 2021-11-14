@@ -160,6 +160,8 @@ and the slides for lectures 1 and 2 are available:
 This is the worksheet:
 
 - [Worksheet 1 (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws1.pdf)
+- [Worksheet 1 solutions (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws1.solns.pdf)
+
 
 ## Week 7, Thursday (11 November)
 
