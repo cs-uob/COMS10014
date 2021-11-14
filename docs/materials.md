@@ -178,3 +178,4 @@ These are the printed notes for this material:
 This is the worksheet:
 
 - [Worksheet 2 (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws2.pdf)
+- [Worksheet 2 solutions (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws2.solns.pdf)
