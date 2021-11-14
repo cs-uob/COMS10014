@@ -188,6 +188,11 @@ are the printed notes for this material:
 
  - [Bayes' theorem (pdf)](https://github.com/coms10011/2020_21/blob/master/03_bayes/3_bayes.pdf)
 
+Here is the lecture
+
+ - [Probability 7 (Bayes' theorem 17 minutes)](https://www.youtube.com/watch?v=T-couJdnpzQ)
+
 This is the worksheet:
 
 - [Worksheet 3 (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws3.pdf)
+
