@@ -172,10 +172,22 @@ There are two lectures about conditional probability:
 
 These are the printed notes for this material:
 
- - [Probability and Combinatorics (pdf)](https://github.com/coms10011/2020_21/blob/master/02_conditional_probability/2_conditional_probability.pdf)
+ - [Conditional probability (pdf)](https://github.com/coms10011/2020_21/blob/master/02_conditional_probability/2_conditional_probability.pdf)
 
+- [Slides for lectures 5 (github)](https://github.com/coms10011/2021_22/tree/master/02_conditional_probability)
 
 This is the worksheet:
 
 - [Worksheet 2 (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws2.pdf)
 - [Worksheet 2 solutions (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws2.solns.pdf)
+
+## Week 8, Monday (15 November)
+
+This relates to Bayes's theorem, an exciting part of the unit. These
+are the printed notes for this material:
+
+ - [Bayes' theorem (pdf)](https://github.com/coms10011/2020_21/blob/master/03_bayes/3_bayes.pdf)
+
+This is the worksheet:
+
+- [Worksheet 3 (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws3.pdf)
