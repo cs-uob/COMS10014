@@ -196,3 +196,13 @@ This is the worksheet:
 
 - [Worksheet 3 (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws3.pdf)
 
+## Week 8, Thursday (18 November)
+
+This worksheet will go over the same stuff we've been looking at
+already, so there aren't any extra lectures as far as the worksheet is
+concerned. However, this would be a good opportunity to look at the
+lectures on conditional independence and naive Bayes.
+
+ - [Probability 7 (Conditional independence 13 minutes)](https://www.youtube.com/watch?v=UyNTsRi89qE)
+
+ - [Probability 7 (The naive Bayes' classifier 11 minutes)](https://www.youtube.com/watch?v=UQnIz2w6tZs)
