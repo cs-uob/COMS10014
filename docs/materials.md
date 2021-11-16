@@ -203,6 +203,6 @@ already, so there aren't any extra lectures as far as the worksheet is
 concerned. However, this would be a good opportunity to look at the
 lectures on conditional independence and naive Bayes.
 
- - [Probability 7 (Conditional independence 13 minutes)](https://www.youtube.com/watch?v=UyNTsRi89qE)
+ - [Probability 8 (Conditional independence 13 minutes)](https://www.youtube.com/watch?v=UyNTsRi89qE)
 
- - [Probability 7 (The naive Bayes' classifier 11 minutes)](https://www.youtube.com/watch?v=UQnIz2w6tZs)
+ - [Probability 9 (The naive Bayes' classifier 11 minutes)](https://www.youtube.com/watch?v=UQnIz2w6tZs)
