@@ -213,3 +213,23 @@ This is the worksheet:
 - [Worksheet 4 (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws4.pdf)
 - [Worksheet 4 solutions (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws4.solns.pdf)
 
+## Week 9, Monday (22 November)
+
+This worksheet will deal with random variables, which link the formal
+set based description of probability we've dealt with so far to a
+familiar approach appropriate to numerical values. These are the
+printed notes for this material:
+
+ - [Random variables (pdf)](https://github.com/coms10011/2020_21/blob/master/04_random_variables/4_random_variables.pdf)
+
+Here are some videos, all on youtube:
+
+ - [Probability 10 (Random variables 8 minutes)](https://www.youtube.com/watch?v=SLMaAnok4Os)
+
+- [Probability 11 (The joint distribution 18 minutes)](https://www.youtube.com/watch?v=xxqJ2qG-1nM)
+
+- [Probability 12 (The expected value 15 minutes)](https://www.youtube.com/watch?v=_YmTIHCNAUg)
+
+As ever you can find the slides by visiting the github:
+
+- [coms10011/2021_22 (github)](https://github.com/coms10011/2021_22)
