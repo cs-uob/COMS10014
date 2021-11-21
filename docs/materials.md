@@ -195,6 +195,7 @@ Here is the lecture
 This is the worksheet:
 
 - [Worksheet 3 (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws3.pdf)
+- [Worksheet 3 solutions (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws3.solns.pdf)
 
 ## Week 8, Thursday (18 November)
 
@@ -210,3 +211,5 @@ lectures on conditional independence and naive Bayes.
 This is the worksheet:
 
 - [Worksheet 4 (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws4.pdf)
+- [Worksheet 4 solutions (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws4.solns.pdf)
+
