@@ -233,3 +233,8 @@ Here are some videos, all on youtube:
 As ever you can find the slides by visiting the github:
 
 - [coms10011/2021_22 (github)](https://github.com/coms10011/2021_22)
+
+
+This is the worksheet:
+
+- [Worksheet 5 (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws5.pdf)
