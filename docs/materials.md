@@ -172,7 +172,11 @@ There are two lectures about conditional probability:
 
 These are the printed notes for this material:
 
+<<<<<<< HEAD
+ - [Probability and Combinatorics (pdf)](https://github.com/coms10011/2020_21/blob/master/02_conditional_probability/2_conditional_probability.pdf)
+=======
  - [Conditional probability (pdf)](https://github.com/coms10011/2020_21/blob/master/02_conditional_probability/2_conditional_probability.pdf)
+>>>>>>> b2ec82a1f55e7881fae45faa771a0d08036e734a
 
 - [Slides for lectures 5 (github)](https://github.com/coms10011/2021_22/tree/master/02_conditional_probability)
 
@@ -238,3 +242,23 @@ As ever you can find the slides by visiting the github:
 This is the worksheet:
 
 - [Worksheet 5 (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws5.pdf)
+
+
+## Week 9, Wednesday (25 November)
+
+There is a lot this week but next Monday we will have a class test and
+less new material!
+
+ - [Binomial distribution (pdf)](https://github.com/coms10011/2020_21/blob/master/05_bonomial_distribution/5_binomial_distribution.pdf)
+
+ - [Binomial distribution (pdf)](https://github.com/coms10011/2020_21/blob/master/06_Poisson_distribution/6_Poisson_distribution.pdf)
+
+Here are some videos, all on youtube:
+
+ - [Probability 13 (the binomial distribution 14 minutes)](https://www.youtube.com/watch?v=cERVjRttFr4)
+
+- [Probability 14 (The Poisson distribution 24 minutes)](https://www.youtube.com/watch?v=1CfCRt4Bntg)
+
+This is the worksheet:
+
+- [Worksheet 6 (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws6.pdf)
