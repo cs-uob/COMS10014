@@ -246,7 +246,7 @@ less new material!
 
  - [Binomial distribution (pdf)](https://github.com/coms10011/2020_21/blob/master/05_bonomial_distribution/5_binomial_distribution.pdf)
 
- - [Binomial distribution (pdf)](https://github.com/coms10011/2020_21/blob/master/06_Poisson_distribution/6_Poisson_distribution.pdf)
+ - [Poisson distribution (pdf)](https://github.com/coms10011/2020_21/blob/master/06_Poisson_distribution/6_Poisson_distribution.pdf)
 
 Here are some videos, all on youtube:
 
