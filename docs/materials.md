@@ -172,13 +172,8 @@ There are two lectures about conditional probability:
 
 These are the printed notes for this material:
 
-<<<<<<< HEAD
- - [Probability and Combinatorics (pdf)](https://github.com/coms10011/2020_21/blob/master/02_conditional_probability/2_conditional_probability.pdf)
-=======
  - [Conditional probability (pdf)](https://github.com/coms10011/2020_21/blob/master/02_conditional_probability/2_conditional_probability.pdf)
->>>>>>> b2ec82a1f55e7881fae45faa771a0d08036e734a
-
-- [Slides for lectures 5 (github)](https://github.com/coms10011/2021_22/tree/master/02_conditional_probability)
+ - [Slides for lectures 5 (github)](https://github.com/coms10011/2021_22/tree/master/02_conditional_probability)
 
 This is the worksheet:
 
@@ -244,7 +239,7 @@ This is the worksheet:
 - [Worksheet 5 (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws5.pdf)
 
 
-## Week 9, Wednesday (25 November)
+## Week 9, Thursday (25 November)
 
 There is a lot this week but next Monday we will have a class test and
 less new material!
