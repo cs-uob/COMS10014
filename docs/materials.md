@@ -237,7 +237,7 @@ As ever you can find the slides by visiting the github:
 This is the worksheet:
 
 - [Worksheet 5 (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws5.pdf)
-
+- [Worksheet 5 solutions (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws5.solns.pdf)
 
 ## Week 9, Thursday (25 November)
 
@@ -257,3 +257,4 @@ Here are some videos, all on youtube:
 This is the worksheet:
 
 - [Worksheet 6 (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws6.pdf)
+- [Worksheet 6 solutions (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws6.solns.pdf)
