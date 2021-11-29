@@ -258,3 +258,9 @@ This is the worksheet:
 
 - [Worksheet 6 (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws6.pdf)
 - [Worksheet 6 solutions (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws6.solns.pdf)
+
+## Week 10, Monday (29 November)
+
+There is no new material for this workshop.
+
+- [Class test (pdf)](https://github.com/coms10011/2021_22/blob/master/worksheets/class_test.pdf)
