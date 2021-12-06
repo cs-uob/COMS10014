@@ -264,3 +264,9 @@ This is the worksheet:
 There is no new material for this workshop.
 
 - [Class test (pdf)](https://github.com/coms10011/2021_22/blob/master/worksheets/class_test.pdf)
+
+## Week 11, Monday (6 December)
+
+This worksheet will deal with continuous distributions, an important but tricky subject. The printed notes for this material:
+
+ - [Continuous distribution (pdf)](https://github.com/coms10011/2021_22/blob/master/07_continuous_distribution/7_continuous_distribution.pdf)
