@@ -244,9 +244,9 @@ This is the worksheet:
 There is a lot this week but next Monday we will have a class test and
 less new material!
 
- - [Binomial distribution (pdf)](https://github.com/coms10011/2020_21/blob/master/05_bonomial_distribution/5_binomial_distribution.pdf)
+ - [Binomial distribution (pdf)](https://github.com/coms10011/2021_22/blob/master/05_bonomial_distribution/5_binomial_distribution.pdf)
 
- - [Poisson distribution (pdf)](https://github.com/coms10011/2020_21/blob/master/06_Poisson_distribution/6_Poisson_distribution.pdf)
+ - [Poisson distribution (pdf)](https://github.com/coms10011/2021_22/blob/master/06_Poisson_distribution/6_Poisson_distribution.pdf)
 
 Here are some videos, all on youtube:
 
@@ -270,3 +270,11 @@ There is no new material for this workshop.
 This worksheet will deal with continuous distributions, an important but tricky subject. The printed notes for this material:
 
  - [Continuous distribution (pdf)](https://github.com/coms10011/2021_22/blob/master/07_continuous_distribution/7_continuous_distribution.pdf)
+
+and here are some videos
+
+- [Probability 15 (Continuous distributions 13 minutes)](https://www.youtube.com/watch?v=au5duss4xPI)
+- [Probability 16 (More expected values 11 minutes)](https://www.youtube.com/watch?v=hQGDAjPvLe8)
+
+
+
