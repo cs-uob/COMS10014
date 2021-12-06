@@ -278,5 +278,8 @@ and here are some videos
 - [Probability 15 (Continuous distributions 13 minutes)](https://www.youtube.com/watch?v=au5duss4xPI)
 - [Probability 16 (More expected values 11 minutes)](https://www.youtube.com/watch?v=hQGDAjPvLe8)
 
+Here is the worksheet
+
+- [Worksheet 7 (pdf)](https://github.com/coms10011/2021_22/blob/master/worksheets/ws7.pdf)
 
 
