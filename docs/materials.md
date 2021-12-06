@@ -244,7 +244,7 @@ This is the worksheet:
 There is a lot this week but next Monday we will have a class test and
 less new material!
 
- - [Binomial distribution (pdf)](https://github.com/coms10011/2021_22/blob/master/05_bonomial_distribution/5_binomial_distribution.pdf)
+ - [Binomial distribution (pdf)](https://github.com/coms10011/2021_22/blob/master/05_bionomial_distribution/5_binomial_distribution.pdf)
 
  - [Poisson distribution (pdf)](https://github.com/coms10011/2021_22/blob/master/06_Poisson_distribution/6_Poisson_distribution.pdf)
 
@@ -265,13 +265,13 @@ There is no new material for this workshop.
 
 - [Class test (pdf)](https://github.com/coms10011/2021_22/blob/master/worksheets/class_test.pdf)
 
-- [Class test solutions (pdf)](https://github.com/coms10011/2021_22/blob/master/worksheets/class_test.solns.pdf)
+- [Class test solutions (pdf)](https://github.com/coms10011/2021_22/blob/master/worksheets/class_test.soln.pdf)
 
 ## Week 11, Monday (6 December)
 
 This worksheet will deal with continuous distributions, an important but tricky subject. The printed notes for this material:
 
- - [Continuous distribution (pdf)](https://github.com/coms10011/2021_22/blob/master/07_continuous_distribution/7_continuous_distribution.pdf)
+ - [Continuous distribution (pdf)](https://github.com/coms10011/2021_22/blob/master/07_continuous_distribution/7_continuous_random.pdf)
 
 and here are some videos
 
