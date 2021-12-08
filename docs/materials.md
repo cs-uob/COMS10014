@@ -288,3 +288,7 @@ Finally, the Gauss distribution, the most commonly used model for
 continuous data and a distribution with important properties. Here are the notes:
 
  - [The Gauss distribution (pdf)](https://github.com/coms10011/2021_22/blob/master/08_Gauss/8_Gauss_distribution.pdf)
+
+and here are a video
+
+- [Probability 17 (The Gauss distributions 25 minutes)](https://www.youtube.com/watch?v=xTcLKGYbu6U)
