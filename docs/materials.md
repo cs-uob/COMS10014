@@ -292,3 +292,7 @@ continuous data and a distribution with important properties. Here are the notes
 and here are a video
 
 - [Probability 17 (The Gauss distributions 25 minutes)](https://www.youtube.com/watch?v=xTcLKGYbu6U)
+
+Here is the worksheet
+
+- [Worksheet 8 (pdf)](https://github.com/coms10011/2021_22/blob/master/worksheets/ws8.pdf)
