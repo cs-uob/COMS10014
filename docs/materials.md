@@ -281,6 +281,7 @@ and here are some videos
 Here is the worksheet
 
 - [Worksheet 7 (pdf)](https://github.com/coms10011/2021_22/blob/master/worksheets/ws7.pdf)
+- [Worksheet 7 solutions (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws7.solns.pdf)
 
 ## Week 11, Thursday (9 December)
 
@@ -296,3 +297,4 @@ and here are a video
 Here is the worksheet
 
 - [Worksheet 8 (pdf)](https://github.com/coms10011/2021_22/blob/master/worksheets/ws8.pdf)
+- [Worksheet 8 solutions (pdf)](https://github.com/coms10011/2021_22/tree/master/worksheets/ws8.solns.pdf)
