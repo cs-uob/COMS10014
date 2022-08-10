@@ -1,87 +1,77 @@
-# Unit organisation
+# Unit Organisation
 
 ## Prerequisites
 
-We require an A* grade in mathematics at A-levels, or an equivalent qualification, to join the Computer Science degree. Obviously, A-levels have been disrupted this year but that does not mean we are going to make you leave with a less valuable degree in three to four years time by "dumbing down" the content of your degree. You have chosen to enrol in one of the better universities in the country and that means we trust you are able to identify by yourself where you have gaps in your previous knowledge, and to deal with this for example by independently teaching yourself missing topics with the help of books in the library or online resources - there are free videos online on every part of A-level mathematics.
+We require an A* grade in mathematics at A-levels, or an equivalent qualification, to join the Computer Science degree. You have chosen to enrol in one of the better universities in the country and that means we trust you are able to identify by yourself where you have gaps in your previous knowledge, and to deal with this for example by independently teaching yourself missing topics with the help of books in the library or online resources - there are free videos online on every part of A-level mathematics.
 
-## Activities
+## Communication and Scalability
 
-Each week, you will complete two _activities_, in which you will
+In 2022-23, we are expecting up to 200 students, and this unit is taught by a single lecturer. This has some consequences for how we work together to keep everything running smoothly:
 
-  * Prepare yourself by studying assigned material in your own time - this will be a combination of videos and written notes. The material will be linked from this website.
-  * Attend a workshop in which you work on a problem sheet, in groups with other students.
-  * Revise the material further in your own time.
+  - Your main sources of support will be the scheduled workshops and support sessions. You should turn up to these hours, and you **must not** expect immediate help at any other time.
+  - Questions outside the scheduled hours **must** go on the Microsoft Teams forum. We will answer them as soon as resonably possible **during working hours**. (You may post a question on Teams at 11pm on a weekend if you want to, but you will not get an answer until 9am next Monday at the earliest.)
+  - You **must not** e-mail, phone, or private message the lecturer individually with questions about the material: this does not scale, and is unfair to other students. Instead, you must ask in the official forum, where we can reply once and then all students can see the same information.
+  - You **will not** get extra private lessons from the lecturer or the TAs, please do not ask for this. _If you are a disabled student, there may be extra support available for you through disability services and you should check with them, not your lecturer, about this._
 
-The timetabled sessions for this unit are:
+## Schedule
 
-  * Monday, 1pm-3pm: workshop 1 (mandatory)
-  * Thursday, 9:30-11:20am: workshop 2 (mandatory)
-  * Friday, 10-11am: drop-in session (optional, online only)
+In 2022-23, this unit will run in-person/on-campus only, but with new material delivered via videos instead of traditional lectures.
 
-Your first workshop will be on Monday 27 September, known as "Week 1" in the university calendar.
+Each teaching week is divided into two blocks. For each block, you will:
 
-Week 6 commencing Monday 1 November is Reading Week; there are no activities and no workshops in this week. Week 12 commencing Monday 13 December is revision week, in this week the workshops are replaced by drop-in sessions and there is no new material.
+  1. Watch the videos and read any supporting materials in your own time, before the workshop.
+  2. Attend the workshop at the indicated time and solve a problem sheet in a group with other students.
+  3. After the workshop, revise the material by yourself or with friends.
+  4. Optionally, come to the support sessions where a lecturer or TAs will be around to answer your questions.
+  5. Optionally, ask or answer questions on the unit's Microsoft Teams online forums.
 
-There are no lectures in the traditional sense on this unit; the delivery of new material is replaced by videos which you watch in your own time before each workshop. It might be a good idea to set aside fixed times each week to watch the videos for each unit. We will try and release all the videos at least one week before the relevant workshop, where possible.
+See the [unit materials](materials.html) page for the topics and materials for each block.
+
+All in-person activities will take place in room MVB 1.11 - one floor down from the entrance to our building. We have both parts of the room booked for this unit, and for the workshops, tables will be set out for you to work in groups.
+
+The in-person activities are:
+
+  - Monday, 1pm-3pm: Workshop 1 (mandatory)
+  - Tuesday, 4pm-5pm: Support Session 1 (optional)
+  - Thursday, 9am-11am: Workshop 2 (mandatory)
+  - Thursday, 1pm - 2pm: Support Session 2 (optional)
+
+Week 6 (31 October - 4 November) is reading week; all your units pause for this week and there are no scheduled activities.
+
+Week 12 (12 December - 16 December) is revision week; there is no new material, and the workshops are replaced with 2-hour support sessions, and the one-hour support sessions are cancelled.
+
+See the [workshops page](workshops.html) for more information on the workshops.
+
+## Support Sessions
+
+The Tuesday 4-5pm and Friday 1-2pm slots are our support sessions. We will use these however is most useful at the time, and I am happy to take student input and feedback on what you find most useful.
+
+The support sessions take the place of "office hours" on this unit; due to the large number of students, they are held in the same room as your workshops instead of an office.
+
+Support sessions are not mandatory to attend, and do not count towards your attendance and cannot be used to make up for a missed workshop.
+
+I imagine that the support sessions will be a mix of lecture, problem class, drop-in, office hour, Q&A and other things. Some days I may present some of the material again or solve worked examples; other days the whole session will be spent answering questions from students - but there will always be time for you to ask me questions during these sessions.
+
+The support sessions and workshops will not be recorded.
+
+## Class Tests
+
+In some weeks, a workshop will be replaced with a class test. The marks from these do not count towards your unit mark, they are purely for you to be able to assess your own progress on the unit. Completing them and handing in your answer sheets is mandatory, but failing them has no consequences (beyond encouraging you to improve on the next one). The class tests are your main practice opportunities for the final exam.
 
 ## Technology
 
-This unit, like most of the university, runs on the Microsoft technology stack. Your videos will normally be hosted in Microsoft Streams and you will be able to access them with your university login and watch them in a web browser.
+This unit, like most of the university, runs on the Microsoft technology stack. Your videos will normally be hosted in Microsoft Streams and you will be able to access them with your Microsoft Single Sign-On and watch them in a web browser.
 
-The online versions of the workshops, as well as the drop-ins, will run in a Microsoft Teams group that you will be automatically enrolled in with your university accounts. Teams will also be the place where host the lecture materials (PDFs of slides, lecture notes, worksheets, solutions) although we will link to them from this website. We recommend that you download the desktop version of Teams (free with your university account) but you can also use it from a web browser.
+Files, such as lecture notes, problem sheets and solutions, will be hosted on a filestore (technically a "Microsoft 365 group") that you can access either via links on this page or via Microsoft Teams. As an enrolled student, the group for this unit will show up automatically once the unit has started when you open Teams.
 
-For some parts of the unit, you will use the university's virtual learning environment "blackboard".
+For online questions and answers, we will use Microsoft Teams as a forum.
 
-## Workshops
-
-The main learning on this unit will happen in the workshops, held twice a week, in which you will work in groups on a problem sheet. Some of the workshops are class tests or mock exams, these to not count towards your unit grade but they will help you to track your progress and prepare for the final exam.
-
-Attending the workshops is mandatory, see the [workshops page](workshops.html) for more information.
-
-The plan for the workshops in 2021-2022 is to hold them on campus where possible, but with a parallel online version for students who are not able to come in person. If for any reason the on-campus workshops become impossible (such as another lockdown), then everyone will attend the online version. If we are required to reduce the number of students in the on-campus workshops (for example to maintain a greater distance between people) then we will introduce a rota system where everyone is told which on-campus workshops they are allowed to attend; for the other workshops you will then attend the online version.
-
-If you cannot attend the on-campus workshop (for example you are self-isolating) then you must attend the online one held in Microsoft Teams and supported by Teaching Assistants; otherwise we recommend that you attend the on-campus on as we can give you better support there. For the online versions of the workshops, you will need an internet connection, a microphone and a web camera. Since writing mathematics on a computer can be hard, you might want to also have a pad of paper and a pen nearby and point your camera at that when you want to show something to a TA.
-
-## Drop-ins
-
-The timetabled hour on Friday morning is a drop-in session. This is optional to attend and there is no worksheet: the idea is that you turn up and ask any questions you have, and TAs and sometimes academic staff will be there to answer them. The drop-in session will be held on Microsoft Teams.
-
-Week 12, the last week of term, is revision week. There is no new material this week and the workshops are replaced by drop-ins, which we plan on holding both on campus and online.
-
-## Time planning
+## Time Planning
 
 As a rough guide to time planning:
 
   1. The average student should spend around 40 hours a week on average on work related to their course. If you are regularly spending much longer than that in first year and not getting the results you expect, you might want to seek advice on effective learning strategies at university. 
   2. In your first teaching block, you have three units each worth 20 credits. This means on average you will spend 13 hours per week on each unit (assuming a 39-hour week), that is a bit more than a day and a half a week per unit - although in practice most students will have units that take them shorter or longer than others.
-  3. The timetabled hours - in this unit the workshops and drop-ins, in others maybe labs or problem classes - take up much less time than the 13 hours you are supposed to spend on the unit. In a normal year with timetabled lectures, the advice to students was to spend at least as much time again on each unit in self-study as you had contact hours for lectures and labs combined. This year with lectures replaced by videos, your contact time in the workshops and drop-ins will make up an even smaller part of all the work you are expected to do for each unit: for Maths A, 4-5 hours per week out of your budget of 13 are timetabled so that leaves you with 8-9 hours to plan and fill by yourself.
+  3. The timetabled hours - in this unit the workshops and support sessions, in others maybe labs or problem classes - take up much less time than the 13 hours you are supposed to spend on the unit. We have 6 hours per week timetabled, that leaves another 7 hours per week on average for you to organise in your own time for watching videos, reading notes, revising problems etc.
 
-It might be a good idea to make your own timetable where you allocate fixed hours for watching videos, revision, and coursework (on the programming units) on each of your units, as well as the hours that the university has timetabled for you.
-
-## Contacts
-
-Your main ways of getting help with the unit are:
-
-  1. Ask a TA or staff member during the workshops.
-  2. Come to a drop-in session.
-  3. Post your question on the online forums for the unit (in Teams).
-  4. Ask other members of your tutor group, or other students that you know.
-
-On this unit and on all your other 1st year units, you will be in a cohort of over 200 students and at times the unit may be managed by a single member of academic staff. Once you understand this problem of scale, you will also hopefully respect the following rule.
-
-**You must not e-mail or private-message unit staff individually with questions about the unit**. This does not scale. If we answer in an e-mail then that answer only goes to one student and the other students cannot see it, which is unfair; if another student asks the same question later, then we have to write another e-mail which is inefficient.
-
-Instead, you must ask questions in the workshops or drop-ins, or outside these hours on the unit's Teams group, where it takes us the same time to reply but the benefit for students is much greater as everyone can read the same explanation, and we only have to answer once. If you have a question, assume that many other students in the cohort are asking themselves the same thing and will also profit from reading the answer.
-
-The combination of student/staff ratios (which can go over 200) and the pandemic mean that the days when you could turn up and knock on a staff member's office door at any time you like are over. Some staff may not even have an office, or only be on campus on particular days during the week. Questions about this unit must go through the official channels (workshops, drop-ins, Teams) for reasons of both efficiency and fairness.
-
-We do not offer extra private lessons for individual students, neither online nor in person. However, if you are a student with a registered disability, or from a widening participation background, there may be extra support that you can access through the university.
-
-## Assessment and grades
-
-To pass this unit, you must do two things:
-
-  * Attend at least 75% of all workshops (including class tests and mock exams in workshop slots) - see the [workshops page](workshops.html).
-  * Attend and pass the exam in January. The pass mark is 40%, and if you achieve this then your unit mark will be your exam mark.
-  
-The class tests and mock exams in some workshops are formative, that is they are purely for feedback to you and they do not count towards your unit grade. Attending them does count towards your 75% attendance target however, but you get attendance whether you pass the formative tests or not as long as you have demonstrated engagement.
+It might be a good idea to make your own personal timetable where you allocate fixed self-study hours for each unit beyond the timetabled sessions.
