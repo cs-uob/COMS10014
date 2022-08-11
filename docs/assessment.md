@@ -29,3 +29,11 @@ For you as a student, rapidmark means:
   - You must strictly follow the rules for filling in answer sheets, for example putting crosses or digits completely within the required boxes, and using pencil/eraser only.
 
 During the unit, there will be four separate class tests where you will be able to practice the rapidmark format and I will use these to ensure the software is properly designed and calibrated for the exam itself. The class tests do not count towards your unit grade, but completing them does count towards your attendance hurdle.
+
+## Questions and Timing
+
+The exam will contain 30 questions, each one worth nominally 3 marks for a total of 90 marks. The first 15 questions will be on logic and proof, the other 15 on probability.
+
+Since you have 180 minutes for 30 questions, a good exam plan is to budget 5 minutes per question on average (for a total of 150 minutes) leaving another 30 minutes for reading through the exam at the start, checking your work again at the end, toilet breaks etc. Everyone will find some questions easier and others harder, but as long as you are answering questions at a rate of 5 minutes on average, you will have time to complete the exam.
+
+You can of course answer the questions in any order you like, as long as you enter the answers in the correct places on the answer sheet in the end.
