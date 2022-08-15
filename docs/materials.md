@@ -26,4 +26,4 @@ Please watch the video and then read any notes before coming to the workshop. Yo
     - [Logical Equivalence (11 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/videos/logic-2_19-23_Logical_Equivalence.mp4)
     - [Normal Forms and Functional Completeness (16 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/videos/logic-2_24-end_Normal_Forms_and_Functional_Completeness.mp4)
   - Notes: _working on it ..._
-  - Worksheet: [WS2](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS1.pdf)
+  - Worksheet: [WS2](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS2.pdf)
