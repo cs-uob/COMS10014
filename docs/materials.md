@@ -11,7 +11,7 @@ This link to the [unit filestore](https://uob.sharepoint.com/:b:/r/teams/UnitTea
 ## Week 1, Workshop 1 on Monday, 26 September
 
   - Topic: Logic 1
-  - Video: [Logic 1 (44 minutes)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/videos/logic-1-full-recording.mp4)
+  - Video: [Logic 1 (37 minutes)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/videos/logic-1-full-recording.mp4)
   - Notes: _working on it ..._
   - Worksheet: [WS1](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS1.pdf)
 
