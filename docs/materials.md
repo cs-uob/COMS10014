@@ -11,6 +11,12 @@ This link to the [unit filestore](https://uob.sharepoint.com/:b:/r/teams/UnitTea
 ## Week 1, Workshop 1 on Monday, 26 September
 
   - Topic: Logic 1
+    - Introduction
+    - First-order logic (also called predicate logic)
+    - Propositions
+    - Logical operations: and, or, not, xor, if, iff
+    - Terminology: converse, inverse, contrapositive
+    - Syntax of first-order logic
   - Video: [Logic 1 (37 minutes)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/videos/logic-1-full-recording.mp4)
   - Notes: _working on it ..._
   - Worksheet: [WS1](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS1.pdf)
@@ -20,6 +26,13 @@ Please watch the video and then read any notes before coming to the workshop. Yo
 ## Week 1, Workshop 2 on Thursday, 29 September
 
   - Topic: Logic 2
+    - Truth tables
+    - Semantics of first-order logic
+    - Terminology: valid/tautology, satisfiable/consistent, contradiction, contingency
+    - Logical equivalence
+    - Laws of logic
+    - Normal forms
+    - Functional completeness
   - Videos:
     - [Compound Propositions (20 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/videos/logic-2_1-11_Compound_Propositions.mp4)
     - [Validity and Satisfiability (7 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/videos/logic-2_12-18_Validity_and_Satisfiability.mp4)
