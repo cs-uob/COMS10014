@@ -20,6 +20,7 @@ This link to the [unit filestore](https://uob.sharepoint.com/:b:/r/teams/UnitTea
   - Video: [Logic 1 (37 minutes)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/videos/logic-1-full-recording.mp4)
   - Notes: _working on it ..._
   - Worksheet: [WS1](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS1.pdf)
+  - Solutions: _will appear after the workshop_
 
 Please watch the video and then read any notes before coming to the workshop. You can look at the worksheet before if you want to, but you do not have to - you will be working on it in the workshop.
 
@@ -40,3 +41,4 @@ Please watch the video and then read any notes before coming to the workshop. Yo
     - [Normal Forms and Functional Completeness (16 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/videos/logic-2_24-end_Normal_Forms_and_Functional_Completeness.mp4)
   - Notes: _working on it ..._
   - Worksheet: [WS2](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS2.pdf)
+  - Solutions: _will appear after the workshop_
