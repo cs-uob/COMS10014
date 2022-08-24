@@ -6,6 +6,7 @@ Given a term as a tree (or its equivalent in code in your favourite programming 
   2. To export a negation node, first export its child to get a string `s`. Then return the string `(-s)` where you replace `s` with the child's string. 
 In most programming languages you could write this as `"(-" + s + ")"` or similar, or even `"(-${s})"` if your language allows that kind of interpolation.
   3. To export an addition, subtraction, or multiplication node, first export both children to get strings `s` and `t`. Then return the string that consists of `s`, the operator sign \\(+\\), \\(-\\), or \\(\times\\) as appropriate, and `t`. (You could add spaces around the operator too if you prefer.)
+  4. (If you are doing terms with variables, then to export a node containing a variable, return the name of that variable as a string.)
 
 What is the problem here? 
 
@@ -59,3 +60,5 @@ Further, subtraction is not associative, so `5-(3-2)` and `(5-3)-2` are not the 
   2. A node has a child of the same precedence that does not match the order in which it is parsed.
 
 The last point means that an addition or subtraction node whose right child is another addition or subtraction node would need brackets, since these nodes are parsed left-to-right. This finally gets us a formal definition of exporting (and, along the way, a rule for exactly which brackets are necessary or not) that works for numbers, Boolean algebra, propositional logic, and most programming languages among other things.
+
+_Special note on C: the `=` assignment operator has right-to-left precedence, and after assigning, it evaluates to the value on the left. This lets you write for example `a = b = 0;` which is parsed as `a = (b=0);` and evaluates as follows: set b to 0 (`b=0`), evaluate this node as the new value of b which is of course 0, then the remaining expression is `a=0` which sets a to 0 too. Although this is allowed, it is normally considered bad style, and you probably should not do it in your C programming unit. But you may find this syntax in open-source C code._

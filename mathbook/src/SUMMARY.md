@@ -9,3 +9,4 @@
   - [Terminology](./01/terminology.md)
   - [Defining terms](./01/terms.md)
   - [Exporting terms](./01/export.md)
+  - [Parsing](./01/parse.md)

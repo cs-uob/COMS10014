@@ -8,7 +8,7 @@ Some maths teachers stress the difference between subtraction such as \\(2-3\\) 
 
 ![trees for negation and subtraction](../images/negsubtree.png)
 
-# Formal definition of terms
+## Formal definition of terms
 
 Let us formally define what is or is not a term, _independently_ of a particular representation as strings. A term of integers is a tree structure containing nodes, some of which may have children, that can be built from the following rules:
 
@@ -35,3 +35,24 @@ For another example, let us define how to compute the depth of a tree:
 As an exercise, you could write out the same definition of terms, evaluation and depth for propositional logic - this is mostly done in the lectures for you already so you can compare your solutions to it. (Depth works exactly the same whatever type of tree you have.)
 
 _Note: if you allow division nodes in a term too, then evaluation can fail. You can extend the rules to say that evaluation fails if (a) you are evaluating a division node and the second child evaluates to 0, or (b) if evaluating any of the term's children fails. Luckily, there is no division in propositional logic so its evaluation cannot fail._
+
+## Variables
+
+What about terms with variables such as \\(2 + x\\)? Defining them is easy enough, we just add a new rule similar to the one for integers:
+
+> 4. A node containing a variable is a term.
+
+Computing the depth is not hard:
+
+> 4. The depth of a node containing a variable is 1.
+
+But you cannot evaluate a term with variables directly. Instead, you now have to evaluate terms _in an environment_, where an environment is a table mapping variables to values. By convention, environments are written with the letter \\(\Gamma\\), which is the Greek capital letter Gamma.
+
+For example, the evaluation of \\(2+x\\) in the environment \\(\Gamma = \{x=1, y=2\}\\) is 3. The evaluation of \\(3 - z\\) in the same environment is undefined, however.
+
+The full evaluation rules with variables are:
+
+  1. To evaluate a node containing an integer in an environment \\(\Gamma\\), just take that integer.
+  2. To evaluate a negation node in an environment \\(\Gamma\\), first evaluate its child, then negate that integer. If evaluating the child fails, then evaluating this node fails too.
+  3. To evaluate an addition (resp. subtraction, multiplication) term in an environment \\(\Gamma\\), first evaluate both children, then add (resp. subtract, multiply) the integers you get. If evaluating any child fails, then evaluating this node fails too.
+  4. To evaluate a node containing a variable in an environment \\(\Gamma\\), if the variable is defined in \\(\Gamma\\) then take that value. Otherwise, the evaluation fails.
