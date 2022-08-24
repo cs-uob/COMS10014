@@ -42,3 +42,22 @@ Please watch the video and then read any notes before coming to the workshop. Yo
   - Notes: _working on it ..._
   - Worksheet: [WS2](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS2.pdf)
   - Solutions: _will appear after the workshop_
+
+## Week 2, Workshop 1 on Monday, 3 October
+
+  - Topic: Proof 1
+    - What is a proof?
+    - Formal reasoning
+    - Axiom schemas
+    - Modus Ponens
+    - Entailment (![entailment operator](files/entails.png))
+    - Theorems
+  - Videos:
+    - Introduction to proof (TBD)
+    - Formal reasoning (TBD)
+  - Notes: _working on it ..._
+  - Worksheet: _working on it ..._
+
+## Week 3, Workshop 2 on Thursday, 6 October
+
+  - Topic: Proof 2
