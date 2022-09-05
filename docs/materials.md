@@ -17,7 +17,7 @@ This link to the [unit filestore](https://uob.sharepoint.com/:b:/r/teams/UnitTea
     - Logical operations: and, or, not, xor, if, iff
     - Terminology: converse, inverse, contrapositive
     - Syntax of first-order logic
-  - Video: [Logic 1 (37 minutes)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/videos/logic-1-full-recording.mp4)
+  - Video: [Logic 1 (37 minutes)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-1-full-recording.mp4)
   - Notes: _working on it ..._
   - Worksheet: [WS1](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS1.pdf)
   - Solutions: _will appear after the workshop_
@@ -35,10 +35,10 @@ Please watch the video and then read any notes before coming to the workshop. Yo
     - Normal forms
     - Functional completeness
   - Videos:
-    - [Compound Propositions (20 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/videos/logic-2_1-11_Compound_Propositions.mp4)
-    - [Validity and Satisfiability (7 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/videos/logic-2_12-18_Validity_and_Satisfiability.mp4)
-    - [Logical Equivalence (11 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/videos/logic-2_19-23_Logical_Equivalence.mp4)
-    - [Normal Forms and Functional Completeness (16 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/videos/logic-2_24-end_Normal_Forms_and_Functional_Completeness.mp4)
+    - [Compound Propositions (20 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-2_1-11_Compound_Propositions.mp4)
+    - [Validity and Satisfiability (7 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-2_12-18_Validity_and_Satisfiability.mp4)
+    - [Logical Equivalence (11 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-2_19-23_Logical_Equivalence.mp4)
+    - [Normal Forms and Functional Completeness (16 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-2_24-end_Normal_Forms_and_Functional_Completeness.mp4)
   - Notes: _working on it ..._
   - Worksheet: [WS2](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS2.pdf)
   - Solutions: _will appear after the workshop_
