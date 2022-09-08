@@ -18,7 +18,6 @@ This link to the [unit filestore](https://uob.sharepoint.com/:b:/r/teams/UnitTea
     - Terminology: converse, inverse, contrapositive
     - Syntax of first-order logic
   - Video: [Logic 1 (37 minutes)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-1-full-recording.mp4)
-  - Notes: _working on it ..._
   - Worksheet: [WS1](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS1.pdf)
   - Solutions: _will appear after the workshop_
 
@@ -39,7 +38,6 @@ Please watch the video and then read any notes before coming to the workshop. Yo
     - [Validity and Satisfiability (7 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-2_12-18_Validity_and_Satisfiability.mp4)
     - [Logical Equivalence (11 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-2_19-23_Logical_Equivalence.mp4)
     - [Normal Forms and Functional Completeness (16 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-2_24-end_Normal_Forms_and_Functional_Completeness.mp4)
-  - Notes: _working on it ..._
   - Worksheet: [WS2](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS2.pdf)
   - Solutions: _will appear after the workshop_
 
@@ -53,11 +51,33 @@ Please watch the video and then read any notes before coming to the workshop. Yo
     - Entailment (![entailment operator](files/entails.png))
     - Theorems
   - Videos:
-    - Introduction to proof (TBD)
-    - Formal reasoning (TBD)
-  - Notes: _working on it ..._
-  - Worksheet: _working on it ..._
+    - [Introduction to proof (18 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/proof-1-introduction-to-proof-narrated_v3.mp4)
+    - [Formal reasoning (24 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/proof-1-formal-reasoning-narrated_v3.mp4)
+  - Worksheet: Class Test 1 (will be handed out in the workshop)
+
+To get attendance for this workshop, you must complete the class test and hand in your completed answer sheet before the end of the workshop.
+
+Class Test 1 is only on logic material from Week 1, not on the proof material from this week yet.
 
 ## Week 3, Workshop 2 on Thursday, 6 October
 
   - Topic: Proof 2
+    - Proof by induction
+    - Application to loop invariants
+  - Videos:
+    - [Mathematical induction (26min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/proof-2-mathematical-induction-narrated-HR_v3.mp4)
+    - [Loop invariants (28min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/proof-2-loop-invariant-proof-narrated_v3.mp4)
+  - Worksheet: [WS4](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS1.pdf)
+  - Solutions: _will appear after the workshop_
+
+## Week 4, Workshop 1 on Monday, 10 October
+
+  - Topic: Proof 3
+    - Direct proof
+    - Indirect proof
+    - Proof by contradiction
+    - Writing up proofs
+  - Videos:
+    - [Proof strategies (49 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/proof-3-proof-strategies-narrated_v8.mp4)
+  - Worksheet: [WS5](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS5.pdf)
+  - Solutions: _will appear after the workshop_
