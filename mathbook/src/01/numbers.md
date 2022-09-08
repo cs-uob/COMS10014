@@ -1,6 +1,7 @@
 # Numbers and logic
 
 Think of the usual integers \\(\{\ldots,-3,-2,-1,0,1,2,3,\ldots}\\) and the operations \\(+\\),\\(-\\), and \\(\times\\). This is a 'structure' in which we can do mathematics, and you should be familiar with it as well as some other structures such as the rational or real numbers. This structure has many rules that you know, such as that \\(x+0=x\\) and \\(a+b=b+a\\) and \\(a \times (b+c)=a \times b+a \times c\\) and so on for any numbers \\(a,b,c\\).
+
 Boolean algebra is a new structure where there are, to begin with, only two numbers: 0 and 1. The basic operations are \\(+\\) and \\(\times\\) and we can give their addition and multiplication tables:
 
 ![addition and multiplication tables for Boolean algebra](../images/boolean_addmul.png)

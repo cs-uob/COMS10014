@@ -56,3 +56,26 @@ The full evaluation rules with variables are:
   2. To evaluate a negation node in an environment \\(\Gamma\\), first evaluate its child, then negate that integer. If evaluating the child fails, then evaluating this node fails too.
   3. To evaluate an addition (resp. subtraction, multiplication) term in an environment \\(\Gamma\\), first evaluate both children, then add (resp. subtract, multiply) the integers you get. If evaluating any child fails, then evaluating this node fails too.
   4. To evaluate a node containing a variable in an environment \\(\Gamma\\), if the variable is defined in \\(\Gamma\\) then take that value. Otherwise, the evaluation fails.
+
+The exact same principle applies to logic, with 'integer' replaced by 'truth value' everywhere, and addition, subtraction, and multiplication replaced by logical and, or, not and the other logical operations.
+
+
+## Truth Tables
+
+In Maths A, the immediate application of this theory is a formal way to create a truth table for a compound proposition, formal enough that we could program a computer to do it. Let's say we want to create the truth table for \\(p \Rightarrow (q \Rightarrow \neg p)\\):
+
+![truth table for compound proposition](../images/compound_tt.png)
+
+First, we parse the proposition into a tree. Then we evaluate recursively:
+
+  - The top-level operator (2.) depends on (1.) and (4.), so we need to evaluate those first.
+  - (1.) is the variable p, so we can copy the truth values from the p column on the left to the (1.) column.
+  - (4.) is another implication operator, so we need to evaluate (3.) and (5.) first.
+  - (3.) is the variable q, so we can copy the q column.
+  - (5.) is a negation operator, so we need to evaluate (6.) first.
+  - (6.) is the variable p, so we copy the p column again.
+  - This lets us evaluate (5.) by taking the (6.) column and negating all values.
+  - This lets us evaluate (4.) by performing the logical implication on columns (3.) and (5.) that we have now filled in.
+  - This lets us evaluate (2.) by performing the logical implication on columns (1.) and (4.) that we have now filled in.
+
+In the notation that we just introduced above, in each row, the assignments to the variables p, q are an environment \\(\Gamma\\).

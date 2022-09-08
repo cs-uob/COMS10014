@@ -8,5 +8,10 @@
   - [Numbers and logic](./01/numbers.md)
   - [Terminology](./01/terminology.md)
   - [Defining terms](./01/terms.md)
-  - [Exporting terms](./01/export.md)
-  - [Parsing](./01/parse.md)
+
+# Workshop 2
+
+- [Notes](./02/main.md)
+  - [Exporting terms](./02/export.md)
+  - [Parsing](./02/parse.md)
+
