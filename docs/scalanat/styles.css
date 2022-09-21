@@ -1,0 +1,41 @@
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1em;
+}
+
+#editor {
+    border: 1px solid #000;
+    margin-bottom: 1ex;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+#resultSuccess {
+    padding-bottom: 1ex;
+    font-weight: bold;
+}
+
+#resultMessage {
+    padding-bottom: 1ex;
+}
+
+#resultSuccess.success {
+    color: darkgreen;
+}
+
+#resultSuccess.error {
+    color: darkred;
+}
+
+.rules {
+    font-family: monospace;
+}
+
+td.lineNumber {
+    text-align: right;
+    min-width: 2em;
+    padding-right: 1em;
+}

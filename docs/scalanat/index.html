@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Natural deduction</title>
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+    <body>
+        <script src="program.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.11.0/ace.js" integrity="sha512-NO/iPwtX2eO94dRYExWxykTKj8OtABi19cQWCwblHUZpMSymLo3Oc9WCT2LM3F8SSkrZBCS+NtEeDhI9fkaSfg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="highlight.js"></script>
+        <script src="main.js" defer></script>
+        <main>
+            <div class="window">
+                <h1>Proof Editor</h1>
+                <div id="editor">assume a and b
+    rule andE1 1
+    rule andE2 1
+    rule andI 3, 2
+discharge
+</div>
+                <button onclick="compileProof()">Run Proof</button>
+                <div id="explanation">
+                    <h2>Allowed rules</h2>
+                    <p>Rules with a * take a free term.</p>
+                    <ul class="rules">
+                        <li>andE1(and-term), andE2(and-term), andI(term, term)</li>
+                        <li>orE(or-term, sequent, sequent), orI1(term)*, orI2(term)*</li>
+                        <li>impE(imp-term, term), impI(sequent)</li>
+                        <li>notE(term, not-term), notI(sequent), lem()*, falsum(term)*</li>
+                    </ul>
+                    <h2>Operators</h2>
+                    <ul>
+                        <li class="rules">and, or, not, imp</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="window">
+                <h1>Result</h1>
+                <div id="resultSuccess"></div>
+                <div id="resultMessage"></div>
+                <div id="resultTrace"></div>
+            </div>
+        </main>
+    </body>
+</html>
