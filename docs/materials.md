@@ -4,9 +4,7 @@ This page will be updated as term progresses.
 
 _Files linked to on this page will require you to log in with your university username and password. Just click the link and you will be redirected to a login page, please check it starts with `login.microsoftonline.com`. Never, ever enter your university password on a site without checking first whether it is the real login page or a fake one trying to steal your account (and your maintenance loan) - the real one starts with the address mentioned and your browser must not give any kind of security warning when you are on the page._
 
-**Links will only start working when student registration for next year goes live, probably around the start of welcome week.**
-
-This link to the [unit filestore](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/) gives you a folder view of where all the videos, worksheets and notes are stored.
+This link to the [unit filestore](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/) gives you a folder view of where all the worksheets are stored.
 
 ## Textbooks
 
@@ -69,7 +67,7 @@ To get attendance for this workshop, you must complete the class test and hand i
 
 Class Test 1 is only on logic material from Week 1, not on the proof material from this week yet.
 
-## Week 3, Workshop 2 on Thursday, 6 October
+## Week 2, Workshop 2 on Thursday, 6 October
 
   - Topic: Proof 2
     - Proof by induction
@@ -80,7 +78,7 @@ Class Test 1 is only on logic material from Week 1, not on the proof material fr
   - Worksheet: [WS4](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS1.pdf)
   - Solutions: _will appear after the workshop_
 
-## Week 4, Workshop 1 on Monday, 10 October
+## Week 3, Workshop 1 on Monday, 10 October
 
   - Topic: Proof 3
     - Direct proof
@@ -91,3 +89,62 @@ Class Test 1 is only on logic material from Week 1, not on the proof material fr
     - [Proof strategies (49 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/proof-3-proof-strategies-narrated_v8.mp4)
   - Worksheet: [WS5](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS5.pdf)
   - Solutions: _will appear after the workshop_
+
+## Week 3, Workshop 2 on Thursday, 13 October
+
+  - Topic: Predicate logic (Logic 3)
+    - universal and existence quantifiers
+    - DeMorgan with quantifiers
+    - free and bound variables
+  - Videos:
+    - _coming soon_
+  - Worksheet: [WS6](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS6.pdf)
+  - Solutions: _will appear after the workshop_
+
+## Week 4, Workshop 1 on Monday, 17 October
+
+  - Topic: Logic 4
+    - formal syntax of predicate logic
+    - converting to/from natural language
+    - link to set theory
+  - Videos:
+    - _coming soon_
+  - Worksheet: [WS7](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS7.pdf)
+  - Solutions: _will appear after the workshop_
+
+## Week 4, Workshop 2 on Thursday, 20 October
+
+  - Topic: set theory
+    - operations: union, intersection, complement, difference
+    - elements, subsets
+    - laws
+    - cardinality
+    - Cartesian product
+    - powerset
+  - Videos:
+    - _coming soon_
+  - Worksheet: [WS8](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS8.pdf)
+  - Solutions: _will appear after the workshop_
+
+## Week 5, Workshop 1 on Monday, 24 October
+
+  - Topic: functions and relations
+    - function definition
+    - injective, surjective, bijective
+    - composition
+    - inverse
+    - relation definition
+    - composition, inverse
+    - reflexive, symmetrice, transitive
+    - equivalence relations
+  - Videos:
+    - _coming soon_
+  - Worksheet: _coming soon_
+
+## Week 5, Workshop 2 on Thursday, 27 October
+
+_coming soon_
+
+## Week 6
+
+Week 6 is reading week. There are no workshops or support sessions.
