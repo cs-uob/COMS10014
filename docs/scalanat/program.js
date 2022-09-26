@@ -7212,6 +7212,9 @@ $c_Lscalanat_proof_Proof$.prototype.mapParams__sci_Seq__sci_Map__sci_Seq = (func
 $c_Lscalanat_proof_Proof$.prototype.checkIndexes__sci_Seq__sci_Map__I__V = (function(indexes, activemap, counter) {
   indexes.foreach__F1__V(new $c_sjsr_AnonFunction1(((v1) => {
     var i = $uI(v1);
+    if ((i === counter)) {
+      throw new $c_Lscalanat_proof_ProofException((("Line " + counter) + ": Line cannot refer to itself."), $as_sci_Seq($m_s_package$().s_package$__f_Seq.apply__sci_Seq__sc_SeqOps($m_sr_ScalaRunTime$().genericWrapArray__O__sci_ArraySeq(new ($d_sr_Nothing$.getArrayOf().constr)([])))))
+    };
     if ((!activemap.contains__O__Z(i))) {
       throw new $c_Lscalanat_proof_ProofException((((("Line " + counter) + ": No previous line ") + i) + " at this point."), $as_sci_Seq($m_s_package$().s_package$__f_Seq.apply__sci_Seq__sc_SeqOps($m_sr_ScalaRunTime$().genericWrapArray__O__sci_ArraySeq(new ($d_sr_Nothing$.getArrayOf().constr)([])))))
     };
