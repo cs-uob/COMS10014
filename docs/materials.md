@@ -97,7 +97,10 @@ Class Test 1 is only on logic material from Week 1, not on the proof material fr
     - DeMorgan with quantifiers
     - free and bound variables
   - Videos:
-    - _coming soon_
+    - [Predicate logic introduction (4 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-3_1-3_Introduction-to-Predicate-Logic.mp4)
+    - [Assertions in programs (11 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-3_4-13_Predicates-in-Programming.mp4)
+    - [Quantifiers (15 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-3_14-23_Quantification-Intro.mp4)
+    - [How to use quantifiers (13 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-3_24-30_How-to-use-quantifiers.mp4)
   - Worksheet: [WS6](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS6.pdf)
   - Solutions: _will appear after the workshop_
 
