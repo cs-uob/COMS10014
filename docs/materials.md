@@ -142,11 +142,14 @@ Class Test 1 is only on logic material from Week 1, not on the proof material fr
     - equivalence relations
   - Videos:
     - _coming soon_
-  - Worksheet: _coming soon_
+  - Worksheet: Worksheet: [WS9](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS9.pdf)
 
 ## Week 5, Workshop 2 on Thursday, 27 October
 
-_coming soon_
+  - No new materials, please revise everything you have learnt so far.
+  - Worksheet: Class test 2 (will be handed out in workshop).
+
+To get attendance for this workshop, you must complete the class test and hand in your completed answer sheet before the end of the workshop.
 
 ## Week 6
 
