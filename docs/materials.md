@@ -109,7 +109,8 @@ Class Test 1 is only on logic material from Week 1, not on the proof material fr
     - converting to/from natural language
     - link to set theory
   - Videos:
-    - _coming soon_
+    - [Syntax of predicate logic (10 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-4_1-5_Syntax-of-Predicate-Logic.mp4)
+    - [Translating to/from predicate logic (22 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-4_6-13_Translating-to-and-from-Predicate-Logic.mp4)
   - Worksheet: [WS7](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS7.pdf)
   - Solutions: _will appear after the workshop_
 
@@ -123,7 +124,9 @@ Class Test 1 is only on logic material from Week 1, not on the proof material fr
     - Cartesian product
     - powerset
   - Videos:
-    - _coming soon_
+    - [Set theory (15 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-5_1-8_Introduction-to-Set-Theory.mp4)
+    - [Properties of sets (10 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-5_9-15_Properties-of-Sets.mp4)
+    - [Cardinality, Product, Powerset (14 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-5_16-21_Cardinality-Cartesian-Product-and-Power-Sets.mp4)
   - Worksheet: [WS8](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS8.pdf)
   - Solutions: _will appear after the workshop_
 
