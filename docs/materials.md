@@ -73,8 +73,7 @@ Class Test 1 is only on logic material from Week 1, not on the proof material fr
   - Videos:
     - [Mathematical induction (26min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/proof-2-mathematical-induction-narrated-HR_v3.mp4)
     - [Loop invariants (28min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/proof-2-loop-invariant-proof-narrated_v3.mp4)
-  - Worksheet: [WS4](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS4.pdf)
-  - Solutions: _will appear after the workshop_
+  - Worksheet: [WS4](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS4.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/solutions/SL4.pdf)
 
 ## Week 3, Workshop 1 on Monday, 10 October
 
