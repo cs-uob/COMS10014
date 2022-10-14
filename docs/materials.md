@@ -84,8 +84,7 @@ Class Test 1 is only on logic material from Week 1, not on the proof material fr
     - Writing up proofs
   - Videos:
     - [Proof strategies (49 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/proof-3-proof-strategies-narrated_v8.mp4)
-  - Worksheet: [WS5](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS5.pdf)
-  - Solutions: _will appear after the workshop_
+  - Worksheet: [WS5](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS5.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/solutions/SL5.pdf)
 
 ## Week 3, Workshop 2 on Thursday, 13 October
 
@@ -98,8 +97,7 @@ Class Test 1 is only on logic material from Week 1, not on the proof material fr
     - [Assertions in programs (11 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-3_4-13_Predicates-in-Programming.mp4)
     - [Quantifiers (15 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-3_14-23_Quantification-Intro.mp4)
     - [How to use quantifiers (13 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-3_24-30_How-to-use-quantifiers.mp4)
-  - Worksheet: [WS6](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS6.pdf)
-  - Solutions: _will appear after the workshop_
+  - Worksheet: [WS6](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS6.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/solutions/SL6.pdf)
 
 ## Week 4, Workshop 1 on Monday, 17 October
 
