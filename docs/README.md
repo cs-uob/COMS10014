@@ -2,7 +2,7 @@
 
 Welcome to the unit website for COMS10014 Mathematics for Computer Science A in the 2022-23 academic year!
 
-_This page contains information for students starting their degree and taking the unit in the autumn of 2022. Previous students looking for an older version of the page should use the final-2021-2022 tag on the github repository._
+_This page contains information for students starting their degree and taking the unit in the autumn of 2022. Previous students looking for an older version of the page should use the [final-2021-2022 tag](prevyear.md) on the github repository._
 
 This unit and its companion Mathematics B teach you the basic mathematics that you will need in your Computer Science degree. The topics have been selected based on the needs of units in later years linked to some of our research areas, for example algorithms, machine learning, data science or computational neuroscience as well as topics in statistics that will be of interest to you when you perform experiments or evaluations in your final project or other units later on in your degree.
 
