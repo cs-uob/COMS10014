@@ -139,7 +139,8 @@ Class Test 1 is only on logic material from Week 1, not on the proof material fr
     - reflexive, symmetrice, transitive
     - equivalence relations
   - Videos:
-    - _coming soon_
+    - [Functions (23 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-6-from-screenshots-narrated_v14-1-19.mp4)
+    - [Relations (26 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-6-from-screenshots-narrated_v14-20-37.mp4)
   - Worksheet: Worksheet: [WS9](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS9.pdf)
 
 ## Week 5, Workshop 2 on Thursday, 27 October
