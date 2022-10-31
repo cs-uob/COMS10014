@@ -16,6 +16,8 @@ That said, for students who do like to learn from books, the following ones may 
   - _Clive Newstead, [An Infinite Descent into Pure Mathematics](https://infinitedescent.xyz/)._ This is a textbook on logic, available as a free PDF download in the link above. It might be particularly helpful during the first weeks for those who want a fully written out treatment of some of the detailed parts of logic and proof.
   - _Lehman, Leighton and Meyer, [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)._ It is only lightly related to the specific selection of topics we cover in this unit, but it is written by people working at MIT and google who clearly know their maths, and it does cover both some "how to write proofs" and some probability theory.
 
+# Part 1 - Logic and Proof
+
 ## Week 1, Workshop 1 on Monday, 26 September
 
   - Topic: Logic 1
@@ -139,7 +141,7 @@ Class Test 1 is only on logic material from Week 1, not on the proof material fr
   - Videos:
     - [Functions (23 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-6-from-screenshots-narrated_v14-1-19.mp4)
     - [Relations (26 min)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Shared%20Documents/Videos/logic-6-from-screenshots-narrated_v14-20-37.mp4)
-  - Worksheet: Worksheet: [WS9](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS9.pdf) and  [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/solutions/SL9.pdf)
+  - Worksheet: [WS9](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS9.pdf) and  [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/solutions/SL9.pdf)
 
 ## Week 5, Workshop 2 on Thursday, 27 October
 
@@ -151,3 +153,33 @@ To get attendance for this workshop, you must complete the class test and hand i
 ## Week 6
 
 Week 6 is reading week. There are no workshops or support sessions.
+
+# Part 2 - Probability
+
+For this part we will be using videos by Conor Houghton. His videos are hosted on the public site youtube, you can find all of them in [this playlist](https://www.youtube.com/playlist?list=PLLoKxeaVi8H7eCmAWCC8LziVJ8PJBVv39). Conor also has his own channel where he used to do stand-up comedy, it's worth having a look!
+
+Conor is Irish, and in Ireland the two sides of a coin are called "heads" and "harps". 
+
+Along with the videos, there are typed lecture notes for this part of the unit; you should read these as well as watching the videos before the workshop.
+
+## Week 7, Workshop 1 on Monday 7 November
+
+  - Topic: Introduction to probability theory
+    - Combinatorics
+    - Definition of probability
+  - Videos: 
+    - [Introduction (14 min)](https://www.youtube.com/watch?v=m4VZmCaPg6A)
+    - [Combinatorics (16 min)](https://www.youtube.com/watch?v=NkPpy23FQik)
+    - [Example (66 min)](https://www.youtube.com/watch?v=NkPpy23FQik)
+    - [More examples (17 min)](https://www.youtube.com/watch?v=IqtLhm3RLs4)
+  - [Lecture notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/notes/1_probability.pdf)
+  - Worksheet: [WS11](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS11.pdf)
+
+## Week 7, Workshop 2 on Thursday 10 November
+
+  - Topic: Conditional probability
+  - Videos:
+    - [Conditional probability (8 min)](https://www.youtube.com/watch?v=HFqQ-PbeAO4)
+    - [Examples (13 min)](https://www.youtube.com/watch?v=tywtuVCu6T4)
+  - [Lecture notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/notes/2_conditional_probability.pdf)
+  - Worksheet: [WS12](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS12.pdf)
