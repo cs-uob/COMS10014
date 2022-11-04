@@ -170,7 +170,7 @@ Along with the videos, there are typed lecture notes for this part of the unit; 
   - Videos: 
     - [Introduction (14 min)](https://www.youtube.com/watch?v=m4VZmCaPg6A)
     - [Combinatorics (16 min)](https://www.youtube.com/watch?v=NkPpy23FQik)
-    - [Example (66 min)](https://www.youtube.com/watch?v=NkPpy23FQik)
+    - [Example (66 min)](https://www.youtube.com/watch?v=iPRLjaFcmkE)
     - [More examples (17 min)](https://www.youtube.com/watch?v=IqtLhm3RLs4)
   - [Lecture notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/notes/1_probability.pdf)
   - Worksheet: [WS11](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS11.pdf)
