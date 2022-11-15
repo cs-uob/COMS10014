@@ -199,3 +199,13 @@ Along with the videos, there are typed lecture notes for this part of the unit; 
     - [conditional independence (13 min)](https://www.youtube.com/watch?v=UyNTsRi89qE&list=PLLoKxeaVi8H7eCmAWCC8LziVJ8PJBVv39&index=8)
     - [naive Bayes classifier (12 min)](https://www.youtube.com/watch?v=UQnIz2w6tZs&list=PLLoKxeaVi8H7eCmAWCC8LziVJ8PJBVv39&index=9)
   - Worksheet: [WS14](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS14.pdf)
+
+## Week 9, Workshop 1 on Monday 21 November
+
+  - Class Test 3
+  - No new videos or material for this workshop.
+  - Attendance is given for signing in with your UCard AND handing in your answer sheet.
+
+## Week 9, Workshop 2 on Thursday 24 November
+
+This workshop is cancelled. All students will automatically get +1 attendance for the cancelled workshop. No new materials for this cancelled workshop.
