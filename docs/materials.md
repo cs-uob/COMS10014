@@ -182,7 +182,7 @@ Along with the videos, there are typed lecture notes for this part of the unit; 
     - [Conditional probability (8 min)](https://www.youtube.com/watch?v=HFqQ-PbeAO4)
     - [Examples (13 min)](https://www.youtube.com/watch?v=tywtuVCu6T4)
   - [Lecture notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/notes/2_conditional_probability.pdf)
-  - Worksheet: [WS12](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS12.pdf) and  [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/solutions/SL12.pdf)
+  - Worksheet: [WS12](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS12.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/solutions/SL12.pdf)
 
 ## Week 8, Workshop 1 on Monday 14 November
 
@@ -190,7 +190,7 @@ Along with the videos, there are typed lecture notes for this part of the unit; 
   - Videos:
     - [Bayes' theorem (17 min)](https://www.youtube.com/watch?v=T-couJdnpzQ&list=PLLoKxeaVi8H7eCmAWCC8LziVJ8PJBVv39&index=7)
   - [Lecture notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/notes/3_bayes.pdf)
-  - Worksheet: [WS13](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS13.pdf)
+  - Worksheet: [WS13](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS13.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/solutions/SL13.pdf)
 
 ## Week 8, Workshop 2 on Thursday 17 November
 
@@ -198,7 +198,7 @@ Along with the videos, there are typed lecture notes for this part of the unit; 
   - Videos:
     - [conditional independence (13 min)](https://www.youtube.com/watch?v=UyNTsRi89qE&list=PLLoKxeaVi8H7eCmAWCC8LziVJ8PJBVv39&index=8)
     - [naive Bayes classifier (12 min)](https://www.youtube.com/watch?v=UQnIz2w6tZs&list=PLLoKxeaVi8H7eCmAWCC8LziVJ8PJBVv39&index=9)
-  - Worksheet: [WS14](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS14.pdf)
+  - Worksheet: [WS14](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS14.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/solutions/SL14.pdf)
 
 ## Week 9, Workshop 1 on Monday 21 November
 
