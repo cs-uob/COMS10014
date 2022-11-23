@@ -209,3 +209,25 @@ Along with the videos, there are typed lecture notes for this part of the unit; 
 ## Week 9, Workshop 2 on Thursday 24 November
 
 This workshop is cancelled. All students will automatically get +1 attendance for the cancelled workshop. No new materials for this cancelled workshop.
+
+## Week 10, Workshop 1 on Monday 28 November
+
+  - Topic: random variables
+  - Videos:
+    - [random variables (7 min)](https://www.youtube.com/watch?v=SLMaAnok4Os&list=PLLoKxeaVi8H7eCmAWCC8LziVJ8PJBVv39&index=10)
+    - [joint distributions (17 min)](https://www.youtube.com/watch?v=xxqJ2qG-1nM&list=PLLoKxeaVi8H7eCmAWCC8LziVJ8PJBVv39&index=11)
+    - [expected values (14 min)](https://www.youtube.com/watch?v=_YmTIHCNAUg&list=PLLoKxeaVi8H7eCmAWCC8LziVJ8PJBVv39&index=12)
+    - [binomial distribution (14 min)](https://www.youtube.com/watch?v=cERVjRttFr4&list=PLLoKxeaVi8H7eCmAWCC8LziVJ8PJBVv39&index=14)
+  - Lecture notes:
+    - [random variables](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/notes/4_random_variables.pdf)
+    - [binomial distribution](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/notes/5_binomial_distribution.pdf)
+  - Worksheet: [WS16](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS16.pdf)
+
+## Week 10, Workshop 2 on Thursday 1 December
+
+  - Topic: Poisson distribution
+  - Videos:
+    - [Poisson distribution (24 min)](https://www.youtube.com/watch?v=1CfCRt4Bntg&list=PLLoKxeaVi8H7eCmAWCC8LziVJ8PJBVv39&index=13)
+  - Lecture notes:
+    - [Poisson distribution](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/notes/6_Poisson_distribution.pdf)
+  - Worksheet: [WS17](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS17.pdf)
