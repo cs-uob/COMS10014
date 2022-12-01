@@ -221,7 +221,7 @@ This workshop is cancelled. All students will automatically get +1 attendance fo
   - Lecture notes:
     - [random variables](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/notes/4_random_variables.pdf)
     - [binomial distribution](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/notes/5_binomial_distribution.pdf)
-  - Worksheet: [WS16](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS16.pdf)
+  - Worksheet: [WS16](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS16.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/solutions/SL16.pdf)
 
 ## Week 10, Workshop 2 on Thursday 1 December
 
@@ -230,7 +230,7 @@ This workshop is cancelled. All students will automatically get +1 attendance fo
     - [Poisson distribution (24 min)](https://www.youtube.com/watch?v=1CfCRt4Bntg&list=PLLoKxeaVi8H7eCmAWCC8LziVJ8PJBVv39&index=13)
   - Lecture notes:
     - [Poisson distribution](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/notes/6_Poisson_distribution.pdf)
-  - Worksheet: [WS17](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS17.pdf)
+  - Worksheet: [WS17](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS17.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/solutions/SL17.pdf)
 
 ## Week 11, Workshop 1 on Monday 5 December
 
@@ -250,3 +250,9 @@ This workshop is cancelled. All students will automatically get +1 attendance fo
   - Lecture notes:
     - [Gauss distribution](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/notes/8_Gauss_distribution.pdf)
   - Worksheet: [WS19](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS19.pdf)
+
+## Week 12 (12-16 December)
+
+This is revision week so no new material, no attendance hurdle, and also no opportunity to make up for missed workshops earlier in the year.
+  - The drop-ins on Tuesday 4pm and Thursday 1pm are cancelled.
+  - Instead, the Monday 1pm-3pm and Thursday 9am-11am sessions become "super drop-ins" where me and some TAs will be around to answer your questions.
