@@ -240,7 +240,7 @@ This workshop is cancelled. All students will automatically get +1 attendance fo
     - [expected values (11 min)](https://www.youtube.com/watch?v=hQGDAjPvLe8&list=PLLoKxeaVi8H7eCmAWCC8LziVJ8PJBVv39&index=16)
   - Lecture notes:
     - [continuous random variables](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/notes/7_continuous_random.pdf)
-  - Worksheet: [WS18](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS18.pdf)
+  - Worksheet: [WS18](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS18.pdf)  and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/solutions/SL18.pdf)
 
 ## Week 11, Workshop 2 on Thursday 8 December
 
@@ -249,7 +249,7 @@ This workshop is cancelled. All students will automatically get +1 attendance fo
     - [Gauss distribution (25 min)](https://www.youtube.com/watch?v=xTcLKGYbu6U&list=PLLoKxeaVi8H7eCmAWCC8LziVJ8PJBVv39&index=17)
   - Lecture notes:
     - [Gauss distribution](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/notes/8_Gauss_distribution.pdf)
-  - Worksheet: [WS19](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS19.pdf)
+  - Worksheet: [WS19](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/worksheets/WS19.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2022-23-TB-1-A/Class%20Materials/solutions/SL19.pdf)
 
 ## Week 12 (12-16 December)
 
