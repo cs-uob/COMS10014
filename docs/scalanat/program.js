@@ -6231,7 +6231,7 @@ function $c_Lscalanat_parser_Parser$() {
   this.Lscalanat_parser_Parser$__f_OPERATORS = null;
   $n_Lscalanat_parser_Parser$ = this;
   var this$31 = $m_s_Predef$().s_Predef$__f_Map;
-  var elems = $m_sr_ScalaRunTime$().wrapRefArray__AO__sci_ArraySeq(new ($d_T2.getArrayOf().constr)([new $c_T2("and", "and"), new $c_T2("&", "and"), new $c_T2("/\\", "and"), new $c_T2("\u2227", "and"), new $c_T2("or", "or"), new $c_T2("|", "or"), new $c_T2("\\/", "or"), new $c_T2("\u2228", "or"), new $c_T2("not", "not"), new $c_T2("-", "not"), new $c_T2("~", "not"), new $c_T2("\u00ac", "not"), new $c_T2("imp", "imp"), new $c_T2("=>", "imp"), new $c_T2("\u21d2", "imp")]));
+  var elems = $m_sr_ScalaRunTime$().wrapRefArray__AO__sci_ArraySeq(new ($d_T2.getArrayOf().constr)([new $c_T2("and", "and"), new $c_T2("&", "and"), new $c_T2("/\\", "and"), new $c_T2("\u2227", "and"), new $c_T2("or", "or"), new $c_T2("|", "or"), new $c_T2("\\/", "or"), new $c_T2("\u2228", "or"), new $c_T2("not", "not"), new $c_T2("-", "not"), new $c_T2("~", "not"), new $c_T2("\u00ac", "not"), new $c_T2("imp", "imp"), new $c_T2("->", "imp"), new $c_T2("\u2192", "imp")]));
   this.Lscalanat_parser_Parser$__f_OPERATORS = this$31.from__sc_IterableOnce__sci_Map(elems)
 }
 $c_Lscalanat_parser_Parser$.prototype = new $h_O();
@@ -6673,13 +6673,13 @@ function $c_Lscalanat_parser_Tokeniser$() {
   this.Lscalanat_parser_Tokeniser$__f_Symbols = null;
   $n_Lscalanat_parser_Tokeniser$ = this;
   var this$1 = $m_s_Predef$().s_Predef$__f_Set;
-  var elems = $m_sr_ScalaRunTime$().wrapCharArray__AC__sci_ArraySeq(new $ac_C(new Uint16Array([38, 124, 8743, 8744, 45, 126, 172, 8658])));
+  var elems = $m_sr_ScalaRunTime$().wrapCharArray__AC__sci_ArraySeq(new $ac_C(new Uint16Array([38, 124, 8743, 8744, 126, 172, 8594])));
   this.Lscalanat_parser_Tokeniser$__f_OneCharOps = this$1.from__sc_IterableOnce__sci_Set(elems);
   var this$2 = $m_s_Predef$().s_Predef$__f_Set;
   var elems$1 = $m_sr_ScalaRunTime$().wrapRefArray__AO__sci_ArraySeq(new ($d_T.getArrayOf().constr)(["and", "or", "not", "imp"]));
   this.Lscalanat_parser_Tokeniser$__f_Words = this$2.from__sc_IterableOnce__sci_Set(elems$1);
   var this$3 = $m_s_Predef$().s_Predef$__f_Set;
-  var elems$2 = $m_sr_ScalaRunTime$().wrapRefArray__AO__sci_ArraySeq(new ($d_T.getArrayOf().constr)(["/\\", "\\/", "=>"]));
+  var elems$2 = $m_sr_ScalaRunTime$().wrapRefArray__AO__sci_ArraySeq(new ($d_T.getArrayOf().constr)(["/\\", "\\/", "->"]));
   this.Lscalanat_parser_Tokeniser$__f_Symbols = this$3.from__sc_IterableOnce__sci_Set(elems$2)
 }
 $c_Lscalanat_parser_Tokeniser$.prototype = new $h_O();
@@ -10001,7 +10001,7 @@ function $c_Lscalanat_deduction_ImplicationElimination$() {
   this.Lscalanat_deduction_ImplicationElimination$__f_length = 0;
   this.Lscalanat_deduction_ImplicationElimination$__f_name = null;
   this.Lscalanat_deduction_ImplicationElimination$__f_length = 2;
-  this.Lscalanat_deduction_ImplicationElimination$__f_name = "\u21d2E"
+  this.Lscalanat_deduction_ImplicationElimination$__f_name = "\u2192E"
 }
 $c_Lscalanat_deduction_ImplicationElimination$.prototype = new $h_Lscalanat_deduction_Rule();
 $c_Lscalanat_deduction_ImplicationElimination$.prototype.constructor = $c_Lscalanat_deduction_ImplicationElimination$;
@@ -10067,7 +10067,7 @@ function $c_Lscalanat_deduction_ImplicationIntroduction$() {
   this.Lscalanat_deduction_ImplicationIntroduction$__f_length = 0;
   this.Lscalanat_deduction_ImplicationIntroduction$__f_name = null;
   this.Lscalanat_deduction_ImplicationIntroduction$__f_length = 1;
-  this.Lscalanat_deduction_ImplicationIntroduction$__f_name = "\u21d2I"
+  this.Lscalanat_deduction_ImplicationIntroduction$__f_name = "\u2192I"
 }
 $c_Lscalanat_deduction_ImplicationIntroduction$.prototype = new $h_Lscalanat_deduction_Rule();
 $c_Lscalanat_deduction_ImplicationIntroduction$.prototype.constructor = $c_Lscalanat_deduction_ImplicationIntroduction$;
@@ -19687,7 +19687,7 @@ $c_Lscalanat_term_ImpTerm.prototype.out__Lscalanat_term_Symbols__T = (function(s
     };
     var rs = this.Lscalanat_term_ImpTerm__f_right.out__Lscalanat_term_Symbols__T(symbols)
   };
-  return ((ls + " \u21d2 ") + rs)
+  return ((ls + " \u2192 ") + rs)
 });
 function $as_Lscalanat_term_ImpTerm(obj) {
   return (((obj instanceof $c_Lscalanat_term_ImpTerm) || (obj === null)) ? obj : $throwClassCastException(obj, "scalanat.term.ImpTerm"))
