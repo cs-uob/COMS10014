@@ -22,6 +22,8 @@ Some workshops are in-class tests. For these, you get attendance by
   
 It does not matter how well or badly you do on the test - you do not need to pass the test to get attendance - as long as you have made a reasonable attempt.
 
+The card sign-ins for workshops (both normal and class test ones) are a separate system from any other sign-ins you might do using phone apps, PIN codes or swiping your card on the entrance door of the building; those all have their function (such as visa monitoring for overseas students) but for the purpose of the attendance hurdle, only card sign-ins done in the workshops count.
+
 ## Authorised Absences
 
 If you are unwell for a workshop, you must self-certify your absence with the school on the day. You do not need a doctor's note for this. A self-certified workshop counts the same as an attended one for attendance tracking purposes. If you need to be absent for another reason, ask the school for permission first. For all questions about self-certification and absence, ask the school office at [coms-student-enquiries@bristol.ac.uk](mailto:coms-student-enquiries@bristol.ac.uk) - not your unit lecturers or TAs, they have no access to the self-certify system.
