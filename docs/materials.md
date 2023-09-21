@@ -14,4 +14,86 @@ That said, for students who do like to learn from books, the following ones may 
   - _Clive Newstead, [An Infinite Descent into Pure Mathematics](https://infinitedescent.xyz/)._ This is a textbook on logic, available as a free PDF download in the link above. It might be particularly helpful during the first weeks for those who want a fully written out treatment of some of the detailed parts of logic and proof.
   - _Lehman, Leighton and Meyer, [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)._ It is only lightly related to the specific selection of topics we cover in this unit, but it is written by people working at MIT and google who clearly know their maths, and it does cover both some "how to write proofs" and some probability theory.
 
+The main link to the materials folder is [this teams link](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/Forms/AllItems.aspx). You will need to sign in with your university account.
+
 # Part 1 - Logic and Proof
+
+## Week 1, Workshop 1 on Tuesday 26 October
+
+  - Topic: terms
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/01-terms.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS01_Terms.pdf)
+
+## Week 1, Workshop 2 on Thursday 28 October
+
+  - Topic: propositional logic
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/02-logic.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS02_Logic1.pdf)
+
+## Week 2, Workshop 3 on Tuesday 3 November
+
+  - Topic: propositional logic
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/03-morelogic.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS03_Logic2.pdf)
+
+## Week 2, Workshop 4 on Thursday 5 November
+
+  - Topic: proofs
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/04-proofs.pdf)
+
+In this workshop, we will do a class test under semi-exam conditions. You will fill in your answers on an answer sheet that you hand in at the end of the workshop.
+
+The class test will be on the material from workshops 1-3 (propositional logic).
+
+You must bring a **pencil and eraser** to fill in the answer sheet. You must not use pen or correction fluid. You may use a non-programmable calculator.
+
+You may bring up to one side A4 of original handwritten notes.
+
+## Week 3, Workshop 5 on Tuesday 10 November
+
+  - Topic: proofs
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/05-moreproofs.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS05_Proofs.pdf)
+
+## Week 3, Workshop 6 on Thursday 12 November
+
+  - Topic: proofs by induction
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/06-induction.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS06_Induction.pdf)
+
+## Week 4, Workshop 7 on Tuesday 17 November
+
+  - Topic: predicate logic
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/07-predicates.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS07_Predicates.pdf)
+
+## Week 4, Workshop 8 on Thursday 19 November
+
+  - Topic: sets
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/08-sets.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS08_Sets.pdf)
+
+## Week 5, Workshop 9 on Tuesday 24 November
+
+  - Topic: functions
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/09-functions.pdf)
+
+In this workshop, we will have our second class test. The material is everything up to lecture 8 on sets.
+
+You must bring a **pencil and eraser** to fill in the answer sheet. You must not use pen or correction fluid. You may use a non-programmable calculator.
+
+You may bring up to one side A4 of original handwritten notes.
+
+## Week 3, Workshop 10 on Thursday 26 November
+
+  - Topic: relations
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/10-relations.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS10_Functions_Relations.pdf)
+
+## Week 6
+
+Week 6 is reading week. There are no lectures, workshops or drop-ins.
+
+# Part 2 - Probability Theory
+
+I'm working on it ...
