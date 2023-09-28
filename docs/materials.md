@@ -23,12 +23,14 @@ The main link to the materials folder is [this teams link](https://uob.sharepoin
   - Topic: terms
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/01-terms.pdf)
   - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS01_Terms.pdf)
+  and [solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/solutions/SL01_Terms.pdf)
 
 ## Week 1, Workshop 2 on Thursday 28 October
 
   - Topic: propositional logic
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/02-logic.pdf)
-  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS02_Logic1.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS02_Logic1.pdf) and 
+  [solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/solutions/SL02_Logic1.pdf)
 
 ## Week 2, Workshop 3 on Tuesday 3 November
 
