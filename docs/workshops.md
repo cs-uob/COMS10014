@@ -26,7 +26,12 @@ The card sign-ins for workshops (both normal and class test ones) are a separate
 
 ## Authorised Absences
 
-If you are unwell for a workshop, you must self-certify your absence with the school on the day. You do not need a doctor's note for this. A self-certified workshop counts the same as an attended one for attendance tracking purposes. If you need to be absent for another reason, ask the school for permission first. For all questions about self-certification and absence, ask the school office at [coms-student-enquiries@bristol.ac.uk](mailto:coms-student-enquiries@bristol.ac.uk) - not your unit lecturers or TAs, they have no access to the self-certify system.
+If you are unwell for a workshop, you must self-certify your absence with the school on the day. You do not need a doctor's note for this. A self-certified workshop counts the same as an attended one for attendance tracking purposes. If you need to be absent for another reason, ask the school for permission first. 
+
+To self-certify your absence on the day, please use [this form](https://forms.office.com/pages/responsepage.aspx?id=MH_ksn3NTkql2rGM8aQVG-pj0DRjxdBLqYjaUMvfzEBURFFTRkdYWlJHTjYzWjRENE5CSU1QRFI3VSQlQCN0PWcu). You will need to log in with your university account.
+
+
+For all other questions about self-certification and absence, ask the school office at [coms-student-enquiries@bristol.ac.uk](mailto:coms-student-enquiries@bristol.ac.uk) - not your unit lecturers or TAs, they have no access to the self-certify system.
 
 If you have registered a disability with the university, or you have caring responsibilities (for example, you are a parent) then you should talk to the school about possible exceptions from the attendance hurdle.
 
