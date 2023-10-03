@@ -36,7 +36,8 @@ The main link to the materials folder is [this teams link](https://uob.sharepoin
 
   - Topic: propositional logic
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/03-morelogic.pdf)
-  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS03_Logic2.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS03_Logic2.pdf) and 
+  [solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/solutions/SL03_Logic2.pdf)
 
 ## Week 2, Workshop 4 on Thursday 5 November
 
