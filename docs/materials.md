@@ -18,28 +18,28 @@ The main link to the materials folder is [this teams link](https://uob.sharepoin
 
 # Part 1 - Logic and Proof
 
-## Week 1, Workshop 1 on Tuesday 26 October
+## Week 1, Workshop 1 on Tuesday 26 September
 
   - Topic: terms
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/01-terms.pdf)
   - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS01_Terms.pdf)
   and [solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/solutions/SL01_Terms.pdf)
 
-## Week 1, Workshop 2 on Thursday 28 October
+## Week 1, Workshop 2 on Thursday 28 September
 
   - Topic: propositional logic
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/02-logic.pdf)
   - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS02_Logic1.pdf) and 
   [solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/solutions/SL02_Logic1.pdf)
 
-## Week 2, Workshop 3 on Tuesday 3 November
+## Week 2, Workshop 3 on Tuesday 3 October
 
   - Topic: propositional logic
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/03-morelogic.pdf)
   - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS03_Logic2.pdf) and 
   [solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/solutions/SL03_Logic2.pdf)
 
-## Week 2, Workshop 4 on Thursday 5 November
+## Week 2, Workshop 4 on Thursday 5 October
 
   - Topic: proofs
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/04-proofs.pdf)
@@ -52,31 +52,31 @@ You must bring a **pencil and eraser** to fill in the answer sheet. You must not
 
 You may bring up to one side A4 of original handwritten notes.
 
-## Week 3, Workshop 5 on Tuesday 10 November
+## Week 3, Workshop 5 on Tuesday 10 October
 
   - Topic: proofs
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/05-moreproofs.pdf)
   - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS05_Proofs.pdf)
 
-## Week 3, Workshop 6 on Thursday 12 November
+## Week 3, Workshop 6 on Thursday 12 October
 
   - Topic: proofs by induction
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/06-induction.pdf)
   - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS06_Induction.pdf)
 
-## Week 4, Workshop 7 on Tuesday 17 November
+## Week 4, Workshop 7 on Tuesday 17 October
 
   - Topic: predicate logic
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/07-predicates.pdf)
   - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS07_Predicates.pdf)
 
-## Week 4, Workshop 8 on Thursday 19 November
+## Week 4, Workshop 8 on Thursday 19 October
 
   - Topic: sets
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/08-sets.pdf)
   - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS08_Sets.pdf)
 
-## Week 5, Workshop 9 on Tuesday 24 November
+## Week 5, Workshop 9 on Tuesday 24 October
 
   - Topic: functions
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/09-functions.pdf)
@@ -87,7 +87,7 @@ You must bring a **pencil and eraser** to fill in the answer sheet. You must not
 
 You may bring up to one side A4 of original handwritten notes.
 
-## Week 3, Workshop 10 on Thursday 26 November
+## Week 3, Workshop 10 on Thursday 26 October
 
   - Topic: relations
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/10-relations.pdf)
