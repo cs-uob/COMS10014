@@ -87,7 +87,7 @@ You must bring a **pencil and eraser** to fill in the answer sheet. You must not
 
 You may bring up to one side A4 of original handwritten notes.
 
-## Week 3, Workshop 10 on Thursday 26 October
+## Week 5, Workshop 10 on Thursday 26 October
 
   - Topic: relations
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/10-relations.pdf)
