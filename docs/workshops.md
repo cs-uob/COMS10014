@@ -10,6 +10,22 @@ We expect you to prepare for each workshop by attending the lectures and reading
 
   - Drop-in sessions are optional, and we do not take attendance there either.
 
+## Official Wording
+
+This is the official wording of the attendance hurdles, as agreed with the school:
+
+> Attending at least 75% of the labs/workshops and engaging with the lab work is a "must pass" hurdle for this unit.  
+>
+> The details are: 
+>   - There are 20 mandatory lab/workshops, two each in weeks 1-5 and 7-11.
+>   - If you are unwell, you can self-certify your absence using the following form: [Notication of absence form COMS1012, COMS10013 and COMS10014](https://forms.office.com/e/vu0sJdZPCkor) or by emailing coms-student-enquiries@bristol.ac.uk, then the lab/workshop counts as attended.
+>  - The hurdle is set at 75% which is 15 out of 20 workshops.
+> 
+> If for any reason we need to cancel a workshop, then we will give attendance for everyone involved.  A workshop is only cancelled if we announce that officially on the unit page and on Teams.
+> 
+> We will take attendance in Maths A using UCard sign-ins, but we may use other means if necessary.
+
+
 ## Attendance Hurdle
 
 This unit has an attendance hurdle, as specified in the unit catalogue, that **you must attend at least 75% of all workshops (15 out of 20) otherwise you automatically fail the unit**. Since the hurdle is lower than the 19 workshops we expect you to attend, you will get no sympathy if you attend only 14 and argue that you almost met the hurdle, as you did not come close to the expected 19.
