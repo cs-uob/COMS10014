@@ -70,13 +70,15 @@ You may bring up to one side A4 of original handwritten notes.
 
   - Topic: predicate logic
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/07-predicates.pdf)
-  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS07_Predicates.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS07_Predicates.pdf) and 
+  [solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/solutions/SL07_Predicates.pdf)
 
 ## Week 4, Workshop 8 on Thursday 19 October
 
   - Topic: sets
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/08-sets.pdf)
-  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS08_Sets.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS08_Sets.pdf)  and 
+  [solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/solutions/SL08_Sets.pdf)
 
 ## Week 5, Workshop 9 on Tuesday 24 October
 
