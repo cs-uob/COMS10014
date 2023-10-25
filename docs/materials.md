@@ -85,6 +85,8 @@ You may bring up to one side A4 of original handwritten notes.
   - Topic: functions
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/09-functions.pdf)
 
+_Due to illness, the lecture had to be cancelled at short notice. Please read the lecture notes in your own time: the material may still be assessed in the exam._
+
 In this workshop, we will have our second class test. The material is everything up to lecture 8 on sets.
 
 You must bring a **pencil and eraser** to fill in the answer sheet. You must not use pen or correction fluid. You may use a non-programmable calculator.
@@ -94,7 +96,7 @@ You may bring up to one side A4 of original handwritten notes.
 ## Week 5, Workshop 10 on Thursday 26 October
 
   - Topic: relations
-  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/10-relations.pdf)
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/10-relations.pdf) and [slides](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/2023_10_25-COMS10014__L10_Relations.pdf) _(thanks to Tilo for giving this lecture)_
   - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS10_Functions_Relations.pdf)
 
 ## Week 6
