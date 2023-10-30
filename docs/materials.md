@@ -77,7 +77,7 @@ You may bring up to one side A4 of original handwritten notes.
 
   - Topic: sets
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/08-sets.pdf)
-  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS08_Sets.pdf)  and 
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS08_Sets.pdf) and 
   [solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/solutions/SL08_Sets.pdf)
 
 ## Week 5, Workshop 9 on Tuesday 24 October
@@ -97,7 +97,8 @@ You may bring up to one side A4 of original handwritten notes.
 
   - Topic: relations
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/10-relations.pdf) and [slides](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/2023_10_25-COMS10014__L10_Relations.pdf) _(thanks to Tilo for giving this lecture)_
-  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS10_Functions_Relations.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS10_Functions_Relations.pdf) and 
+  [solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/solutions/SL10_Functions_Relations.pdf)
 
 ## Week 6
 
