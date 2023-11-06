@@ -106,4 +106,18 @@ Week 6 is reading week. There are no lectures, workshops or drop-ins.
 
 # Part 2 - Probability Theory
 
-I'm working on it ...
+_For the second half of the unit, I'm trying something slightly new in the lecture notes. When presenting mathematics, there's always a question how much "back story" to include - the history of the topics, the people who discovered them, the questions they were trying to answer in the first place, philosophical and sometimes even theological points that were relevant to the discoveries in question. Alongside this, there's the question of how much intuition and motivation to present, separately from the definitions and formulas and calculations._
+
+_My experiment for this half of the course is to have the first page of each set of written lecture notes be solely about back story and motivation, narrated by Celian the Elf (pronounced Kelian). I'm sure for some of you, this will help you understand the topic better or make it more interesting; for others, you might not like the style - that's ok, you can just skip the first page of the written notes and the "mathsy" part starts on Page 2._
+
+## Week 7, Workshop 1 on Tuesday 7 November
+
+  - Topic: combinatorics
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/11-combinatorics.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS11_Combinatorics.pdf)
+
+## Week 7, Workshop 2 on Thursday 9 November
+
+  - Topic: introduction to probability
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/12-probability.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS12_Probability.pdf)
