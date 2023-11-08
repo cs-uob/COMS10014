@@ -121,3 +121,15 @@ _My experiment for this half of the course is to have the first page of each set
   - Topic: introduction to probability
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/12-probability.pdf)
   - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS12_Probability.pdf)
+
+## Week 8, Workshop 1 on Tuesday 14 November
+
+  - Topic: random variables
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/13-randomvariables.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS13_Random.pdf)
+
+## Week 8, Workshop 2 on Thursday 16 November
+
+  - Topic: conditional probability
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/14-conditional.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS14_Conditional.pdf)
