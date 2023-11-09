@@ -114,13 +114,15 @@ _My experiment for this half of the course is to have the first page of each set
 
   - Topic: combinatorics
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/11-combinatorics.pdf)
-  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS11_Combinatorics.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS11_Combinatorics.pdf) and 
+  [solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/solutions/SL11_Combinatorics.pdf)
 
 ## Week 7, Workshop 2 on Thursday 9 November
 
   - Topic: introduction to probability
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/12-probability.pdf)
-  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS12_Probability.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS12_Probability.pdf) and 
+  [solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/solutions/SL11_Probability.pdf)
 
 ## Week 8, Workshop 1 on Tuesday 14 November
 
