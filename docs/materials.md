@@ -135,3 +135,21 @@ _My experiment for this half of the course is to have the first page of each set
   - Topic: conditional probability
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/14-conditional.pdf)
   - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS14_Conditional.pdf)
+
+## Week 9, Workshop 1 on Tuesday 21 November
+
+  - Topic: Bayes' theorem
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/15-Bayes.pdf)
+
+Small change of plan:
+
+  - No worksheet (this would have been class test 3, but that is cancelled).
+  - Everyone who has attended at least one workshop so far gets +1 attendance for this workshop for free, so attending is not mandatory.
+  - Instead, the Tuesday 2-4 hour becomes a drop-in session. 
+  - The 5-6pm drop-in session is cancelled.
+
+## Week 9, Workshop 2 on Thursday 23 November
+
+  - Topic: expected values
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/16-expected.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS16_Expected.pdf)
