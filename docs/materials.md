@@ -154,4 +154,16 @@ Small change of plan:
 
   - Topic: expected values
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/16-expected.pdf)
-  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS16_Expected.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS16_Expected.pdf) and [solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/solutions/SL16_Expected.pdf)
+
+## Week 10, Workshop 1 on Tuesday 28 November
+
+  - Topic: discrete distributions
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/17-distributions.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS17_Distributions.pdf)
+
+## Week 10, Workshop 2 on Thursday 30 November
+
+  - Topic: continuous distributions
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/18-continuous.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS18_Continuous.pdf)
