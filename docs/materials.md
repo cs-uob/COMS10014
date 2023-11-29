@@ -167,3 +167,23 @@ Small change of plan:
   - Topic: continuous distributions
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/18-continuous.pdf)
   - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS18_Continuous.pdf)
+
+## Week 11, Workshop 1 on Tuesday 5 December
+
+  - Topic: continuous distributions (continued), then Normal distribution
+  - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/19-normal.pdf)
+  - In the workshop we will do Class Test 4. This test is on everything from Week 7 to Week 10 workshop 1, so combinatorics and discrete probability, but no continuous probability yet.
+
+## Week 11, Workshop 2 on Thursday 7 December
+
+  - We will continue with continuous distributions if necessary; if not then we will skip the lecture. The workshop will take place as usual.
+- [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS20_Normal.pdf)
+
+## Week 12
+
+Week 12 is revision week.
+
+  - No lectures this week.
+  - The two 2-hour workshops become drop-ins.
+  - No attendance will be taken, and Week 12 cannot be used to make up missed attendance earlier in the term. The drop-ins are optional to attend.
+  - The Tuesday 5-6pm drop-in is cancelled as we already have 4h of drop-ins this week.
