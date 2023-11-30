@@ -160,13 +160,13 @@ Small change of plan:
 
   - Topic: discrete distributions
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/17-distributions.pdf)
-  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS17_Distributions.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS17_Distributions.pdf) and [solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/solutions/SL17_Distributions.pdf)
 
 ## Week 10, Workshop 2 on Thursday 30 November
 
   - Topic: continuous distributions
   - [lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/notes/18-continuous.pdf)
-  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS18_Continuous.pdf)
+  - [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS18_Continuous.pdf) and [solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/solutions/SL18_Continuous.pdf)
 
 ## Week 11, Workshop 1 on Tuesday 5 December
 
