@@ -16,6 +16,10 @@ That said, for students who do like to learn from books, the following ones may 
 
 The main link to the materials folder is [this teams link](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/Forms/AllItems.aspx). You will need to sign in with your university account.
 
+## Revision Notes
+
+You can find a list of the main topics and calculations/procedures you should know for the exam in [this document](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/index.pdf).
+
 # Part 1 - Logic and Proof
 
 ## Week 1, Workshop 1 on Tuesday 26 September
