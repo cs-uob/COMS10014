@@ -181,7 +181,7 @@ Small change of plan:
 ## Week 11, Workshop 2 on Thursday 7 December
 
   - We will continue with continuous distributions if necessary; if not then we will skip the lecture. The workshop will take place as usual.
-- [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS20_Normal.pdf)
+- [worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/worksheets/WS20_Normal.pdf) and [solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2023-24-TB-1-A/Class%20Materials/solutions/SL20_Normal.pdf)
 
 ## Week 12
 
