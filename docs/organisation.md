@@ -60,12 +60,6 @@ For Maths A, for each block,
 
 The workshops are the main place for you to ask questions, so make use of the TAs who are paid to help you during these hours.
 
-## Class Tests
-
-In some weeks, a workshop will be replaced with a class test. The marks from these do not count towards your unit mark, they are purely for you to be able to assess your own progress on the unit and to practice the format of the final exam. 
-
-Completing the class tests and handing in your answer sheets is mandatory, but failing them has no consequences (beyond encouraging you to improve on the next one). The class tests are your main practice opportunities for the final exam.
-
 ## Technology
 
 This unit, like most of the university, runs on the Microsoft technology stack. 

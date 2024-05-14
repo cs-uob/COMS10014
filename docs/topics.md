@@ -1,6 +1,6 @@
 ---
 layout: page
-nav: true
+nav: Topics
 order: 1
 ---
 

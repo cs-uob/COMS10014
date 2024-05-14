@@ -1,3 +1,8 @@
+---
+nav: Assessment
+order: 4
+---
+
 # Assessment
 
 This unit is worth 20 credit points, which is 1/6 of your first year. Your first year does not count towards your degree classification, but you do need to pass it to progress to 2nd year.
@@ -6,9 +11,33 @@ You get awarded credit for this unit, which you need to progress to 2nd year, if
   * a mark of at least 40% on the exam, and 
   * you meet the attendance hurdle of 15/20 workshops.
 
-## Exam format
+The attendance hurdle is described [on its own page](attendance.md).
 
-This unit will be assessed by a single 2-hour exam held in an exam hall in the January 2024 assessment period. You must be in Bristol for this entire period, and your exact exam date and time will be published in your exam timetable closer to the date.
+## Exam Week
+
+This unit will be assessed by a single 2-hour exam held in an exam hall in the December 2024 eam week (16-20 December 2024). You must be in Bristol for this entire week, and your exact exam date and time will be published in your exam timetable closer to the date.
+
+Unlike previous years, your exams for teaching block 1 (the autumn teaching block) will be before Christmas, not afterwards. This means you get a proper break, but you will not be able to use the Christmas period for catching up on revision - you will need to be ready for your exam by mid-December.
+
+However, you will get two weeks (2-6 and 9-13 December 2024) of revision time during which there will be no lectures and no new content.
+
+## Exam Materials
+
+**Calculators are not allowed on this exam.** The exam questions will be written with this in mind. You will not be expected to calculate the cosine of the square root of 5 in your head, or anything like that; for most logic questions a calculator would not be much use in the first place. For the combinatorics and probability part, you will be expected to be able to do simple arithmetic either in your head or longhand on paper - for example expressing 3/7 to three decimal places. If you have forgotten how to do this, you are at university now - you will need to teach yourself that part again.
+
+You will be able to bring in one sheet of A4 paper, double-sided, with your own original handwritten notes. Photocopies or computer-generated notes are not allowed.
+
+You must bring a pencil and eraser to the exam, and you must use these (not a pen) to fill in the answer sheets.
+
+You may bring a clear plastic pencil case with more pencils, erasers, sharpeners etc.
+
+You may bring a clear plastic bottle of water with no labels or other decorations to the exam.
+
+You must bring your student ID card to the exam and place it on your table for the invigilators to check.
+
+You must bring yourself to the exam, on time. We had cases in previous years where students turned up late and were refused entry, and got a zero mark as a result.
+
+## Exam Format
 
 The exam will use a format that I call "rapidmark" in which you write your answers in pencil in boxes on a pre-printed answer sheet. Question formats could include, among others:
 
@@ -27,16 +56,4 @@ This is not only much quicker to mark than a traditional exam, but it is also mo
 
 There will not be questions where you are asked to write full English sentences or proofs, or to "show your workings". Indeed there is no way to get any partial marks for workings: your answer to a question is either correct, or incorrect.
 
-## What you may take to the exam
-
-You must bring a pencil and an eraser (not a pen) for the anwer sheet. You may use further, empty sheets of paper for calculations, but these will not be marked.
-
-You may bring a non-programmable calculator that meets university regulations to the exam. The exact rules are set by the faculty (you will get an e-mail about this at some point), but a Casio FX-83GT/CW is the university's recommended model, and definitely allowed for exams.
-
-You may bring one A4 sheet, double-sided, of _original handwritten_ notes to the exam. You may not bring any print-outs, photocopies, books, or electronic devices. 
-
-You may bring a clear plastic pencil case with pencils, erasers, sharpeners etc.
-
-You may bring a clear plastic bottle of water with no labels or other decorations to the exam.
-
-You must bring your student ID card to the exam and place it on your table for the invigilators to check.
+You will have four in-class tests where, among other things, you can practice answering in the rapidmark format. These tests do not count towards your grade for the unit (but taking part does count towards the attendance hurdle).
