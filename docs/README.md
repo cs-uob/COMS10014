@@ -12,6 +12,10 @@ All materials that you will need for the unit will be linked to from this page; 
 
   - [Topics on the unit](topics.md)
   - [Textbooks](textbooks.md)
+  - [Attendance hurdle](attendance.md)
+  - [Sessions](sessions.md)
+  - [Assessment](assessment.md)
+  - [Studying](studying.md)
 
 ## Unit Materials
 
