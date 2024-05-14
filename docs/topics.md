@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Topics on Mathematics A and B
 
 The first-year mathematics units are based around four large topic areas:
