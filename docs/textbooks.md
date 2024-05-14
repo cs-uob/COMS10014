@@ -1,3 +1,9 @@
+---
+layout: page
+nav: true
+order: 2
+---
+
 # Textbooks
 
 We do not closely follow any one textbook, and you are not required to buy any textbooks for this unit: this is not a "one chapter of the book per lecture" kind of unit. Instead, your main resources will be the lectures and lecture notes, along with the worksheets and solutions.

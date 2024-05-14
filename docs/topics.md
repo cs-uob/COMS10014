@@ -1,5 +1,7 @@
 ---
 layout: page
+nav: true
+order: 1
 ---
 
 # Topics on Mathematics A and B
