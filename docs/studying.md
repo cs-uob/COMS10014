@@ -25,8 +25,8 @@ We are expecting over 200 students on this unit. This has some consequences for 
   - Your place for support will be the scheduled workshops. You **must not** expect immediate help at any other time. During the workshops, there will be teaching assistants available to help you as well as the academic(s) teaching the unit.
   - Questions outside the scheduled hours **must** go on the Microsoft Teams forum. We will answer them as soon as resonably possible **during working hours**. (You may post a question on Teams at 11pm on a weekend if you want to, but you will not get an answer until 9am next Monday at the earliest.)
   - You **must not** e-mail, phone, or private message the lecturer individually with questions about the material: this does not scale, and is unfair to other students. Instead, you should ask in the next workshop, or ask on Microsoft Teams.
-  - Teaching assistants are students from higher years who are paid by the hour. Outside the workshops, they are not being paid for this unit, so you **must not** ask for private help from the teaching assistants either outside of the workshop hours.
-  - You **will not** get extra private lessons from the lecturer or the taeching assistants, please do not ask for this.
+  - Teaching assistants are students from higher years who are paid by the hour. Outside the workshops, they are not being paid for this unit, so you **must not** ask for private help from the teaching assistants outside of the workshop hours.
+  - You **will not** get extra private lessons from the lecturer or the teaching assistants, please do not ask for this.
   - There are no office hours or similar for this unit in 2024-25, as this does not scale to the current class sizes. Once again, the place to get support is the **workshops**, and you should make the most of these, and the teaching assistants available there.
 
 ## Study Guide
