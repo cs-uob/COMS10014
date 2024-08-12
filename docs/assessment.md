@@ -56,4 +56,4 @@ This is not only much quicker to mark than a traditional exam, but it is also mo
 
 There will not be questions where you are asked to write full English sentences or proofs, or to "show your workings". Indeed there is no way to get any partial marks for workings: your answer to a question is either correct, or incorrect.
 
-You will have four in-class tests where, among other things, you can practice answering in the rapidmark format. These tests do not count towards your grade for the unit (but taking part does count towards the attendance hurdle).
+You will have three in-class tests where, among other things, you can practice answering in the rapidmark format. These tests do not count towards your grade for the unit (but taking part does count towards the attendance hurdle).

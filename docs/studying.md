@@ -27,7 +27,7 @@ We are expecting over 200 students on this unit. This has some consequences for 
   - You **must not** e-mail, phone, or private message the lecturer individually with questions about the material: this does not scale, and is unfair to other students. Instead, you should ask in the next workshop, or ask on Microsoft Teams.
   - Teaching assistants are students from higher years who are paid by the hour. Outside the workshops, they are not being paid for this unit, so you **must not** ask for private help from the teaching assistants outside of the workshop hours.
   - You **will not** get extra private lessons from the lecturer or the teaching assistants, please do not ask for this.
-  - There are no office hours or similar for this unit in 2024-25, as this does not scale to the current class sizes. Once again, the place to get support is the **workshops**, and you should make the most of these, and the teaching assistants available there.
+  - There are no office hours or similar for this unit in 2024-25, as this does not scale to the current class sizes. The place to get support is the **workshops**, and you should make the most of these, and the teaching assistants available there.
 
 ## Study Guide
 
@@ -37,6 +37,6 @@ In each teaching block of Year 1, you will take 3 units all worth an equal amoun
 
   - Expect to treat your degree like a job where you turn up and work regular hours every week; if your plan is "maybe do some work shortly before the exams" then based on past years' data you are very likely to end up being required to withdraw.
   - Assuming you work 42 hours a week during term time - which is not too far off the average in Europe - then that gives 14 hours/week on average for each of your three units.
-  - Maths A has 2h/week lectures and 4h/week workshops, for a total of 6h/week. Therefore, that leaves 8h/week individual study time for you on Maths A. Note that the individual study time is higher than the contact hours: this is by design.
+  - Maths A has 2h/week lectures and 4h/week workshops, for a total of 6h/week. Therefore, that leaves 8h/week individual study time for you on Maths A, that is 4h per session. Note that the individual study time is higher than the contact hours: this is by design.
 
 See the page on [sessions](sessions.md) for advice on how to structure your time for each individual session.

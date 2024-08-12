@@ -32,7 +32,7 @@ You should do the comprehension questions for each session after attending the l
 
 ## Workshops
 
-Each session has a two-hour workshop (though 4 out of 20 workshops are class tests). During these workshops, you will work in groups to solve worksheets which generally contain more complex questions than the comprehension questions.
+Each session has a two-hour workshop (though 3 out of 20 workshops are class tests). During these workshops, you will work in groups to solve worksheets which generally contain more complex questions than the comprehension questions.
 
 At the start of each workshop, I will usually have some announcements or updates. After this, if you have any questions about the lecture material or the comprehension questions, you will have an opportunity to sit down with a teaching assistant, and usually an area of the room will be indicated for students with questions. Afterwards, you can work on the worksheets. If you have no questions at the start of a worksheet, you can sit down at a table with other students and start, as a group, working on the worksheet directly. The teaching assistants will spend the rest of the workshop helping groups with the worksheets.
 
@@ -40,7 +40,7 @@ Answers to the worksheets will appear a few days after the workshop. There are a
 
 ## Class Tests
 
-Four workshops will be class tests - exact dates will be announced with enough time to prepare for each one. Class tests do not count towards your grade for the unit, but attending them (even if you do badly on the test) counts for the attendance hurdle just like other workshops.
+Three workshops will be class tests - exact dates will be announced with enough time to prepare for each one. Class tests do not count towards your grade for the unit, but attending them (even if you do badly on the test) counts for the attendance hurdle just like other workshops.
 
 For the class tests, in the first hour you solve some questions under semi-exam conditions (e.g. individually, no talking). In the second hour we will go through the solutions together.
 
