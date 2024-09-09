@@ -19,5 +19,5 @@ All materials that you will need for the unit will be linked to from this page; 
 
 ## Unit Materials
 
-  - The main link to the materials folder _will appear here at the start of term_. You will need to sign in with your university account.
+  - You can find the [unit materials folder](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials) here. You will need to sign in with your university account.
   - The [materials page](materials.md) has detailed links for each week.
