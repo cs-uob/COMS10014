@@ -22,6 +22,7 @@ See the [sessions page](sessions.html) for information on how best to plan and s
     and [solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs01-terms.pdf)
     (do these after the lecture and reading the notes, then check your answers)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w01-terms.pdf) (for doing in the workshop)
+  - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/solutions/s01-terms.pdf)
 
 ### Session 2, 18-19 September
 
@@ -30,6 +31,7 @@ See the [sessions page](sessions.html) for information on how best to plan and s
   - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c02-logic.pdf) 
     and [solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs02-logic.pdf)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w02-logic.pdf)
+  - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/solutions/s02-logic.pdf)
 
 ### Session 3, 23-24 September
 
