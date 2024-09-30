@@ -40,7 +40,8 @@ See the [sessions page](sessions.html) for information on how best to plan and s
   - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c03-morelogic.pdf) 
     and [solutions](          https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs03-morelogic.pdf)
   - [Worksheet](              https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w03-morelogic.pdf)
-
+  - [Solutions](              https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/solutions/s03-morelogic.pdf)
+  
 ### Session 4, 25-26 September
 
   - Topic: proofs
@@ -55,7 +56,7 @@ See the [sessions page](sessions.html) for information on how best to plan and s
   - [Lecture notes](               https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/05-moreproofs.pdf)
   - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c05-moreproofs.pdf) 
     and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs05-moreproofs.pdf)
-  - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w05-moreproofs.pdf)
+  - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w05-proofs.pdf)
 
 ### Session 6, 2-3 October
 
