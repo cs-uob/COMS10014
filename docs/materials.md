@@ -27,11 +27,11 @@ See the [sessions page](sessions.html) for information on how best to plan and s
 ### Session 2, 18-19 September
 
   - Topic: logic
-  - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/02-logic.pdf)
+  - [Lecture notes](          https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/02-logic.pdf)
   - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c02-logic.pdf) 
-    and [solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs02-logic.pdf)
-  - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w02-logic.pdf)
-  - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/solutions/s02-logic.pdf)
+    and [solutions](          https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs02-logic.pdf)
+  - [Worksheet](              https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w02-logic.pdf)
+  - [Solutions](              https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/solutions/s02-logic.pdf)
 
 ### Session 3, 23-24 September
 
@@ -45,26 +45,28 @@ See the [sessions page](sessions.html) for information on how best to plan and s
 ### Session 4, 25-26 September
 
   - Topic: proofs
-  - [Lecture notes](               https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/04-proofs.pdf)
+  - [Lecture notes](          https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/04-proofs.pdf)
   - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c04-proofs.pdf) 
-    and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs04-proofs.pdf)
+    and [solutions](          https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs04-proofs.pdf)
   - we will have a **class test** in the workshop
 
 ### Session 5, 30 September-1 October
 
   - Topic: proofs, continued
-  - [Lecture notes](               https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/05-moreproofs.pdf)
-  - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c05-moreproofs.pdf) 
-    and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs05-moreproofs.pdf)
-  - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w05-proofs.pdf)
+  - [Lecture notes](            https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/05-moreproofs.pdf)
+  - [Comprehension questions](  https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c05-moreproofs.pdf) 
+    and [solutions](            https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs05-moreproofs.pdf)
+  - [Worksheet](                https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w05-proofs.pdf)
+  - [Solutions](                https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/solutions/w05-proofs.pdf)
 
 ### Session 6, 2-3 October
 
   - Topic: induction
-  - [Lecture notes](               https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/06-induction.pdf)
+  - [Lecture notes](          https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/06-induction.pdf)
   - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c06-induction.pdf) 
-    and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs06-induction.pdf)
-  - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w06-induction.pdf)
+    and [solutions](          https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs06-induction.pdf)
+  - [Worksheet](              https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w06-induction.pdf)
+  - [Solutions](              https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/solutions/w06-induction.pdf)
 
 ### Session 7, 7-8 October
 
