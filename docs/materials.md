@@ -104,4 +104,83 @@ In Week 6 (21-27 October) there is a Reading Week: no lectures or workshops.
 
 ## Combinatorics and Probability
 
-_We're working on it ..._
+### Session 11, 28-29 October
+
+  - Topic: combinatorics
+  - [Lecture notes](               https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/11-combinatorics.pdf)
+  - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c11-combinatorics.pdf) 
+    and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs11-combinatorics.pdf)
+  - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w11-combinatorics.pdf)
+
+### Session 12, 30-31 October
+
+  - Topic: probability
+  - [Lecture notes](               https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/12-probability.pdf)
+  - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c12-probability.pdf) 
+    and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs12-probability.pdf)
+  - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w12-probability.pdf)
+
+### Session 13, 4-5 November
+
+  - Topic: random variables
+  - [Lecture notes](               https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/13-randomvariables.pdf)
+  - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c13-randomvariables.pdf) 
+    and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs13-randomvariables.pdf)
+  - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w13-randomvariables.pdf)
+
+### Session 14, 6-7 November
+
+  - Topic: conditional probability
+  - [Lecture notes](               https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/14-conditional.pdf)
+  - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c14-conditional.pdf) 
+    and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs14-conditional.pdf)
+  - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w14-conditional.pdf)
+
+### Session 15, 11-12 November
+
+  - Topic: Bayes' rule
+  - [Lecture notes](               https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/15-bayes.pdf)
+  - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c15-bayes.pdf) 
+    and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs15-bayes.pdf)
+  - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w15-bayes.pdf)
+
+### Session 16, 13-14 November
+
+  - Topic: expected values
+  - [Lecture notes](               https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/16-expected.pdf)
+  - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c16-expected.pdf) 
+    and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs16-expected.pdf)
+  - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w16-expected.pdf)
+
+### Session 17, 18-19 November
+
+  - Topic: distributions
+  - [Lecture notes](               https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/17-distributions.pdf)
+  - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c17-distributions.pdf) 
+    and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs17-distributions.pdf)
+  - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w17-distributions.pdf)
+
+### Session 18, 25-26 November
+
+  - Topic: continuous probability
+  - [Lecture notes](               https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/18-continuous.pdf)
+  - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c18-continuous.pdf) 
+    and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs18-continuous.pdf)
+  - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w18-continuous.pdf)
+
+### Session 19, 27-28 November
+
+  - Topic: Normal distribution
+  - [Lecture notes](               https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/19-normal.pdf)
+  - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c19-normal.pdf) 
+    and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs19-normal.pdf)
+  - We will have the final **class test** instead of a worksheet in the workshop.
+
+### Session 20, 27-28 November
+
+  - No lecture, notes or comprehension questions for Wed 27 November unless announced otherwise. I'm keeping one lecture slot as a buffer in case we lose a lecture to a fire alarm or some other cause.
+  - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w20-normal.pdf)
+
+Week 12 (2-6 December) is exam preparation week. There are no lectures or worksheets. The two workshops are optional drop-ins. They do not count for the attendance hurdle and cannot be used to make up missed workshops earlier, but you can still come and ask the TAs questions.
+
+Week 12+1 (not 13, that's next term) from 9-13 December is exams week. Dates and times of your exams will be sent to you by the exams office at least a week beforehand. The university expects all students to be in Bristol for **all** of exams week, so please do not book any travel home in this week.
