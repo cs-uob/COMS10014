@@ -128,6 +128,7 @@ In Week 6 (21-27 October) there is a Reading Week: no lectures or workshops.
   - [Lecture notes](               https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/13-randomvariables.pdf)
   - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c13-randomvariables.pdf) 
     and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs13-randomvariables.pdf)
+  - In the first hour of the workshop we will have a **diagnostic test** on A-level material, some of which you will need in the following weeks. The test is formative (does not count towards your final grade). Unlike the other class tests, this one uses an online system, so please bring a fully charged **laptop** or tablet with a screen an a web browser. Phones are too small to load the site properly, you will need a bigger screen.
   - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w13-randomvariables.pdf)
 
 ### Session 14, 6-7 November
