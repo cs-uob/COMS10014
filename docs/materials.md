@@ -113,6 +113,8 @@ In Week 6 (21-27 October) there is a Reading Week: no lectures or workshops.
   - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c11-combinatorics.pdf) 
     and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs11-combinatorics.pdf)
   - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w11-combinatorics.pdf)
+    and
+    [Solutions](              https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/solutions/s11-combinatorics.pdf)
 
 ### Session 12, 30-31 October
 
@@ -121,6 +123,8 @@ In Week 6 (21-27 October) there is a Reading Week: no lectures or workshops.
   - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c12-probability.pdf) 
     and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs12-probability.pdf)
   - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w12-probability.pdf)
+    and
+    [Solutions](              https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/solutions/s12-probability.pdf)
 
 ### Session 13, 4-5 November
 
