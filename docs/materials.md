@@ -134,6 +134,8 @@ In Week 6 (21-27 October) there is a Reading Week: no lectures or workshops.
     and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs13-randomvariables.pdf)
   - In the first hour of the workshop we will have a **diagnostic test** on A-level material, some of which you will need in the following weeks. The test is formative (does not count towards your final grade). Unlike the other class tests, this one uses an online system, so please bring a fully charged **laptop** or tablet with a screen an a web browser. Phones are too small to load the site properly, you will need a bigger screen.
   - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w13-randomvariables.pdf)
+    and
+    [solutions](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/solutions/s13-randomvariables.pdf)
 
 ### Session 14, 6-7 November
 
@@ -142,6 +144,8 @@ In Week 6 (21-27 October) there is a Reading Week: no lectures or workshops.
   - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c14-conditional.pdf) 
     and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs14-conditional.pdf)
   - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w14-conditional.pdf)
+    and
+    [Solutions](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/solutions/s14-conditional.pdf)
 
 ### Session 15, 11-12 November
 
@@ -150,6 +154,8 @@ In Week 6 (21-27 October) there is a Reading Week: no lectures or workshops.
   - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c15-bayes.pdf) 
     and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs15-bayes.pdf)
   - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w15-bayes.pdf)
+    and
+    [Solutions](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/solutions/s15-bayes.pdf)
 
 ### Session 16, 13-14 November
 
