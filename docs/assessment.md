@@ -15,11 +15,11 @@ The attendance hurdle is described [on its own page](attendance.md).
 
 ## Exam Week
 
-This unit will be assessed by a single 2-hour exam held in an exam hall in the December 2024 eam week (16-20 December 2024). You must be in Bristol for this entire week, and your exact exam date and time will be published in your exam timetable closer to the date.
+This unit will be assessed by a single 2-hour exam held in an exam hall in the December 2024 exam week (9--13 December 2024). You must be in Bristol for this entire week, and your exact exam date and time will be published in your exam timetable closer to the date.
 
 Unlike previous years, your exams for teaching block 1 (the autumn teaching block) will be before Christmas, not afterwards. This means you get a proper break, but you will not be able to use the Christmas period for catching up on revision - you will need to be ready for your exam by mid-December.
 
-However, you will get two weeks (2-6 and 9-13 December 2024) of revision time during which there will be no lectures and no new content.
+However, you will get one week (2--6 December 2024) of revision time during which there will be no lectures and no new content.
 
 ## Exam Materials
 
