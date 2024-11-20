@@ -165,7 +165,7 @@ In Week 6 (21-27 October) there is a Reading Week: no lectures or workshops.
     and [solutions](          https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs16-expected.pdf)
   - [Worksheet](              https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w16-expected.pdf)
     and
-    [Solutions](              https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/s16-expected.pdf)
+    [Solutions](              https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/solutions/s16-expected.pdf)
 
 ### Session 17, 18-19 November
 
