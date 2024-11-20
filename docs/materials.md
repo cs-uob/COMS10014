@@ -160,10 +160,12 @@ In Week 6 (21-27 October) there is a Reading Week: no lectures or workshops.
 ### Session 16, 13-14 November
 
   - Topic: expected values
-  - [Lecture notes](               https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/16-expected.pdf)
+  - [Lecture notes](          https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/16-expected.pdf)
   - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c16-expected.pdf) 
-    and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs16-expected.pdf)
-  - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w16-expected.pdf)
+    and [solutions](          https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs16-expected.pdf)
+  - [Worksheet](              https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w16-expected.pdf)
+    and
+    [Solutions](              https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/s16-expected.pdf)
 
 ### Session 17, 18-19 November
 
@@ -173,7 +175,7 @@ In Week 6 (21-27 October) there is a Reading Week: no lectures or workshops.
     and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs17-distributions.pdf)
   - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w17-distributions.pdf)
 
-### Session 18, 25-26 November
+### Session 18, 20-21 November
 
   - Topic: continuous probability
   - [Lecture notes](               https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/18-continuous.pdf)
