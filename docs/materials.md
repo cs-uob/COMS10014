@@ -174,6 +174,8 @@ In Week 6 (21-27 October) there is a Reading Week: no lectures or workshops.
   - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c17-distributions.pdf) 
     and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs17-distributions.pdf)
   - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w17-distributions.pdf)
+  and
+    [Solutions](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/solutions/s17-distributions.pdf)
 
 ### Session 18, 20-21 November
 
@@ -182,20 +184,36 @@ In Week 6 (21-27 October) there is a Reading Week: no lectures or workshops.
   - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c18-continuous.pdf) 
     and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs18-continuous.pdf)
   - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w18-continuous.pdf)
+  and
+    [Solutions](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/solutions/s18-continuous.pdf)
 
 ### Session 19, 27-28 November
+
+The lecture for this session is **cancelled**. The material is optional and will not be assessed in the exam, but it will most likely be used (and then taught from the beginning) in Maths B next term.
+
+We will have the final **class test** instead of a worksheet in the workshop.
 
   - Topic: Normal distribution
   - [Lecture notes](               https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/19-normal.pdf)
   - [Comprehension questions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/questions/c19-normal.pdf) 
     and [solutions](           https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/answers/cs19-normal.pdf)
-  - We will have the final **class test** instead of a worksheet in the workshop.
 
 ### Session 20, 27-28 November
 
-  - No lecture, notes or comprehension questions for Wed 27 November unless announced otherwise. I'm keeping one lecture slot as a buffer in case we lose a lecture to a fire alarm or some other cause.
-  - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w20-normal.pdf)
+There is no lecture for this session. The provided worksheet and solutions (linked to the also optional lecture 19) are optional and will not be assessed in Maths A.
 
-Week 12 (2-6 December) is exam preparation week. There are no lectures or worksheets. The two workshops are optional drop-ins. They do not count for the attendance hurdle and cannot be used to make up missed workshops earlier, but you can still come and ask the TAs questions.
+Everyone gets attendance for this session _for free_, but you are still encouraged to turn up if you have any questions about anything in the whole unit, as you have presumably started to revise for the exam by now.
+
+  - [Worksheet](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/worksheets/w20-normal.pdf)
+  and
+    [Solutions](             https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/solutions/s20-normal.pdf)
+
+### Week 12, 2-6 December
+
+This is exam preparation week. There are no lectures or worksheets. The two workshops are optional drop-ins. They do not count for the attendance hurdle and cannot be used to make up missed workshops earlier, but you can still come and ask the TAs questions.
+
+### Exam
 
 Week 12+1 (not 13, that's next term) from 9-13 December is exams week. Dates and times of your exams will be sent to you by the exams office at least a week beforehand. The university expects all students to be in Bristol for **all** of exams week, so please do not book any travel home in this week.
+
+If you think you should be registered for the exam, but you have not been given a date and time, you **must** contact the school office as soon as possible. Please do not just get the details from a friend and turn up --- if you are not registered for the exam you may not be allowed to take it.
