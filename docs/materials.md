@@ -14,7 +14,7 @@ See the [sessions page](sessions.html) for information on how best to plan and s
 
 ## Logic and Proof
 
-### Session 1, 16-17 September
+<!-- ### Session 1, 16-17 September
 
   - Topic: terms, notation
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2024-25-TB-1-A/Class%20Materials/notes/01-terms.pdf) (study these before or after the lecture)
@@ -216,4 +216,4 @@ This is exam preparation week. There are no lectures or worksheets. The two work
 
 Week 12+1 (not 13, that's next term) from 9-13 December is exams week. Dates and times of your exams will be sent to you by the exams office at least a week beforehand. The university expects all students to be in Bristol for **all** of exams week, so please do not book any travel home in this week.
 
-If you think you should be registered for the exam, but you have not been given a date and time, you **must** contact the school office as soon as possible. Please do not just get the details from a friend and turn up --- if you are not registered for the exam you may not be allowed to take it.
+If you think you should be registered for the exam, but you have not been given a date and time, you **must** contact the school office as soon as possible. Please do not just get the details from a friend and turn up --- if you are not registered for the exam you may not be allowed to take it. -->
