@@ -1,6 +1,6 @@
 ---
 nav: Assessment
-order: 4
+order: 3
 ---
 
 # Assessment

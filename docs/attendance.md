@@ -1,6 +1,6 @@
 ---
 nav: Attendance
-order: 3
+order: 2
 ---
 
 # Attendance Hurdle
