@@ -18,7 +18,7 @@ In this part of the course, you will also look at combinatorics, i.e. the mathem
 
 Finally, we will look at probability - the way in which we model an unpredictable, chaotic world of which we have complete and accurate knowledge. The material you learn here is also a foundation for machine learning.
 
-## Unit Information
+<!-- ## Unit Information
 
   - [Schedule](schedule.md)
   - [Attendance hurdle](attendance.md)
@@ -30,4 +30,4 @@ Finally, we will look at probability - the way in which we model an unpredictabl
   - You can find the [unit materials folder](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials) here. You will need to sign in with your university account.
   - The [materials page](materials.md) has detailed links for each week.
 
-  - You may also wish to look at [Textbooks](textbooks.md)
+  - You may also wish to look at [Textbooks](textbooks.md) -->

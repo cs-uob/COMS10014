@@ -15,12 +15,20 @@ The attendance hurdle is described [on its own page](attendance.md).
 
 ## Exam Week
 
-This unit will be assessed by a single 2 hour exam held in an exam hall in the December 2025 exam week. You must be in Bristol for this entire week, and your exact exam date and time will be published in your exam timetable closer to the date.
-The prior week will not have any new content and is set aside for revision.
+This unit will be assessed by a single 2 hour exam held in an exam hall in the December 2025 exam week.
+The prior week will not have any new content, and is set aside for revision.
+
+You must be in Bristol for entirety of the exam week, and your exact exam date and time will be published in your exam timetable closer to the date.
 
 <!-- Unlike previous years, your exams for teaching block 1 (the autumn teaching block) will be before Christmas, not afterwards. This means you get a proper break, but you will not be able to use the Christmas period for catching up on revision - you will need to be ready for your exam by mid-December. -->
 
 <!-- However, you will get one week (2--6 December 2024) of revision time during which there will be no lectures and no new content. -->
+
+## Exam Format
+
+The exam consists of multiple choice questions that will closely follow the questions laid out in the problem sheets.
+If you feel comfortable with the problem sheets, you are ready for the exam!
+Do not be fooled into thinking that a multiple choice exam is easier, the exam will still test your ability to work with the skills you have developed throughout the unit, it won't be sufficient to memorise key terms!
 
 ## Exam Materials
 
@@ -38,12 +46,6 @@ You may bring a clear plastic bottle of water with no labels or other decoration
 You must bring your student ID card to the exam and place it on your table for the invigilators to check.
 
 <!-- You must bring yourself to the exam, on time. We had cases in previous years where students turned up late and were refused entry, and got a zero mark as a result. -->
-
-## Exam Format
-
-The exam consists of multiple choice questions that will closely follow the questions laid out in the problem sheets.
-If you feel comfortable with the problem sheets, you are ready for the exam!
-Do not be fooled into thinking that a multiple choice exam is easier, the exam will still test your ability to work with the skills you have developed throughout the unit, it won't be sufficient to memorise key terms!
 
 <!-- The exam will use a format that I call "rapidmark" in which you write your answers in pencil in boxes on a pre-printed answer sheet. Question formats could include, among others:
 

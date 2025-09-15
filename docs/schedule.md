@@ -1,12 +1,12 @@
 ---
 layout: page
-nav: Schedule
+nav: Studying and Schedule
 order: 1
 ---
 
-# Schedule
+# Studying and Schedule
 
-The sessions for this unit are arranged into 2x 1 hour lectures and 2x 2 hour problem classes a week with the following timetable:
+The timetable sessions for this unit are arranged into 2 x 1 hour lectures and 2 x 2 hour problem classes a week at the following times/locations:
 
  - Lecture: Monday 12:00-13:00, Queens 1.40 (Pugsley)
  - Problem Class: Tuesday 13:00-15:00 Queens F.101 (Bill Brown Suite)
@@ -15,11 +15,8 @@ The sessions for this unit are arranged into 2x 1 hour lectures and 2x 2 hour pr
 
 ## Lecture and Notes
 
-For each session, you start by learning new material provided by:
-  - a lecture, that you attend at a fixed time
-  - lecture notes, that you read in your own time.
-
-It is your own choice if you read the notes before or after the lecture, but you are expected to both attend the lecture and read the notes for each session. Sometimes, the notes will elaborate on something I do not mention in the lecture, or I might answer a question in the lecture that was not in the notes.
+Each topic will be associated with a lecture and accompanying notes to read in your own time.
+It is your own choice if you read the notes before or after the lecture, but you are expected to _both_ attend the lecture and read the notes for each session. Sometimes, the notes will elaborate on something I do not mention in the lecture, or I might answer a question in the lecture that was not in the notes.
 
 Lectures will typically be delivered on boards, writing with pen or chalk depending on the room set-up.
 Our lecture recording systems are not set up to record this kind of lecture properly - the cameras in some rooms do not have the correct resolution to capture all boards, for example - so you should assume that for practical purposes, there are no usable lecture recordings. This is allowed in our university, and on this unit, you will have lecture notes available too. But, you should take your own notes in the lectures where possible, and of course catch up in your own time on any lectures you missed for a good reason.
@@ -32,12 +29,14 @@ The idea of these questions is that if you have understood the material in the l
 
 You should do the comprehension questions for each session after attending the lecture and reading the notes, but before attending the workshop. -->
 
-## Workshops
+## Problem Classes
 
-Each session has a two-hour workshop. During these workshops, you will work in groups to solve the worksheet associated with the preceding lecture.
-Answers to the worksheets will appear a few days after the workshop. 
+For each lecture there is an associated problem class giving you the opportunity to put what you have learnt into practice.
+During these two hour workshops, you will work in independently or in groups to solve the worksheet associated with the preceding lecture.
 
-There is an attendance hurdle associated with these workshops, see [attendance](attendance.md).
+We do not require you to submit your solutions to the problem classes; however, solutions will be made available a few days after the workshop for you to look at in your own time.
+
+There is an attendance hurdle associated with these workshops, see [attendance](attendance.md) for details.
 
 <!-- At the start of each workshop, I will usually have some announcements or updates. After this, if you have any questions about the lecture material or the comprehension questions, you will have an opportunity to sit down with a teaching assistant, and usually an area of the room will be indicated for students with questions. Afterwards, you can work on the worksheets. If you have no questions at the start of a worksheet, you can sit down at a table with other students and start, as a group, working on the worksheet directly. The teaching assistants will spend the rest of the workshop helping groups with the worksheets.
 
@@ -58,6 +57,6 @@ Outside the contact hours, you are expected to study and revise in your own time
 On average, you should reckon with 4 hours of individual study time per session. This includes reading the lecture notes, going over your own notes from the lecture, finishing any questions on the worksheets that you did not get through in the workshop, checking your solutions against the sample solutions when they come out, looking up anything you do not understand yet in textbooks or online, and revising material with your favourite system, for upcoming class tests and the exam.
 
 Studying at university may be _drastically_ different from what you are used to. We expect a certain degree of independent learning.
-The task is no longer to memorize the solution for exam questions - instead the task is to integrate your knowledge and skills.
-This means you will be challenged to apply ideas in contexts that are unfamiliar, where not all the information is given to you.
+The task is no longer to memorise the solution for exam questions - instead you must integrate your knowledge and skill through practice.
+This means you may well be challenged to apply ideas in contexts that are unfamiliar, where not all the information is given to you.
 We encourage you to post questions you have on the unit teams; however, you should try to exhaust your own capacity to solve it first.
