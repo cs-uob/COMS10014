@@ -13,7 +13,8 @@ Your main learning on this unit will happen in twice-weekly workshops where you 
 
 To sign in to a workshop, **you must have your UCard (university ID card) with you**. Under university rules, you must have this with you at all times on campus anyway, so bringing it to the workshops is no extra effort. Sign-ins will happen by university staff checking your ID cards and then marking you as present on paper sheets.
 
-We expect all students to attend **19 out of 20 workshops**. We do not mind if you miss one in total across the entire unit. You will note that the expectation (19 out of 20) is higher than the hurdle (15 out of 20). If you aim for 19 (or 20), then you really should not have to worry about the hurdle, and you will have also done the best you can to prepare yourself for the exam by coming to all classes. You will get no sympathy if you attend only 14 workshops and argue that you almost met the hurdle, as you did not come close to the expected 19.
+We expect all students to attend **19 out of 20 workshops**. We do not mind if you miss one in total across the entire unit. You will note that the expectation (19 out of 20) is higher than the hurdle (15 out of 20). If you aim for 19 (or 20), then you really should not have to worry about the hurdle, and you will have also done the best you can to prepare yourself for the exam by coming to all classes. 
+<!-- You will get no sympathy if you attend only 14 workshops and argue that you almost met the hurdle, as you did not come close to the expected 19. -->
 
 
 It is your responsibility to make sure your attendance is recorded in every workshop, especially if you arrived late (which still counts, within reason). You should actively seek out a member of staff if you are not sure if your attendance has been recorded.

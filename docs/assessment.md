@@ -15,15 +15,17 @@ The attendance hurdle is described [on its own page](attendance.md).
 
 ## Exam Week
 
-This unit will be assessed by a single 2-hour exam held in an exam hall in the December 2024 exam week (9--13 December 2024). You must be in Bristol for this entire week, and your exact exam date and time will be published in your exam timetable closer to the date.
+This unit will be assessed by a single 2 hour exam held in an exam hall in the December 2025 exam week. You must be in Bristol for this entire week, and your exact exam date and time will be published in your exam timetable closer to the date.
+The prior week will not have any new content and is set aside for revision.
 
-Unlike previous years, your exams for teaching block 1 (the autumn teaching block) will be before Christmas, not afterwards. This means you get a proper break, but you will not be able to use the Christmas period for catching up on revision - you will need to be ready for your exam by mid-December.
+<!-- Unlike previous years, your exams for teaching block 1 (the autumn teaching block) will be before Christmas, not afterwards. This means you get a proper break, but you will not be able to use the Christmas period for catching up on revision - you will need to be ready for your exam by mid-December. -->
 
-However, you will get one week (2--6 December 2024) of revision time during which there will be no lectures and no new content.
+<!-- However, you will get one week (2--6 December 2024) of revision time during which there will be no lectures and no new content. -->
 
 ## Exam Materials
 
-**Calculators are not allowed on this exam.** The exam questions will be written with this in mind. You will not be expected to calculate the cosine of the square root of 5 in your head, or anything like that; for most logic questions a calculator would not be much use in the first place. For the combinatorics and probability part, you will be expected to be able to do simple arithmetic either in your head or longhand on paper - for example expressing 3/7 to three decimal places. If you have forgotten how to do this, you are at university now - you will need to teach yourself that part again.
+**Calculators are not allowed on this exam.** The exam questions will be written with this in mind. You will not be expected to calculate the cosine of the square root of 5 in your head, or anything like that; for most questions relating to logic, sets, and functions a calculator would not be much use in the first place. For the combinatorics and probability part, you will be expected to be able to do simple arithmetic either in your head or longhand on paper, e.g. expressing 3/7 to three decimal places. 
+<!-- If you have forgotten how to do this, you are at university now - you will need to teach yourself that part again. -->
 
 You will be able to bring in one sheet of A4 paper, double-sided, with your own original handwritten notes. Photocopies or computer-generated notes are not allowed.
 
@@ -35,11 +37,15 @@ You may bring a clear plastic bottle of water with no labels or other decoration
 
 You must bring your student ID card to the exam and place it on your table for the invigilators to check.
 
-You must bring yourself to the exam, on time. We had cases in previous years where students turned up late and were refused entry, and got a zero mark as a result.
+<!-- You must bring yourself to the exam, on time. We had cases in previous years where students turned up late and were refused entry, and got a zero mark as a result. -->
 
 ## Exam Format
 
-The exam will use a format that I call "rapidmark" in which you write your answers in pencil in boxes on a pre-printed answer sheet. Question formats could include, among others:
+The exam consists of multiple choice questions that will closely follow the questions laid out in the problem sheets.
+If you feel comfortable with the problem sheets, you are ready for the exam!
+Do not be fooled into thinking that a multiple choice exam is easier, the exam will still test your ability to work with the skills you have developed throughout the unit, it won't be sufficient to memorise key terms!
+
+<!-- The exam will use a format that I call "rapidmark" in which you write your answers in pencil in boxes on a pre-printed answer sheet. Question formats could include, among others:
 
   - True/False
   - Multiple choice
@@ -56,4 +62,4 @@ This is not only much quicker to mark than a traditional exam, but it is also mo
 
 There will not be questions where you are asked to write full English sentences or proofs, or to "show your workings". Indeed there is no way to get any partial marks for workings: your answer to a question is either correct, or incorrect.
 
-You will have three in-class tests where, among other things, you can practice answering in the rapidmark format. These tests do not count towards your grade for the unit (but taking part does count towards the attendance hurdle).
+You will have three in-class tests where, among other things, you can practice answering in the rapidmark format. These tests do not count towards your grade for the unit (but taking part does count towards the attendance hurdle). -->

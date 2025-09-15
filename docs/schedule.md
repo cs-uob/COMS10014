@@ -1,14 +1,17 @@
 ---
 layout: page
-nav: Sessions
+nav: Schedule
 order: 1
 ---
 
-# Sessions
+# Schedule
 
-The sessions for this unit are arranged into 2x1hour lectures and 2x2hour problem classes a week with the following timetable:
+The sessions for this unit are arranged into 2x 1 hour lectures and 2x 2 hour problem classes a week with the following timetable:
 
- - 
+ - Lecture: Monday 12:00-13:00, Queens 1.40 (Pugsley)
+ - Problem Class: Tuesday 13:00-15:00 Queens F.101 (Bill Brown Suite)
+ - Lecture: 09:00-10:00 Queens 1.40 (Pugsley)
+ - Problem Class: Thursday 13:00-15:00 Queens F.101 (Bill Brown Suite)
 
 ## Lecture and Notes
 
@@ -18,8 +21,7 @@ For each session, you start by learning new material provided by:
 
 It is your own choice if you read the notes before or after the lecture, but you are expected to both attend the lecture and read the notes for each session. Sometimes, the notes will elaborate on something I do not mention in the lecture, or I might answer a question in the lecture that was not in the notes.
 
-Lectures will typically be delivered on boards, writing with pen or chalk depending on the room set-up. This is a very different style than Powerpoint presentations, but is generally considered the right way to do mathematics across most good universities in the world (outside of pandemic lockdowns).
-
+Lectures will typically be delivered on boards, writing with pen or chalk depending on the room set-up.
 Our lecture recording systems are not set up to record this kind of lecture properly - the cameras in some rooms do not have the correct resolution to capture all boards, for example - so you should assume that for practical purposes, there are no usable lecture recordings. This is allowed in our university, and on this unit, you will have lecture notes available too. But, you should take your own notes in the lectures where possible, and of course catch up in your own time on any lectures you missed for a good reason.
 
 <!-- ## Comprehension Questions

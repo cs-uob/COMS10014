@@ -1,7 +1,7 @@
 ---
 layout: page
 nav: Materials
-order: 8
+order: 4
 ---
 
 # Unit materials
