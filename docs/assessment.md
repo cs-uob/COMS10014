@@ -35,15 +35,15 @@ Do not be fooled into thinking that a multiple choice exam is easier, the exam w
 **Calculators are not allowed on this exam.** The exam questions will be written with this in mind. You will not be expected to calculate the cosine of the square root of 5 in your head, or anything like that; for most questions relating to logic, sets, and functions a calculator would not be much use in the first place. For the combinatorics and probability part, you will be expected to be able to do simple arithmetic either in your head or longhand on paper, e.g. expressing 3/7 to three decimal places. 
 <!-- If you have forgotten how to do this, you are at university now - you will need to teach yourself that part again. -->
 
-You will be able to bring in one sheet of A4 paper, double-sided, with your own original handwritten notes. Photocopies or computer-generated notes are not allowed.
+  - You will be able to bring in one sheet of A4 paper, double-sided, with your own original handwritten notes. Photocopies or computer-generated notes are not allowed.
 
-You must bring a pencil and eraser to the exam, and you must use these (not a pen) to fill in the answer sheets.
+  - You must bring a pencil and eraser to the exam, and you must use these (not a pen) to fill in the answer sheets.
 
-You may bring a clear plastic pencil case with more pencils, erasers, sharpeners etc.
+  - You may bring a clear plastic pencil case with more pencils, erasers, sharpeners etc.
 
-You may bring a clear plastic bottle of water with no labels or other decorations to the exam.
+  - You may bring a clear plastic bottle of water with no labels or other decorations to the exam.
 
-You must bring your student ID card to the exam and place it on your table for the invigilators to check.
+  - You must bring your student ID card to the exam and place it on your table for the invigilators to check.
 
 <!-- You must bring yourself to the exam, on time. We had cases in previous years where students turned up late and were refused entry, and got a zero mark as a result. -->
 

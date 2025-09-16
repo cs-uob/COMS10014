@@ -1,10 +1,10 @@
 ---
 layout: page
-nav: Studying and Schedule
+nav: Schedule
 order: 1
 ---
 
-# Studying and Schedule
+# Schedule
 
 The timetable sessions for this unit are arranged into 2 x 1 hour lectures and 2 x 2 hour problem classes a week at the following times/locations:
 
@@ -15,8 +15,10 @@ The timetable sessions for this unit are arranged into 2 x 1 hour lectures and 2
 
 ## Lecture and Notes
 
-Each topic will be associated with a lecture and accompanying notes to read in your own time.
-It is your own choice if you read the notes before or after the lecture, but you are expected to _both_ attend the lecture and read the notes for each session. Sometimes, the notes will elaborate on something I do not mention in the lecture, or I might answer a question in the lecture that was not in the notes.
+Typically, each lecture will introduce a new topic for which there are accompanying notes to read in your own time (see [materials](materials.md)).
+<!-- Each topic will be associated with a lecture and accompanying notes to read in your own time. -->
+It is your own choice if you read the notes before or after the lecture, but you are expected to _both_ attend the lecture and read the notes for each session
+Sometimes, the notes will elaborate on something we do not mention in the lecture.
 
 Lectures will typically be delivered on boards, writing with pen or chalk depending on the room set-up.
 Our lecture recording systems are not set up to record this kind of lecture properly - the cameras in some rooms do not have the correct resolution to capture all boards, for example - so you should assume that for practical purposes, there are no usable lecture recordings. This is allowed in our university, and on this unit, you will have lecture notes available too. But, you should take your own notes in the lectures where possible, and of course catch up in your own time on any lectures you missed for a good reason.
