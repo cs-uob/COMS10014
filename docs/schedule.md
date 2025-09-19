@@ -15,7 +15,7 @@ The timetable sessions for this unit are arranged into 2 x 1 hour lectures and 2
 
 ## Lecture and Notes
 
-Typically, each lecture will introduce a new topic for which there are accompanying notes to read in your own time (see [materials](materials.md)).
+Typically, each lecture will introduce a new topic for which there are accompanying notes to read in your own time, see [materials](materials.md).
 <!-- Each topic will be associated with a lecture and accompanying notes to read in your own time. -->
 It is your own choice if you read the notes before or after the lecture, but you are expected to _both_ attend the lecture and read the notes for each session
 Sometimes, the notes will elaborate on something we do not mention in the lecture.
@@ -33,12 +33,13 @@ You should do the comprehension questions for each session after attending the l
 
 ## Problem Classes
 
-For each lecture there is an associated problem class giving you the opportunity to put what you have learnt into practice.
+For each lecture there is an associated problem class giving you the opportunity to put what you have learnt into practice - this will be where your main learning happens for the unit.
 During these two hour workshops, you will work in independently or in groups to solve the worksheet associated with the preceding lecture.
+There will be 20 workshops in total, two each in weeks 1-5 and two each in weeks 7-11 
 
 We do not require you to submit your solutions to the problem classes; however, solutions will be made available a few days after the workshop for you to look at in your own time.
 
-There is an attendance hurdle associated with these workshops, see [attendance](attendance.md) for details.
+There is also an **attendance hurdle** associated with these workshops, see [attendance](attendance.md) for details.
 
 <!-- At the start of each workshop, I will usually have some announcements or updates. After this, if you have any questions about the lecture material or the comprehension questions, you will have an opportunity to sit down with a teaching assistant, and usually an area of the room will be indicated for students with questions. Afterwards, you can work on the worksheets. If you have no questions at the start of a worksheet, you can sit down at a table with other students and start, as a group, working on the worksheet directly. The teaching assistants will spend the rest of the workshop helping groups with the worksheets.
 
