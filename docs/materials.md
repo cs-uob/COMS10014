@@ -20,7 +20,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
 
   - Topic: Booleans and Truth Tables
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/01-booleans.pdf) 
-  - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w01-booleans.pdf)
+  - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w01-booleans-questions.pdf)
 
 ## Sets, Functions, and Relations
 
