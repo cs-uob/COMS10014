@@ -10,7 +10,7 @@ The timetable sessions for this unit are arranged into 2 x 1 hour lectures and 2
 
  - Lecture: Monday 12:00-13:00, Queens 1.40 (Pugsley)
  - Problem Class: Tuesday 13:00-15:00 Queens F.101 (Bill Brown Suite)
- - Lecture: 09:00-10:00 Queens 1.40 (Pugsley)
+ - Lecture: Wednesday 09:00-10:00 Queens 1.40 (Pugsley)
  - Problem Class: Thursday 13:00-15:00 Queens F.101 (Bill Brown Suite)
 
 ## Lecture and Notes
