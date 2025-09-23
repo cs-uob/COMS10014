@@ -25,6 +25,11 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w01-booleans_questions.pdf)
   - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w01-booleans_solutions.pdf)
 
+## Session 2, 24-25 September
+
+  - Topic: Propositions, Satisfiability, Entailment, and Equivalence
+  - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/02-propositions.pdf)
+
 ## Sets, Functions, and Relations
 
 ## Probability
