@@ -20,9 +20,10 @@ See the [schedule page](schedule.html) for information on how best to plan and s
 
   - Topic: Booleans and Truth Tables
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/01-booleans.pdf) 
-  - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w01-booleans_questions.pdf)
   - [Whiteboard](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/01-booleans-whiteboard.pdf) 
   - [Recording](https://mediasite.bris.ac.uk/Mediasite/MyMediasite/presentations/8a94c9c252174e7e9dce6cb2f467f96d1d)
+  - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w01-booleans_questions.pdf)
+  - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w01-booleans_solutions.pdf)
 
 ## Sets, Functions, and Relations
 
