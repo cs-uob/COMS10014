@@ -27,11 +27,17 @@ See the [schedule page](schedule.html) for information on how best to plan and s
 
 ## Session 2, 24-25 September
 
-  - Topic: Propositions, Satisfiability, Entailment, and Equivalence
+  - Topic: Satisfiability, Validity, Entailment, and Equivalence
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/02-propositions.pdf)
   - [Whiteboard](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/02-propositions-whiteboard.pdf) 
   - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/695f501726a14fb8ab9af5e4fc308a2d1d)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w02-propositions_questions.pdf)
+  - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w02-propositions_solutions.pdf)
+
+## Session 3, 29-30 September
+
+  - Topic: Natural Deduction
+  - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/03-deduction.pdf)
 
 ## Sets, Functions, and Relations
 
