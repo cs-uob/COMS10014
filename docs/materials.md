@@ -46,8 +46,14 @@ See the [schedule page](schedule.html) for information on how best to plan and s
 
   - Topic: Natural Deduction (cont.)
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/03-deduction.pdf)
+  - [Whiteboard](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/03-deduction-whiteboard2.pdf) 
+  - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/b33e6a8d7de04e5b8567eeff501a1f621d)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w03-deduction_questions.pdf)
 
+## Session 5, 13-14 October
+
+  - Topic: Predicates and Quantifiers
+  - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/04-predicates.pdf)
 
 ## Sets, Functions, and Relations
 
