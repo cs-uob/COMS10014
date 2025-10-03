@@ -41,6 +41,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Whiteboard](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/03-deduction-whiteboard.pdf) 
   - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/82cc84364e2742d4913568486fdec8851d)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w03-deduction_questions.pdf)
+  - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w03-propositions_solutions.pdf)
 
 ## Session 4, 01-02 October
 
@@ -49,11 +50,14 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Whiteboard](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/03-deduction-whiteboard2.pdf) 
   - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/b33e6a8d7de04e5b8567eeff501a1f621d)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w03-deduction_questions.pdf)
+  - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w03-propositions_solutions.pdf)
+
 
 ## Session 5, 06-07 October
 
   - Topic: Predicates and Quantifiers
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/04-predicates.pdf)
+  - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w04-predicates_questions.pdf)
 
 ## Sets, Functions, and Relations
 
