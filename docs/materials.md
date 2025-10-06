@@ -57,6 +57,8 @@ See the [schedule page](schedule.html) for information on how best to plan and s
 
   - Topic: Predicates and Quantifiers
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/04-predicates.pdf)
+  - [Whiteboard](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/04-predicates-whiteboard.pdf) 
+  - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/fce80a0caf5e4f3a8ac9a225df8ab1d71d)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w04-predicates_questions.pdf)
 
 ## Sets, Functions, and Relations
