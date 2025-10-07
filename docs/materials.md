@@ -62,6 +62,12 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w04-predicates_questions.pdf)
   - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w04-predicates_solutions.pdf)
 
+## Session 5, 08-09 October
+
+  - Topic: Natural Deduction for Quantifiers
+  - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/05-deduction.pdf)
+  - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w05-deduction_questions.pdf)
+
 ## Sets, Functions, and Relations
 
 ## Probability
