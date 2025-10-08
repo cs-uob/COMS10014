@@ -66,6 +66,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
 
   - Topic: Natural Deduction for Quantifiers
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/05-deduction.pdf)
+  - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/3d46886d1d73426dab63adcca8c4b2981d)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w05-deduction_questions.pdf)
 
 ## Sets, Functions, and Relations
