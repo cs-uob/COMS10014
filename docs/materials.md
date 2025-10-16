@@ -77,11 +77,13 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Whiteboard](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/06-informal-whiteboard.pdf)
   - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/7f9982b574b045f9a059be503934f18b1d)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w06-informal_questions.pdf)
+  - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w06-informal_solutions.pdf)
 
 ## Session 7: 15-16 October
 
   - Topic: Induction
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/07-induction.pdf)
+  - [Recoring](https://mediasite.bris.ac.uk/Mediasite/Play/9dc1e7198f7f49d2ab197919b4b620981d)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w07-induction_questions.pdf)
 
 ## Sets, Functions, and Relations
