@@ -87,5 +87,16 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w07-induction_questions.pdf)
 
 ## Sets, Functions, and Relations
+### Session 9, 20-21 October
+
+  - Topic: Set Theory
+  - [Lecture notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%202%20-%20Sets,%20Functions,%20and%20Relations/09-set-theory.pdf?csf=1&web=1&e=uq4jYr)
+  - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w09-sets_questions.pdf?csf=1&web=1&e=IqymRh)
+
+### Session 10, 22-23 October
+
+  - Topic: Set Theory
+  - [Lecture notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%202%20-%20Sets,%20Functions,%20and%20Relations/10-set-theory.pdf?csf=1&web=1&e=e4vpRB)
+  - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w10-sets_questions.pdf?csf=1&web=1&e=0na2Q7)  
 
 ## Probability
