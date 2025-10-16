@@ -25,7 +25,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w01-booleans_questions.pdf)
   - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w01-booleans_solutions.pdf)
 
-## Session 2, 24-25 September
+### Session 2, 24-25 September
 
   - Topic: Satisfiability, Validity, Entailment, and Equivalence
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/02-propositions.pdf)
@@ -34,7 +34,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w02-propositions_questions.pdf)
   - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w02-propositions_solutions.pdf)
 
-## Session 3, 29-30 September
+### Session 3, 29-30 September
 
   - Topic: Natural Deduction
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/03-deduction.pdf)
@@ -43,7 +43,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w03-deduction_questions.pdf)
   - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w03-deduction_solutions.pdf)
 
-## Session 3 cont., 01-02 October
+### Session 3 cont., 01-02 October
 
   - Topic: Natural Deduction (cont.)
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/03-deduction.pdf)
@@ -53,7 +53,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w03-deduction_solutions.pdf)
 
 
-## Session 4, 06-07 October
+### Session 4, 06-07 October
 
   - Topic: Predicates and Quantifiers
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/04-predicates.pdf)
@@ -62,7 +62,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w04-predicates_questions.pdf)
   - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w04-predicates_solutions.pdf)
 
-## Session 5, 08-09 October
+### Session 5, 08-09 October
 
   - Topic: Natural Deduction for Quantifiers
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/05-deduction.pdf)
@@ -70,7 +70,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w05-deduction_questions.pdf)
   - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w05-deduction_solutions.pdf)
 
-## Session 6: 13-14 October
+### Session 6: 13-14 October
 
   - Topic: Informal Proofs
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/06-informal.pdf)
@@ -79,7 +79,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w06-informal_questions.pdf)
   - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w06-informal_solutions.pdf)
 
-## Session 7: 15-16 October
+### Session 7: 15-16 October
 
   - Topic: Induction
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/07-induction.pdf)
