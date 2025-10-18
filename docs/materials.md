@@ -91,7 +91,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
 
   - Topic: Set Theory
   - [Lecture notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%202%20-%20Sets,%20Functions,%20and%20Relations/09-set-theory.pdf?csf=1&web=1&e=uq4jYr)
-  - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w09-sets_questions.pdf?csf=1&web=1&e=IqymRh)
+  - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w09-sets_questions.pdf?csf=1&web=1&e=LO7rUS)
 
 ### Session 10, 22-23 October
 
