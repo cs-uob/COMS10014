@@ -85,6 +85,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%201%20-%20Logic%20and%20Proofs/07-induction.pdf)
   - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/9dc1e7198f7f49d2ab197919b4b620981d)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w07-induction_questions.pdf)
+  - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w07-induction_solutions.pdf)
 
 ## Sets, Functions, and Relations
 ### Session 9, 20-21 October
