@@ -4,6 +4,7 @@ order: 2
 ---
 
 # Attendance Hurdle
+## Authorised Absence Form: [Click Here](https://forms.office.com/e/UqDgH2CmMu)
 
 This unit has an attendance hurdle associated with the twice-weekly workshops/problem classes, see [schedule](schedule.md). There will be 20 workshops in total, two each in weeks 1-5 and two each in weeks 7-11 during which we will take attendance.
 
@@ -17,7 +18,6 @@ We will use a paper register to collect attendance during the workshop. It is yo
 
 We expect all students to attend **19 out of 20 workshops**. We do not mind if you miss one in total across the entire unit. You will note that the expectation (19 out of 20) is higher than the hurdle (15 out of 20). If you aim for 19 (or 20), then you really should not have to worry about the hurdle, and you will have also done the best you can to prepare yourself for the exam by coming to all classes. 
 <!-- You will get no sympathy if you attend only 14 workshops and argue that you almost met the hurdle, as you did not come close to the expected 19. -->
-
 
 <!-- Some workshops are in-class tests. For these, you get attendance by both getting signed in as usual, and completing the test and handing in your answer sheet. It does not matter how well or badly you do on the test - you do not need to pass the test to get attendance. -->
 
