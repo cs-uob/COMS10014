@@ -1,7 +1,7 @@
 ---
 layout: page
 nav: Textbooks
-order: 5
+order: 6
 ---
 
 # Textbooks
