@@ -88,6 +88,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%201%20-%20Logic%20and%20Proofs/w07-induction_solutions.pdf)
 
 ## Sets, Functions, and Relations
+
 ### Session 9, 20-21 October
 
   - Topic: Set Theory
@@ -96,6 +97,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/989ec0b2ff99442692448c2ce79411691d)
   - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w09-sets_questions.pdf?csf=1&web=1&e=LO7rUS)
   - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w09-sets_solutions.pdf?csf=1&web=1&e=qbI3KC)
+
 ### Session 10, 22-23 October
 
   - Topic: Set Theory
@@ -112,6 +114,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w11-functions_questions.pdf?csf=1&web=1&e=gblDmW)
 
 ### Session 12, 05-06 November
+
   - Topic: Relations
   - [Lecture notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%202%20-%20Sets,%20Functions,%20and%20Relations/12-relations.pdf?csf=1&web=1&e=5wj51H)
   - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w12-relations_questions.pdf?csf=1&web=1&e=ugZPsf)
