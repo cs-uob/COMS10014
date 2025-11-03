@@ -111,6 +111,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
 
   - Topic: Functions
   - [Lecture notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%202%20-%20Sets,%20Functions,%20and%20Relations/11-functions.pdf?csf=1&web=1&e=6RbUrx)
+  - [Lecture slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%202%20-%20Sets,%20Functions,%20and%20Relations/11-functions-slides.pdf?csf=1&web=1&e=3qbZYX)
   - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w11-functions_questions.pdf?csf=1&web=1&e=gblDmW)
 
 ### Session 12, 05-06 November
