@@ -11,5 +11,8 @@ They are not a complete guide to all the content, you should still incorporate t
 We will also release a practice paper closer to the exam.
 
 
-  - Topic: Propositional Logic and Natural Deduction for Propositional Logic
+  - Topic: Booleans, Propositional Logic, and Natural Deduction for Propositional Logic
   - [Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Other/Logic%20%26%20Proofs%20(pt1).pdf?csf=1&web=1&e=NfDrov)
+
+  - Topic: Quantifiers, Predicate Logic, and Natural Deduction for Predicate Logic
+  - [Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Other/Logic%20%26%20Proofs%20(pt2).pdf?csf=1&web=1&e=NfDrov)
