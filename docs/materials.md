@@ -123,4 +123,16 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Lecture slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%202%20-%20Sets,%20Functions,%20and%20Relations/12-relations-slides.pdf?csf=1&web=1&e=pYxRqt)
   - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w12-relations_questions.pdf?csf=1&web=1&e=ugZPsf)
 
+### Session 13, 10-11 November
+
+  - Topic: Combinatorics
+  - [Lecture notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%202%20-%20Sets,%20Functions,%20and%20Relations/13-combinatorics.pdf?csf=1&web=1&e=HOaQ7g)
+  - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w13-combinatorics_questions.pdf?csf=1&web=1&e=zsC6wL)
+
+### Session 14, 13-14 November
+
+  - Topic: Combinatorics
+  - [Lecture notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%202%20-%20Sets,%20Functions,%20and%20Relations/14-combinatorics.pdf?csf=1&web=1&e=QNHZJO)
+  - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w14-combinatorics_questions.pdf?csf=1&web=1&e=8GdmDZ)  
+
 ## Probability
