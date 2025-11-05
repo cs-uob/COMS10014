@@ -114,6 +114,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Lecture slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%202%20-%20Sets,%20Functions,%20and%20Relations/11-functions-slides.pdf?csf=1&web=1&e=3qbZYX)
   - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/1644a333a5794a46b68c6e98570639241d)
   - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w11-functions_questions.pdf?csf=1&web=1&e=gblDmW)
+  - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w11-functions_solutions.pdf?csf=1&web=1&e=N5xWLh)
 
 ### Session 12, 05-06 November
 
