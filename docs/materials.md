@@ -123,7 +123,8 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Lecture slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%202%20-%20Sets,%20Functions,%20and%20Relations/12-relations-slides.pdf?csf=1&web=1&e=pYxRqt)
   - [Recording](https://mediasite.bris.ac.uk/Mediasite/MyMediasite/presentations/d3b5df8f3f8344419635bd91adf1cfa81d)
   - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w12-relations_questions.pdf?csf=1&web=1&e=ugZPsf)
-
+  - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w12-relations_solutions.pdf?csf=1&web=1&e=DUPezc)
+  
 ### Session 13, 10-11 November
 
   - Topic: Combinatorics
