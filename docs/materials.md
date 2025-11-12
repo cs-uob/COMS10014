@@ -139,6 +139,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - Topic: Combinatorics
   - [Lecture notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%202%20-%20Sets,%20Functions,%20and%20Relations/14-combinatorics.pdf?csf=1&web=1&e=QNHZJO)
   - [Lecture slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%202%20-%20Sets,%20Functions,%20and%20Relations/14-combinatorics-slides.pdf?csf=1&web=1&e=d6WqPc)
+  - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/40470b3d9a7546389eef7afe2d5048961d)
   - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w14-combinatorics_questions.pdf?csf=1&web=1&e=8GdmDZ)  
 
 ## Probability
