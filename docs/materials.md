@@ -144,3 +144,9 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w14-combinatorics_solutions.pdf?csf=1&web=1&e=RXlipD)
 
 ## Probability
+
+### Session 15, 17-18 November
+
+  - Topic: Probability
+  - [Lecture Notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/15-probability.pdf)
+  
