@@ -148,5 +148,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
 ### Session 15, 17-18 November
 
   - Topic: Probability
-  - [Lecture Notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/15-probability.pdf)
+  - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/15-probability.pdf)
+  - [Live notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/15-probability-whiteboard.pdf)
+  - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w15-probability_questions.pdf)
   
