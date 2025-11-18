@@ -152,3 +152,8 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Live notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/15-probability-whiteboard.pdf)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w15-probability_questions.pdf)
   
+### Session 16, 19-20 November
+
+  - Topic: Conditional Probability
+  - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/16-conditional.pdf)
+  
