@@ -13,8 +13,9 @@ We will also release a practice paper closer to the exam.
 ## Topic: Booleans, Propositional Logic, and Natural Deduction for Propositional Logic
   
   - [Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Other/Logic%20%26%20Proofs%20(pt1).pdf)
-  - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Other/Logic%20%26%20Proofs%20Solutions%20(pt1).pdf)
+  - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Other/Logic%20%26%20Proofs%20(pt1)%20Solutions.pdf)
 
 ## Topic: Quantifiers, Predicate Logic, and Natural Deduction for Predicate Logic
   
   - [Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Other/Logic%20%26%20Proofs%20(pt2).pdf)
+  - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Other/Logic%20%26%20Proofs%20(pt2)%20Solutions.pdf)
