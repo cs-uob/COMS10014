@@ -141,5 +141,22 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Lecture slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%202%20-%20Sets,%20Functions,%20and%20Relations/14-combinatorics-slides.pdf?csf=1&web=1&e=d6WqPc)
   - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/40470b3d9a7546389eef7afe2d5048961d)
   - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w14-combinatorics_questions.pdf?csf=1&web=1&e=8GdmDZ)  
+  - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w14-combinatorics_solutions.pdf?csf=1&web=1&e=RXlipD)
 
 ## Probability
+
+### Session 15, 17-18 November
+
+  - Topic: Probability
+  - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/15-probability.pdf)
+  - [Live notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/15-probability-whiteboard.pdf)
+  - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/1488e01b57554142b7cdc30f6d6d39701d)
+  - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w15-probability_questions.pdf)
+  
+### Session 16, 19-20 November
+
+  - Topic: Conditional Probability
+  - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/16-conditional.pdf)
+  - [Live notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/16-conditional-whiteboard.pdf)
+  - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/0c54f9730bf14fbe844a6cd9e34cf8d51d)
+  - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w16-conditional_questions.pdf)
