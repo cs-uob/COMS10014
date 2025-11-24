@@ -21,6 +21,6 @@ They are not a complete guide to all the content, you should still incorporate t
 
 ## Mock Exam
 
-  Below is a mock exam which mimics the style and format of the December exam. All questions are multiple choice, where each question has exactly 1 correct answer. If you wish to try this in exam style conditions, note that calculators are **NOT** permitted and that you are permitted to use one double sided A4 sheet of handwritten notes.
+  Below is a mock exam which mimics the style and format of the December exam. All questions are multiple choice, where each question has exactly 1 correct answer. If you wish to try this in exam style conditions, note that calculators are **NOT** permitted and that you are permitted to use one double sided A4 sheet of notes (printed or handwritten).
 
   - [Mock exam](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Other/COMS10014-mock.pdf?csf=1&web=1&e=rhCpDj)
