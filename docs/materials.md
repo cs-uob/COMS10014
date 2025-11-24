@@ -166,3 +166,12 @@ See the [schedule page](schedule.html) for information on how best to plan and s
 ### Session 17, 24-25 November
   - Topic: Random Variables
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/17-randomvariables.pdf)
+
+### Session 18, 26-27 November
+  - Topic: Expectation and Variance
+
+### Session 19, 01-02 December
+  - Topic: Discrete Random Variables
+
+### Session 20, 03-04 December
+  - Topic: Continuous Random Variables
