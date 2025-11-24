@@ -166,6 +166,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
 ### Session 17, 24-25 November
   - Topic: Random Variables
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/17-randomvariables.pdf)
+  - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w17-randomvariables_questions.pdf)
 
 ### Session 18, 26-27 November
   - Topic: Expectation and Variance
