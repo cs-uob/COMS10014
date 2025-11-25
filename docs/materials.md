@@ -148,6 +148,16 @@ See the [schedule page](schedule.html) for information on how best to plan and s
 ### Session 15, 17-18 November
 
   - Topic: Probability
+    <details>
+    <summary>Outline</summary>
+    <ul>
+    <li>Sample Spaces & Events</li>
+    <li>Probability Spaces & Distributions</li>
+    <li>Uniform Distribution</li>
+    <li>Properties of Distributions</li>
+    <li>Probability Tables</li>
+    </ul>
+    </details>
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/15-probability.pdf)
   - [Live notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/15-probability-whiteboard.pdf)
   - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/1488e01b57554142b7cdc30f6d6d39701d)
@@ -157,6 +167,16 @@ See the [schedule page](schedule.html) for information on how best to plan and s
 ### Session 16, 19-20 November
 
   - Topic: Conditional Probability
+    <details>
+    <summary>Outline</summary>
+    <ul>
+    <li>Conditional Probability Definition</li>
+    <li>Conditional Probability Properties</li>
+    <li>Bayes' Theorem & Bayesian Interpretation of Probability</li>
+    <li>Independence</li>
+    <li>Probability Tables Revisited</li>
+    </ul>
+    </details>
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/16-conditional.pdf)
   - [Live notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/16-conditional-whiteboard.pdf)
   - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/0c54f9730bf14fbe844a6cd9e34cf8d51d)
@@ -165,17 +185,52 @@ See the [schedule page](schedule.html) for information on how best to plan and s
 
 ### Session 17, 24-25 November
   - Topic: Random Variables
+    <details>
+    <summary>Outline</summary>
+    <ul>
+    <li>Random Variables Motivation</li>
+    <li>Random Variables Definition</li>
+    <li>Notation, Mass Functions & Cumulative Distribution Functions</li>
+    <li>Joint Random Variables</li>
+    </ul>
+    </details>
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/17-randomvariables.pdf)
   - [Live notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/17-randomvariables-whiteboard.pdf)
+  - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/29a4f14ffbbd49f6885e233a6403d21a1d)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w17-randomvariables_questions.pdf)
 
 ### Session 18, 26-27 November
   - Topic: Expectation and Variance
+    <details>
+    <summary>Outline</summary>
+    <ul>
+    <li>Discrete & Continuous Random Variables</li>
+    <li>Expected Value Definition</li>
+    <li>Expected Value Properties, Linearity</li>
+    <li>Variance Definition</li>
+    </ul>
+    </details>
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/18-expectation.pdf)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w18-expectation_questions.pdf)
 
 ### Session 19, 01-02 December
   - Topic: Discrete Random Variables
+    <details>
+    <summary>Outline</summary>
+    <ul>
+    <li>Binomial Distribution, Expectation and Variance</li>
+    <li>Poisson Distribution, Expectation and Variance</li>
+    <li>Geometric Distribution, Expectation and Variance</li>
+    </ul>
+    </details>
 
 ### Session 20, 03-04 December
   - Topic: Continuous Random Variables
+    <details>
+    <summary>Outline</summary>
+    <ul>
+    <li>Continuous Uniform Distribution, Expectation and Variance</li>
+    <li>Exponential Distribution, Expectation and Variance</li>
+    <li>(Possibly) Normal Distribution, Expectation and Variance</li>
+    </ul>
+    </details>
