@@ -158,6 +158,12 @@ See the [schedule page](schedule.html) for information on how best to plan and s
     <li>Probability Tables</li>
     </ul>
     </details>
+    <details>
+    <summary>Further Reading</summary>
+    <ul>
+    <li>[Sheldon Ross, Chapter 2.1 - 2.5]</li>
+    </ul>
+    </details>
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/15-probability.pdf)
   - [Live notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/15-probability-whiteboard.pdf)
   - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/1488e01b57554142b7cdc30f6d6d39701d)
@@ -177,6 +183,12 @@ See the [schedule page](schedule.html) for information on how best to plan and s
     <li>Probability Tables Revisited</li>
     </ul>
     </details>
+    <details>
+    <summary>Further Reading</summary>
+    <ul>
+    <li>[Sheldon Ross, Chapter 3]</li>
+    </ul>
+    </details>
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/16-conditional.pdf)
   - [Live notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/16-conditional-whiteboard.pdf)
   - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/0c54f9730bf14fbe844a6cd9e34cf8d51d)
@@ -192,6 +204,12 @@ See the [schedule page](schedule.html) for information on how best to plan and s
     <li>Random Variables Definition</li>
     <li>Notation, Mass Functions & Cumulative Distribution Functions</li>
     <li>Joint Random Variables</li>
+    </ul>
+    </details>
+    <details>
+    <summary>Further Reading</summary>
+    <ul>
+    <li>[Sheldon Ross, Chapter 4.1-4.2, 5.1]</li>
     </ul>
     </details>
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/17-randomvariables.pdf)
@@ -210,6 +228,12 @@ See the [schedule page](schedule.html) for information on how best to plan and s
     <li>Variance Definition</li>
     </ul>
     </details>
+    <details>
+    <summary>Further Reading</summary>
+    <ul>
+    <li>[Sheldon Ross, Chapter 4.3-4.5, 4.10, 5.2]</li>
+    </ul>
+    </details>
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/18-expectation.pdf)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w18-expectation_questions.pdf)
 
@@ -223,6 +247,12 @@ See the [schedule page](schedule.html) for information on how best to plan and s
     <li>Geometric Distribution, Expectation and Variance</li>
     </ul>
     </details>
+    <details>
+    <summary>Further Reading</summary>
+    <ul>
+    <li>[Sheldon Ross, Chapter 4.6-4.8]</li>
+    </ul>
+    </details>
 
 ### Session 20, 03-04 December
   - Topic: Continuous Random Variables
@@ -232,5 +262,11 @@ See the [schedule page](schedule.html) for information on how best to plan and s
     <li>Continuous Uniform Distribution, Expectation and Variance</li>
     <li>Exponential Distribution, Expectation and Variance</li>
     <li>(Possibly) Normal Distribution, Expectation and Variance</li>
+    </ul>
+    </details>
+    <details>
+    <summary>Further Reading</summary>
+    <ul>
+    <li>[Sheldon Ross, Chapter 5.3-5.5]</li>
     </ul>
     </details>
