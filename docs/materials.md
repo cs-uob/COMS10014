@@ -102,7 +102,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
 
   - Topic: Set Theory
   - [Lecture notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%202%20-%20Sets,%20Functions,%20and%20Relations/10-set-theory.pdf?csf=1&web=1&e=e4vpRB)
-  - [Lecture slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%202%20-%20Sets,%20Functions,%20and%20Relations/10-set-theory-slides.pdf?csf=1&web=1&e=UedgH6)
+  - [Lecture slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%202%20-%20Sets,%20Functions,%20and%20Relations/10-set-theory-slides.pdf?csf=1&web=1&e=aMLFtM)
   - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/d21cdf864cc74739819280de39182aa71d)
   - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w10-sets_questions.pdf?csf=1&web=1&e=0na2Q7)  
   - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%202%20-%20Sets,%20Functions,%20and%20Relations/w10-sets_solutions.pdf?csf=1&web=1&e=kmHP02)
