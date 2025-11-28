@@ -274,3 +274,4 @@ See the [schedule page](schedule.html) for information on how best to plan and s
     <li>[Sheldon Ross, Chapter 5.3-5.5]</li>
     </ul>
     </details>
+    - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/20-continuous.pdf)
