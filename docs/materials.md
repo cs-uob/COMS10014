@@ -258,6 +258,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
     </details>
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/19-discrete.pdf)
   - [Live notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/19-discrete-whiteboard.pdf)
+  - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/0b7eb4128ad643f5b526e118f5999f701d)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w19-discrete_questions.pdf)
 
 ### Session 20, 03-04 December
@@ -277,3 +278,4 @@ See the [schedule page](schedule.html) for information on how best to plan and s
     </ul>
     </details>
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/20-continuous.pdf)
+  - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w20-continuous_questions.pdf)
