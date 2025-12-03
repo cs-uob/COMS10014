@@ -278,4 +278,6 @@ See the [schedule page](schedule.html) for information on how best to plan and s
     </ul>
     </details>
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/20-continuous.pdf)
+  - [Live notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/20-continuous-whiteboard.pdf)
+  - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/c1241b8ad7644d2ab34356c08a3f95d41d)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w20-continuous_questions.pdf)
