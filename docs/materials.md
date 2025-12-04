@@ -239,6 +239,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Live notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/18-expectation-whiteboard.pdf)
   - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/5e69a34e6ce149bd83dd38a8ab8a76a81d)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w18-expectation_questions.pdf)
+  - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w18-expectation_solutions.pdf)
 
 ### Session 19, 01-02 December
   - Topic: Discrete Random Variables
