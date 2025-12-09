@@ -270,7 +270,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
     <ul>
     <li>Continuous Uniform Distribution, Expectation and Variance</li>
     <li>Exponential Distribution, Expectation and Variance</li>
-    <li>(Possibly) Normal Distribution, Expectation and Variance</li>
+    <li>Normal Distribution, Expectation and Variance <b>(NOTE: This material is non-examinable)</b></li>
     </ul>
     </details>
     <details>
