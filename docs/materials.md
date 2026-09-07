@@ -239,6 +239,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Live notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/18-expectation-whiteboard.pdf)
   - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/5e69a34e6ce149bd83dd38a8ab8a76a81d)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w18-expectation_questions.pdf)
+  - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w18-expectation_solutions.pdf)
 
 ### Session 19, 01-02 December
   - Topic: Discrete Random Variables
@@ -260,6 +261,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
   - [Live notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/19-discrete-whiteboard.pdf)
   - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/0b7eb4128ad643f5b526e118f5999f701d)
   - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w19-discrete_questions.pdf)
+  - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w19-discrete_solutions.pdf)
 
 ### Session 20, 03-04 December
   - Topic: Continuous Random Variables
@@ -268,7 +270,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
     <ul>
     <li>Continuous Uniform Distribution, Expectation and Variance</li>
     <li>Exponential Distribution, Expectation and Variance</li>
-    <li>(Possibly) Normal Distribution, Expectation and Variance</li>
+    <li>Normal Distribution, Expectation and Variance <b>(NOTE: This material is non-examinable)</b></li>
     </ul>
     </details>
     <details>
@@ -278,4 +280,7 @@ See the [schedule page](schedule.html) for information on how best to plan and s
     </ul>
     </details>
   - [Lecture notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/20-continuous.pdf)
-  - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w20-continuous_questions.pdf) -->
+  - [Live notes](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Notes/Part%203%20-%20Probability/20-continuous-whiteboard.pdf)
+  - [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/c1241b8ad7644d2ab34356c08a3f95d41d)
+  - [Worksheet](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w20-continuous_questions.pdf)
+  - [Solutions](https://uob.sharepoint.com/teams/UnitTeams-COMS10014-2025-26-TB-1-A/Class%20Materials/Worksheets/Part%203%20-%20Probability/w20-continuous_solutions.pdf)
