@@ -7,7 +7,7 @@ This unit and its companion Mathematics B teach you the basic mathematics that y
 <!-- as well as topics in statistics that will be of interest to you when you perform experiments or evaluations in your final project or other units later on in your degree. -->
 More specifically, the topics for this unit are based around three areas:
 
-  * Logic and Proof 
+  * Logic and Proofs
   * Sets, Functions, and Relations
   * Probability
 
@@ -22,8 +22,8 @@ Finally, we will look at probability - the way in which we model an unpredictabl
 ## Unit Information
 
   - [Schedule](schedule.md)
-  - [Attendance](attendance.md)
+  <!-- - [Attendance](attendance.md) -->
   - [Assessment](assessment.md)
   - [Material](materials.md)
-  - [Revision](revision.md)
+  <!-- - [Revision](revision.md) -->
   - [Textbooks](textbooks.md)

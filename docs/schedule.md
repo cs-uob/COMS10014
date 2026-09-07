@@ -8,9 +8,9 @@ order: 1
 
 The timetable sessions for this unit are arranged into 2 x 1 hour lectures and 2 x 2 hour problem classes a week at the following times/locations:
 
- - Lecture: Monday 12:00-13:00, Queens 1.40 (Pugsley)
+ - Lecture: Monday 11:00-12:00, CHEM LT1
  - Problem Class: Tuesday 13:00-15:00 Queens F.101 (Bill Brown Suite)
- - Lecture: Wednesday 09:00-10:00 Queens 1.40 (Pugsley)
+ - Lecture: Wednesday 11:00-12:00 CHEM LT1
  - Problem Class: Thursday 13:00-15:00 Queens F.101 (Bill Brown Suite)
 
 ## Lecture and Notes
