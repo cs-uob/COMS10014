@@ -5,13 +5,10 @@ order: 3
 
 # Assessment
 
-This unit is worth 20 credit points, which is 1/6 of your first year. Your first year does not count towards your degree classification, but you do need to pass it to progress to 2nd year.
+This unit is worth 20 credit points, which is 1/6 of your first year.
+Your first year does not count towards your degree classification, but you do need to pass it to progress to 2nd year.
 
-You get awarded credit for this unit, which you need to progress to 2nd year, if you get both:
-  * a mark of at least 40% on the exam, and 
-  * you meet the attendance hurdle of 15/20 workshops.
-
-The attendance hurdle is described [on its own page](attendance.md).
+You get awarded credit for this unit, which you need to progress to 2nd year, if you get a mark of at least 40% on the exam.
 
 ## Exam Week
 
