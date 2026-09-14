@@ -12,25 +12,27 @@ You get awarded credit for this unit, which you need to progress to 2nd year, if
 
 ## Exam Week
 
-This unit will be assessed by a single 2 hour exam held in an exam hall in the December 2025 exam week.
+This unit will be assessed by a single 2 hour exam held in an exam hall in the December 2026 exam week.
 The prior week will not have any new content, and is set aside for revision.
 
 You must be in Bristol for entirety of the exam week, and your exact exam date and time will be published in your exam timetable closer to the date.
 
-<!-- Unlike previous years, your exams for teaching block 1 (the autumn teaching block) will be before Christmas, not afterwards. This means you get a proper break, but you will not be able to use the Christmas period for catching up on revision - you will need to be ready for your exam by mid-December. -->
-
-<!-- However, you will get one week (2--6 December 2024) of revision time during which there will be no lectures and no new content. -->
-
 ## Exam Format
 
-The exam consists of multiple choice questions that will closely follow the questions laid out in the problem sheets.
-If you feel comfortable with the problem sheets, you are ready for the exam!
+The exam consists of a series of multiple choice questions.
+This format differs from the questions laid out in the problem sheets, and may be unfamiliar, but if you feel comfortable with the problem sheets, then you are definitely ready for the exam.
+
 Do not be fooled into thinking that a multiple choice exam is easier, the exam will still test your ability to work with the skills you have developed throughout the unit, it won't be sufficient to memorise key terms!
+
+## Grade Boundaries
+
+As with all undergraduate university courses, 40/100 is the required mark for passing (3rd), 50/100 gets you a 2:2 (lower 2nd), 60/100 gets you an 2:1 (upper 2nd), and 70/100 gets you a 1st.
+Whilst you might be used to receive marks in the 80s/90s, these marks are quite uncommon at university. 
+That means that it is *normal* to find there are questions that you don't know how to tackle or that you don't feel confident on.
 
 ## Exam Materials
 
-**Calculators are not allowed on this exam.** The exam questions will be written with this in mind. You will not be expected to calculate the cosine of the square root of 5 in your head, or anything like that; for most questions relating to logic, sets, and functions a calculator would not be much use in the first place. For the combinatorics and probability part, you will be expected to be able to do simple arithmetic either in your head or longhand on paper, e.g. expressing 3/7 to three decimal places. 
-<!-- If you have forgotten how to do this, you are at university now - you will need to teach yourself that part again. -->
+**Calculators are not allowed on this exam.** The exam questions will be written with this in mind. You will not be expected to calculate the cosine of the square root of 5 in your head, or anything like that; for most questions relating to logic, sets, and functions a calculator would not be much use in the first place. For the combinatorics and probability part, you will be expected to be able to do simple arithmetic either in your head or longhand on paper, e.g. expressing 3/7 to three decimal places.
 
   - You will be able to bring in one sheet of A4 paper, double-sided notes (either handwritten or printed out).
 
@@ -41,24 +43,3 @@ Do not be fooled into thinking that a multiple choice exam is easier, the exam w
   - You may bring a clear plastic bottle of water with no labels or other decorations to the exam.
 
   - You must bring your student ID card to the exam and place it on your table for the invigilators to check.
-
-<!-- You must bring yourself to the exam, on time. We had cases in previous years where students turned up late and were refused entry, and got a zero mark as a result. -->
-
-<!-- The exam will use a format that I call "rapidmark" in which you write your answers in pencil in boxes on a pre-printed answer sheet. Question formats could include, among others:
-
-  - True/False
-  - Multiple choice
-  - Mark all that apply
-  - Enter one or more numbers in boxes
-  - Place crosses in a table
-  - Draw some lines/arrows in a graph
-
-Rapidmark means that to mark your exam, I will scan all answer sheets, code up some image recognition to automatically mark most of your exam (for example, detect whether you put a cross in the "true" or "false" box for one question), then mark the remaining question(s) by hand. _I will also visually check every single answer sheet myself, so you do not need to be worried about mistakes in the image recognition._
-
-You must strictly observe any instructions given in the individual exam questions, such as "make _exactly one_ cross for this question"; not doing so is immedately 0 marks for the whole question.
-
-This is not only much quicker to mark than a traditional exam, but it is also more objective and fairer in some respects, and it gives me detailed statistics to see how well students did on each topic at no extra cost.
-
-There will not be questions where you are asked to write full English sentences or proofs, or to "show your workings". Indeed there is no way to get any partial marks for workings: your answer to a question is either correct, or incorrect.
-
-You will have three in-class tests where, among other things, you can practice answering in the rapidmark format. These tests do not count towards your grade for the unit (but taking part does count towards the attendance hurdle). -->

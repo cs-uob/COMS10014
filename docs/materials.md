@@ -16,6 +16,18 @@ Files linked to on this page will require you to log in with your university use
 
 <!-- ## Logic and Proofs -->
 
-### Session 1, 21-22 September
+### Session 1, 21st-22nd September
 
   - Topic: Booleans and Truth Tables
+
+### Session 2, 23rd-24th September
+
+  - Topic: Boolean algebra
+
+### Session 3, 28th-29th September
+
+  - Topic: Natural Deduction (pt 1)
+
+### Session 4, 30th-01st September
+
+  - Topic: Natural Deduction (pt 2)
