@@ -19,10 +19,12 @@ Files linked to on this page will require you to log in with your university use
 ### Session 1, 21st-22nd September
 
   - Topic: Booleans and Truth Tables
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/01-booleans.pdf?d=wdc376c981b6e47779c49f35ac7478bad&csf=1&web=1&e=4I3stj)
 
 ### Session 2, 23rd-24th September
 
   - Topic: Boolean algebra
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/02-algebra.pdf?d=wdc376c981b6e47779c49f35ac7478bad&csf=1&web=1&e=4I3stj)
 
 ### Session 3, 28th-29th September
 
