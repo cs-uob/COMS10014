@@ -17,11 +17,11 @@ The timetable sessions for this unit are arranged into 2 x 1 hour lectures and 2
 
 Typically, each lecture will introduce a new topic for which there are accompanying notes to read in your own time, see [materials](materials.md).
 <!-- Each topic will be associated with a lecture and accompanying notes to read in your own time. -->
-It is your own choice if you read the notes before or after the lecture, but you are expected to _both_ attend the lecture and read the notes for each session
+It is up to you whether you want to read the notes before or after the lecture, but you are expected to _both_ attend the lecture and read the notes for each session.
 Sometimes, the notes will elaborate on something we do not mention in the lecture.
 
-Lectures will typically be delivered on boards, writing with pen or chalk depending on the room set-up.
-Our lecture recording systems are not set up to record this kind of lecture properly - the cameras in some rooms do not have the correct resolution to capture all boards, for example - so you should assume that for practical purposes, there are no usable lecture recordings. This is allowed in our university, and on this unit, you will have lecture notes available too. But, you should take your own notes in the lectures where possible, and of course catch up in your own time on any lectures you missed for a good reason.
+Lectures will sometimes involve writing on whiteboards/blackboards, which is not often captured will by our lecture recording systems.
+It is recommended that you attend in person when possible.
 
 <!-- ## Comprehension Questions
 
@@ -54,7 +54,7 @@ The class tests are opportunities for all of the following:
   - practicing the format of the exam (class tests use the same style of answer sheets)
   - experiencing the kind of questions that could come up in an exam. -->
 
-## Individual Study
+<!-- ## Individual Study
 
 Outside the contact hours, you are expected to study and revise in your own time. 
 On average, you should reckon with 4 hours of individual study time per session. This includes reading the lecture notes, going over your own notes from the lecture, finishing any questions on the worksheets that you did not get through in the workshop, checking your solutions against the sample solutions when they come out, looking up anything you do not understand yet in textbooks or online, and revising material with your favourite system, for upcoming class tests and the exam.
@@ -62,4 +62,4 @@ On average, you should reckon with 4 hours of individual study time per session.
 Studying at university may be _drastically_ different from what you are used to. We expect a certain degree of independent learning.
 The task is no longer to memorise the solution for exam questions - instead you must integrate your knowledge and skill through practice.
 This means you may well be challenged to apply ideas in contexts that are unfamiliar, where not all the information is given to you.
-We encourage you to post questions you have on the unit teams; however, you should try to exhaust your own capacity to solve it first.
+We encourage you to post questions you have on the unit teams; however, you should try to exhaust your own capacity to solve it first. -->
