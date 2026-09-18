@@ -1,6 +1,6 @@
 # COMS10014 Mathematics A
 
-Welcome to the unit website for COMS10014 Mathematics for Computer Science A in the 2025-26 academic year!
+Welcome to the unit website for COMS10014 Mathematics for Computer Science A in the 2026-27 academic year!
 All materials that you will need for the unit will be linked to from this page; some links will require you to authenticate with the university's Microsoft Single Sign-On.
 
 This unit and its companion Mathematics B teach you the basic mathematics that you will need in your Computer Science degree. The topics covered in these units will prepare you for later units in the degree as well as linking to some of the school's research areas, including algorithms, data science, machine learning, and programming languages. 
