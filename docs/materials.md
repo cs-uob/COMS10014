@@ -19,17 +19,19 @@ Files linked to on this page will require you to log in with your university use
 ### Session 1, 21st-22nd September
 
   - Topic: Booleans and Truth Tables
-  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/01-booleans.pdf?d=wdc376c981b6e47779c49f35ac7478bad&csf=1&web=1&e=4I3stj), [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w01-booleans_questions.pdf?d=w8ffc8f1f17d74043821a704ee846cfd0&csf=1&web=1&e=iDh4nD)
+  - Lecture: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/01-booleans.pdf?d=wdc376c981b6e47779c49f35ac7478bad&csf=1&web=1&e=4I3stj), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/a46ab8564d9847fba733b91180d17bb11d), [slides](https://uob.sharepoint.com/:p:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/Booleans%20and%20Truth%20Tables.pptx?d=w2af16cdb706d46458f3a7b2ff1500f65&csf=1&web=1&e=bncCCK)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w01-booleans_questions.pdf?d=w8ffc8f1f17d74043821a704ee846cfd0&csf=1&web=1&e=iDh4nD)
 
 ### Session 2, 23rd-24th September
 
   - Topic: Boolean algebra
-  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/02-algebra.pdf?d=wdc376c981b6e47779c49f35ac7478bad&csf=1&web=1&e=4I3stj), [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w01-booleans_questions.pdf?d=w8ffc8f1f17d74043821a704ee846cfd0&csf=1&web=1&e=iDh4nD)
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/02-algebra.pdf?d=wdc376c981b6e47779c49f35ac7478bad&csf=1&web=1&e=4I3stj)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w01-booleans_questions.pdf?d=w8ffc8f1f17d74043821a704ee846cfd0&csf=1&web=1&e=iDh4nD)
 
 ### Session 3, 28th-29th September
 
   - Topic: Natural Deduction (pt 1)
 
-### Session 4, 30th-01st September
+### Session 4, 30th-01st September/October
 
   - Topic: Natural Deduction (pt 2)
