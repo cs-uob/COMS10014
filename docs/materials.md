@@ -25,8 +25,8 @@ Files linked to on this page will require you to log in with your university use
 ### Session 2, 23rd-24th September
 
   - Topic: Boolean algebra
-  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/02-algebra.pdf?d=wdc376c981b6e47779c49f35ac7478bad&csf=1&web=1&e=4I3stj)
-  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w01-booleans_questions.pdf?d=w8ffc8f1f17d74043821a704ee846cfd0&csf=1&web=1&e=iDh4nD)
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/02-algebra.pdf)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w02-algebra_questions.pdf)
 
 ### Session 3, 28th-29th September
 
