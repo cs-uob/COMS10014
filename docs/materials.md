@@ -31,7 +31,7 @@ Files linked to on this page will require you to log in with your university use
 ### Session 3, 28th-29th September
 
   - Topic: Natural Deduction (pt 1)
-  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/03-deduction.pdf?d=wf6cafcde06424db1bdc5c7072a18ac46&csf=1&web=1&e=IVAyhS)
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/03-deduction.pdf?d=wf6cafcde06424db1bdc5c7072a18ac46&csf=1&web=1&e=IVAyhS), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/5b16bc698646435fbbc69fcfc2a783391d)
   - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w03-deduction_questions.pdf?d=w598230e6a6714342a14e917754e3299e&csf=1&web=1&e=fa0Wjl)
 
 ### Session 4, 30th-01st September/October
