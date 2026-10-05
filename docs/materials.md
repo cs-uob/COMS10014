@@ -39,3 +39,15 @@ Files linked to on this page will require you to log in with your university use
   - Topic: Natural Deduction (pt 2)
   - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/04-deduction.pdf?d=wdcb56095cff04a84bce98be8c0350f91&csf=1&web=1&e=YKLfa2), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/f566e03010b94734a1efcdcf768eb94d1d)
   - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w04-deduction_questions.pdf?d=w683136c58ff24acca3b69e9264d17eab&csf=1&web=1&e=qOa8NF), [solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w04-deduction_solutions.pdf?d=w3c4b3c5395a74d2dba97b2b19ebe34b6&csf=1&web=1&e=US5kYp)
+
+### Session 5, 5th-6th October
+
+  - Topic: Predicates and Quantifiers
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/05-predicates.pdf?d=w1d36b5704b2c40b5b04fe061675fcfb6&csf=1&web=1&e=DsVmbi)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w05-predicates_questions.pdf?d=wf4bfd08557f643d998992edd03487e56&csf=1&web=1&e=jLe1tr)
+
+### Session 6, 7th-8th October
+
+  - Topic: Predicate Logic and Proofs
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/06-proofs.pdf?d=wa51f52750f4a4992a365677c4a78a1cc&csf=1&web=1&e=WvcBTL)  
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w06-proofs_questions.pdf?d=w057c09f1030d4cffb1b288b7b067fe20&csf=1&web=1&e=AcTWS9)
