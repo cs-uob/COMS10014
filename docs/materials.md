@@ -44,10 +44,10 @@ Files linked to on this page will require you to log in with your university use
 
   - Topic: Predicates and Quantifiers
   - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/05-predicates.pdf?d=w1d36b5704b2c40b5b04fe061675fcfb6&csf=1&web=1&e=DsVmbi), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/9589e74097aa423f8121b8a3d0305c371d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/05-predicate_slides.pdf?d=w695434c326f24b6ca8423b5fca2d3b4d&csf=1&web=1&e=mnCM44)
-  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w05-predicates_questions.pdf?d=wf4bfd08557f643d998992edd03487e56&csf=1&web=1&e=jLe1tr)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w05-predicates_questions.pdf?d=wf4bfd08557f643d998992edd03487e56&csf=1&web=1&e=jLe1tr), [solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w05-predicates_solutions.pdf?d=w9c181b8bb40d43e0be7cb9d8b9f40637&csf=1&web=1&e=jfU5td)
 
 ### Session 6, 7th-8th October
 
   - Topic: Predicate Logic and Proofs
-  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/06-proofs.pdf?d=wa51f52750f4a4992a365677c4a78a1cc&csf=1&web=1&e=WvcBTL)  
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/06-proofs.pdf?d=wa51f52750f4a4992a365677c4a78a1cc&csf=1&web=1&e=WvcBTL), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/b22c089212104665a676a0243bb60a041d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/06-proofs_slides.pdf?d=w40cae1ea86b5443d83bb4400725161f3&csf=1&web=1&e=EVm8vQ)
   - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w06-proofs_questions.pdf?d=w057c09f1030d4cffb1b288b7b067fe20&csf=1&web=1&e=AcTWS9)
