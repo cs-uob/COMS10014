@@ -50,4 +50,17 @@ Files linked to on this page will require you to log in with your university use
 
   - Topic: Predicate Logic and Proofs
   - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/06-proofs.pdf?d=wa51f52750f4a4992a365677c4a78a1cc&csf=1&web=1&e=WvcBTL), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/b22c089212104665a676a0243bb60a041d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/06-proofs_slides.pdf?d=w40cae1ea86b5443d83bb4400725161f3&csf=1&web=1&e=EVm8vQ)
-  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w06-proofs_questions.pdf?d=w057c09f1030d4cffb1b288b7b067fe20&csf=1&web=1&e=AcTWS9)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w06-proofs_questions.pdf?d=w057c09f1030d4cffb1b288b7b067fe20&csf=1&web=1&e=AcTWS9), [solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w06-proofs_solutions.pdf?d=w7e9329f77bd2442eb4a4a21003386f7f&csf=1&web=1&e=dVkHWe)
+
+### Session 7, 12th-13th October
+
+  - Topic: Set Theory (pt 1)
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/07-sets-I.pdf?d=w9d6adb6641714a95841916cae7c6b30d&csf=1&web=1&e=RQHJfC)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w07-sets-I_questions.pdf?d=w96bf017ce3c84b668460aae1b4d6e009&csf=1&web=1&e=Sr4icn)
+
+
+### Session 8, 14th-15th October
+
+  - Topic: Set Theory (pt 2)
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/08-sets-II.pdf?d=w93c93b0ee58a45a0acbd0e6b5232cf9e&csf=1&web=1&e=q206QL)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w08-sets-II_questions.pdf?d=waf420a3764d6415ead237a20819aa354&csf=1&web=1&e=eefnaf)
