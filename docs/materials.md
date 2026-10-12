@@ -55,7 +55,7 @@ Files linked to on this page will require you to log in with your university use
 ### Session 7, 12th-13th October
 
   - Topic: Set Theory (pt 1)
-  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/07-sets-I.pdf?d=w9d6adb6641714a95841916cae7c6b30d&csf=1&web=1&e=RQHJfC)
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/07-sets-I.pdf?d=w9d6adb6641714a95841916cae7c6b30d&csf=1&web=1&e=RQHJfC), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/97417734ab87470698bf1d32dda6f79f1d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/07-sets-I_slides.pdf?d=w588c74574a994dd4aa725a171f16c95b&csf=1&web=1&e=DAXbF8)
   - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w07-sets-I_questions.pdf?d=w96bf017ce3c84b668460aae1b4d6e009&csf=1&web=1&e=Sr4icn)
 
 
