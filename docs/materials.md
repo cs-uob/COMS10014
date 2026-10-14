@@ -62,5 +62,5 @@ Files linked to on this page will require you to log in with your university use
 ### Session 8, 14th-15th October
 
   - Topic: Set Theory (pt 2)
-  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/08-sets-II.pdf?d=w902b4b0a74d542239d0d725b32cfb126&csf=1&web=1&e=1bHFDm)
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/08-sets-II.pdf?d=wb77a0e2f43ad488ea3dd28a62ffd8674&csf=1&web=1&e=WceDir), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/08-sets-II_slides.pdf?d=w9bfa4fe8b86f4b8d8de486759ae02cb4&csf=1&web=1&e=WQXPR8)
   - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w08-sets-II_questions.pdf?d=waf420a3764d6415ead237a20819aa354&csf=1&web=1&e=eefnaf)
