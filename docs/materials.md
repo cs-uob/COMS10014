@@ -68,7 +68,7 @@ Files linked to on this page will require you to log in with your university use
 ### Session 9, 19th-20th October
 
   - Topic: Functions
-  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/09-functions.pdf?d=w056928d63c03421f9d7dce212f294c1f&csf=1&web=1&e=u0f1GX)
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/09-functions.pdf?d=w056928d63c03421f9d7dce212f294c1f&csf=1&web=1&e=u0f1GX), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/4e242e46d08342c6945c2b43686bae671d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/09-functions_slides.pdf?d=wcaf1c9dfa66e4975a5c4eed454e0a597&csf=1&web=1&e=19u0m9)
   - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w09-functions_questions.pdf?d=w9f8433fe25ff4652a87793b0c3e6d0a9&csf=1&web=1&e=ZhtRHD)
 
 ### Session 10, 21st-22nd October
