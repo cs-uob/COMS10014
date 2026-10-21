@@ -74,5 +74,5 @@ Files linked to on this page will require you to log in with your university use
 ### Session 10, 21st-22nd October
 
   - Topic: Relations
-  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/10-relations.pdf?d=w5a34c10d2221437499e5f894274503d4&csf=1&web=1&e=m2Q1vD), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/10-relations_slides.pdf?d=w732da5e5b5bb45d6a6a6e5970bd47b19&csf=1&web=1&e=pmTXgB)
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/10-relations.pdf?d=w5a34c10d2221437499e5f894274503d4&csf=1&web=1&e=m2Q1vD), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/6b8fc843d9864868bc6cd60d999cedf91d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/10-relations_slides.pdf?d=w732da5e5b5bb45d6a6a6e5970bd47b19&csf=1&web=1&e=pmTXgB)
   - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w10-relations_questions.pdf?d=w1a669c180edf4a2b8c85ed7b440dfc1f&csf=1&web=1&e=3fC0MY)
