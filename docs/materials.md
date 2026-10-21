@@ -69,10 +69,10 @@ Files linked to on this page will require you to log in with your university use
 
   - Topic: Functions
   - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/09-functions.pdf?d=w056928d63c03421f9d7dce212f294c1f&csf=1&web=1&e=u0f1GX), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/4e242e46d08342c6945c2b43686bae671d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/09-functions_slides.pdf?d=wcaf1c9dfa66e4975a5c4eed454e0a597&csf=1&web=1&e=19u0m9)
-  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w09-functions_questions.pdf?d=w9f8433fe25ff4652a87793b0c3e6d0a9&csf=1&web=1&e=ZhtRHD)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w09-functions_questions.pdf?d=w9f8433fe25ff4652a87793b0c3e6d0a9&csf=1&web=1&e=ZhtRHD), [solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w09-functions_solutions.pdf?d=wc2248f9a1edb4cec9c8b2702eddf9087&csf=1&web=1&e=peiIp4)
 
 ### Session 10, 21st-22nd October
 
   - Topic: Relations
-  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/10-relations.pdf?d=w5a34c10d2221437499e5f894274503d4&csf=1&web=1&e=m2Q1vD)
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/10-relations.pdf?d=w5a34c10d2221437499e5f894274503d4&csf=1&web=1&e=m2Q1vD), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/10-relations_slides.pdf?d=w732da5e5b5bb45d6a6a6e5970bd47b19&csf=1&web=1&e=pmTXgB)
   - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w10-relations_questions.pdf?d=w1a669c180edf4a2b8c85ed7b440dfc1f&csf=1&web=1&e=3fC0MY)
