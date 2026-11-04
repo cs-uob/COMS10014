@@ -25,5 +25,5 @@ Finally, we will look at probability - the way in which we model an unpredictabl
   <!-- - [Attendance](attendance.md) -->
   - [Assessment](assessment.md)
   - [Material](materials.md)
-  <!-- - [Revision](revision.md) -->
+  - [Revision](revision.md)
   - [Textbooks](textbooks.md)
