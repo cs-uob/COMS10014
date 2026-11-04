@@ -86,5 +86,5 @@ Files linked to on this page will require you to log in with your university use
   ### Session 12, 4th-5th November
 
   - Topic: Advanced Set Theory 
-  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/12-advanced.pdf?d=w628fa13d6a46410f92e8734be3e94b47&csf=1&web=1&e=oss1ov)
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/12-advanced.pdf?d=w628fa13d6a46410f92e8734be3e94b47&csf=1&web=1&e=oss1ov), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/f9d3cc65ed4e43478fd5cb6a117074c91d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/12-advanced-sets_slides.pdf?d=w03ecb2cafe5c4f8080dd9b179b619eca&csf=1&web=1&e=xkTdEV)
   - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w12-advanced_questions.pdf?d=wff10e36c46a442fb8a7cbe0791086f97&csf=1&web=1&e=5a83g9)
