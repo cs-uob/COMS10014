@@ -43,11 +43,48 @@ Files linked to on this page will require you to log in with your university use
 ### Session 5, 5th-6th October
 
   - Topic: Predicates and Quantifiers
-  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/05-predicates.pdf?d=w1d36b5704b2c40b5b04fe061675fcfb6&csf=1&web=1&e=DsVmbi)
-  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w05-predicates_questions.pdf?d=wf4bfd08557f643d998992edd03487e56&csf=1&web=1&e=jLe1tr)
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/05-predicates.pdf?d=w1d36b5704b2c40b5b04fe061675fcfb6&csf=1&web=1&e=DsVmbi), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/9589e74097aa423f8121b8a3d0305c371d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/05-predicate_slides.pdf?d=w695434c326f24b6ca8423b5fca2d3b4d&csf=1&web=1&e=mnCM44)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w05-predicates_questions.pdf?d=wf4bfd08557f643d998992edd03487e56&csf=1&web=1&e=jLe1tr), [solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w05-predicates_solutions.pdf?d=w9c181b8bb40d43e0be7cb9d8b9f40637&csf=1&web=1&e=jfU5td)
 
 ### Session 6, 7th-8th October
 
   - Topic: Predicate Logic and Proofs
-  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/06-proofs.pdf?d=wa51f52750f4a4992a365677c4a78a1cc&csf=1&web=1&e=WvcBTL)  
-  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w06-proofs_questions.pdf?d=w057c09f1030d4cffb1b288b7b067fe20&csf=1&web=1&e=AcTWS9)
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/06-proofs.pdf?d=wa51f52750f4a4992a365677c4a78a1cc&csf=1&web=1&e=WvcBTL), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/b22c089212104665a676a0243bb60a041d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/06-proofs_slides.pdf?d=w40cae1ea86b5443d83bb4400725161f3&csf=1&web=1&e=EVm8vQ)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w06-proofs_questions.pdf?d=w057c09f1030d4cffb1b288b7b067fe20&csf=1&web=1&e=AcTWS9), [solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w06-proofs_solutions.pdf?d=w7e9329f77bd2442eb4a4a21003386f7f&csf=1&web=1&e=dVkHWe)
+
+### Session 7, 12th-13th October
+
+  - Topic: Set Theory (pt 1)
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/07-sets-I.pdf?d=w9d6adb6641714a95841916cae7c6b30d&csf=1&web=1&e=RQHJfC), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/97417734ab87470698bf1d32dda6f79f1d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/07-sets-I_slides.pdf?d=w588c74574a994dd4aa725a171f16c95b&csf=1&web=1&e=DAXbF8)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w07-sets-I_questions.pdf?d=w96bf017ce3c84b668460aae1b4d6e009&csf=1&web=1&e=Sr4icn), [solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w07-sets-I_solutions.pdf?d=wc80de3f356ad4c1a9caa4d6074fa5ab2&csf=1&web=1&e=egZ9uS)
+
+
+### Session 8, 14th-15th October
+
+  - Topic: Set Theory (pt 2)
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/08-sets-II.pdf?d=wb77a0e2f43ad488ea3dd28a62ffd8674&csf=1&web=1&e=WceDir), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/bcb8ebcec8604c88a38c30d5f0dd850f1d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/08-sets-II_slides.pdf?d=w9bfa4fe8b86f4b8d8de486759ae02cb4&csf=1&web=1&e=WQXPR8)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w08-sets-II_questions.pdf?d=waf420a3764d6415ead237a20819aa354&csf=1&web=1&e=eefnaf), [solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w08-sets-II_solutions.pdf?d=we5854259287243a2bd19e97364e8e682&csf=1&web=1&e=qlFZbm)
+
+### Session 9, 19th-20th October
+
+  - Topic: Functions
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/09-functions.pdf?d=w056928d63c03421f9d7dce212f294c1f&csf=1&web=1&e=u0f1GX), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/4e242e46d08342c6945c2b43686bae671d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/09-functions_slides.pdf?d=wcaf1c9dfa66e4975a5c4eed454e0a597&csf=1&web=1&e=19u0m9)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w09-functions_questions.pdf?d=w9f8433fe25ff4652a87793b0c3e6d0a9&csf=1&web=1&e=ZhtRHD), [solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w09-functions_solutions.pdf?d=wc2248f9a1edb4cec9c8b2702eddf9087&csf=1&web=1&e=peiIp4)
+
+### Session 10, 21st-22nd October
+
+  - Topic: Relations
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/10-relations.pdf?d=w5a34c10d2221437499e5f894274503d4&csf=1&web=1&e=m2Q1vD), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/6b8fc843d9864868bc6cd60d999cedf91d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/10-relations_slides.pdf?d=w732da5e5b5bb45d6a6a6e5970bd47b19&csf=1&web=1&e=pmTXgB)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w10-relations_questions.pdf?d=w1a669c180edf4a2b8c85ed7b440dfc1f&csf=1&web=1&e=3fC0MY), [solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w10-relations_solutions.pdf?d=we16ddd5f044f40ccbd0e5db02e8d5dba&csf=1&web=1&e=iy3oGH)
+
+  ### Session 11, 2nd-3rd November
+
+  - Topic: Induction
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/11-induction.pdf?d=wa7b89b55a4fa49f2b402b107bce2b73f&csf=1&web=1&e=4Gjqf5), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/3198abaf2af74bd28176fbf70a40d3271d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/11-induction_slides.pdf?d=w0a5669c6fd8d4753b035777f52d257cb&csf=1&web=1&e=pc0yhC)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w11-induction_questions.pdf?d=w63a3052965af4a41b99745a3dfac0e72&csf=1&web=1&e=lRZsal), [solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w11-induction_solutions.pdf?d=w50e99d2bffad4836b79dfe3d1c34054b&csf=1&web=1&e=2bkXl1)
+
+  ### Session 12, 4th-5th November
+
+  - Topic: Advanced Set Theory 
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/12-advanced.pdf?d=w628fa13d6a46410f92e8734be3e94b47&csf=1&web=1&e=oss1ov)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w12-advanced_questions.pdf?d=wff10e36c46a442fb8a7cbe0791086f97&csf=1&web=1&e=5a83g9)
