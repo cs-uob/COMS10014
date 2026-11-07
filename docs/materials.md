@@ -88,3 +88,15 @@ Files linked to on this page will require you to log in with your university use
   - Topic: Advanced Set Theory 
   - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/12-advanced.pdf?d=w628fa13d6a46410f92e8734be3e94b47&csf=1&web=1&e=oss1ov), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/f9d3cc65ed4e43478fd5cb6a117074c91d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/12-advanced-sets_slides.pdf?d=w03ecb2cafe5c4f8080dd9b179b619eca&csf=1&web=1&e=xkTdEV)
   - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w12-advanced_questions.pdf?d=wff10e36c46a442fb8a7cbe0791086f97&csf=1&web=1&e=5a83g9), [solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w12-advanced_solutions.pdf?d=weaa3c1a21bf1452596909d30218686fa&csf=1&web=1&e=SyZJuj)
+
+  ### Session 13, 9th-10th November
+
+  - Topic: Combinatorics (pt 1) 
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/13-combinatorics-I.pdf?d=w6fc234426c0f4737a1f330cf582c7e56&csf=1&web=1&e=tjgmgG)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w13-combinatorics-I_questions.pdf?d=wf971c9157fdc4f61ac446baec85e5784&csf=1&web=1&e=AMxI7D)
+
+  ### Session 14, 11th-12th November
+
+  - Topic: Combinatorics (pt 2) 
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/14-combinatorics-II.pdf?d=wcf3ef8ce3cfb4dfda9f02fadd702d8ff&csf=1&web=1&e=27fyEX)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w14-combinatorics-II_questions.pdf?d=w31f9fbf5bc7e4bada8d0bd84990cf9cf&csf=1&web=1&e=9GIlSR)
