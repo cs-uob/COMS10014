@@ -92,7 +92,7 @@ Files linked to on this page will require you to log in with your university use
   ### Session 13, 9th-10th November
 
   - Topic: Combinatorics (pt 1) 
-  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/13-combinatorics-I.pdf?d=w6fc234426c0f4737a1f330cf582c7e56&csf=1&web=1&e=tjgmgG)
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/13-combinatorics-I.pdf?d=w6fc234426c0f4737a1f330cf582c7e56&csf=1&web=1&e=tjgmgG), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/6c1fbee41bcf45fc86428384ea4d74291d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/13-combinatorics-I_slides.pdf?d=w2734775b12b0479cb45a203db4c04422&csf=1&web=1&e=uoqzOI)
   - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w13-combinatorics-I_questions.pdf?d=wf971c9157fdc4f61ac446baec85e5784&csf=1&web=1&e=AMxI7D)
 
   ### Session 14, 11th-12th November
