@@ -77,26 +77,32 @@ Files linked to on this page will require you to log in with your university use
   - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/10-relations.pdf?d=w5a34c10d2221437499e5f894274503d4&csf=1&web=1&e=m2Q1vD), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/6b8fc843d9864868bc6cd60d999cedf91d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/10-relations_slides.pdf?d=w732da5e5b5bb45d6a6a6e5970bd47b19&csf=1&web=1&e=pmTXgB)
   - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w10-relations_questions.pdf?d=w1a669c180edf4a2b8c85ed7b440dfc1f&csf=1&web=1&e=3fC0MY), [solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w10-relations_solutions.pdf?d=we16ddd5f044f40ccbd0e5db02e8d5dba&csf=1&web=1&e=iy3oGH)
 
-  ### Session 11, 2nd-3rd November
+### Session 11, 2nd-3rd November
 
   - Topic: Induction
   - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/11-induction.pdf?d=wa7b89b55a4fa49f2b402b107bce2b73f&csf=1&web=1&e=4Gjqf5), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/3198abaf2af74bd28176fbf70a40d3271d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/11-induction_slides.pdf?d=w0a5669c6fd8d4753b035777f52d257cb&csf=1&web=1&e=pc0yhC)
   - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w11-induction_questions.pdf?d=w63a3052965af4a41b99745a3dfac0e72&csf=1&web=1&e=lRZsal), [solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w11-induction_solutions.pdf?d=w50e99d2bffad4836b79dfe3d1c34054b&csf=1&web=1&e=2bkXl1)
 
-  ### Session 12, 4th-5th November
+### Session 12, 4th-5th November
 
   - Topic: Advanced Set Theory 
   - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/12-advanced.pdf?d=w628fa13d6a46410f92e8734be3e94b47&csf=1&web=1&e=oss1ov), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/f9d3cc65ed4e43478fd5cb6a117074c91d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/12-advanced-sets_slides.pdf?d=w03ecb2cafe5c4f8080dd9b179b619eca&csf=1&web=1&e=xkTdEV)
   - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w12-advanced_questions.pdf?d=wff10e36c46a442fb8a7cbe0791086f97&csf=1&web=1&e=5a83g9), [solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w12-advanced_solutions.pdf?d=weaa3c1a21bf1452596909d30218686fa&csf=1&web=1&e=SyZJuj)
 
-  ### Session 13, 9th-10th November
+### Session 13, 9th-10th November
 
   - Topic: Combinatorics (pt 1) 
   - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/13-combinatorics-I.pdf?d=w6fc234426c0f4737a1f330cf582c7e56&csf=1&web=1&e=tjgmgG), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/6c1fbee41bcf45fc86428384ea4d74291d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/13-combinatorics-I_slides.pdf?d=w2734775b12b0479cb45a203db4c04422&csf=1&web=1&e=uoqzOI)
   - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w13-combinatorics-I_questions.pdf?d=wf971c9157fdc4f61ac446baec85e5784&csf=1&web=1&e=AMxI7D), [solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w13-combinatorics-I_solutions.pdf?d=w835c8e7fc7f940038fa9040fda3dc643&csf=1&web=1&e=5b8DOy)
 
-  ### Session 14, 11th-12th November
+### Session 14, 11th-12th November
 
   - Topic: Combinatorics (pt 2) 
   - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/14-combinatorics-II.pdf?d=wcf3ef8ce3cfb4dfda9f02fadd702d8ff&csf=1&web=1&e=27fyEX), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/ad78b642f6ec4482a18997dc3709d22c1d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/14-combinatorics-II_slides.pdf?d=w967a71495f4644f4aa1b056fe1e5007d&csf=1&web=1&e=RZTaDs)
   - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w14-combinatorics-II_questions.pdf?d=w31f9fbf5bc7e4bada8d0bd84990cf9cf&csf=1&web=1&e=9GIlSR)
+
+### Session 15, 16th-17th November
+
+  - Topic: Probability
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/15-probability.pdf?d=w4797f45b65a445e6a881ba9e1ec11a23&csf=1&web=1&e=ZDWUze)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w15-probability_questions.pdf?d=wac284b0b0ff145d599ae904d9ffd0304&csf=1&web=1&e=vfL3Jt)
