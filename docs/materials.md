@@ -99,7 +99,7 @@ Files linked to on this page will require you to log in with your university use
 
   - Topic: Combinatorics (pt 2) 
   - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/14-combinatorics-II.pdf?d=wcf3ef8ce3cfb4dfda9f02fadd702d8ff&csf=1&web=1&e=27fyEX), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/ad78b642f6ec4482a18997dc3709d22c1d), [slides](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/14-combinatorics-II_slides.pdf?d=w967a71495f4644f4aa1b056fe1e5007d&csf=1&web=1&e=RZTaDs)
-  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w14-combinatorics-II_questions.pdf?d=w31f9fbf5bc7e4bada8d0bd84990cf9cf&csf=1&web=1&e=9GIlSR)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w14-combinatorics-II_questions.pdf?d=w31f9fbf5bc7e4bada8d0bd84990cf9cf&csf=1&web=1&e=9GIlSR), [solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w14-combinatorics-II_solutions.pdf?d=wed22b99f4e484e569181eae42edc98a5&csf=1&web=1&e=ouGg8y)
 
 ### Session 15, 16th-17th November
 
