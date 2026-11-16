@@ -104,8 +104,8 @@ Files linked to on this page will require you to log in with your university use
 ### Session 15, 16th-17th November
 
   - Topic: Probability
-  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/15-probability.pdf?d=w4797f45b65a445e6a881ba9e1ec11a23&csf=1&web=1&e=ZDWUze)
-  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w15-probability_questions.pdf?d=wac284b0b0ff145d599ae904d9ffd0304&csf=1&web=1&e=vfL3Jt), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/c9267bc0a2b24afaa67d1392cedbeff41d)
+  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/15-probability.pdf?d=w4797f45b65a445e6a881ba9e1ec11a23&csf=1&web=1&e=ZDWUze), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/c9267bc0a2b24afaa67d1392cedbeff41d)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w15-probability_questions.pdf?d=wac284b0b0ff145d599ae904d9ffd0304&csf=1&web=1&e=vfL3Jt)
 
 ### Session 16, 18th-19th November
 
