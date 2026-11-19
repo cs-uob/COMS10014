@@ -105,12 +105,12 @@ Files linked to on this page will require you to log in with your university use
 
   - Topic: Probability
   - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/15-probability.pdf?d=w4797f45b65a445e6a881ba9e1ec11a23&csf=1&web=1&e=ZDWUze), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/c9267bc0a2b24afaa67d1392cedbeff41d)
-  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w15-probability_questions.pdf?d=wac284b0b0ff145d599ae904d9ffd0304&csf=1&web=1&e=vfL3Jt)
+  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w15-probability_questions.pdf?d=wac284b0b0ff145d599ae904d9ffd0304&csf=1&web=1&e=vfL3Jt), [solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w15-probability_solutions.pdf?d=wf29b0802cc2e45708bcd80a8b9f18145&csf=1&web=1&e=jGhIpL)
 
 ### Session 16, 18th-19th November
 
  - Topic: Conditional Probability
- - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/16-conditional.pdf?d=wfe430f6bb0b3476c9ea241d927f28bda&csf=1&web=1&e=PMhFwK)
+ - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/16-conditional.pdf?d=wfe430f6bb0b3476c9ea241d927f28bda&csf=1&web=1&e=PMhFwK), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/a58f8cbfd9cb418d87b155f081ead4641d)
  - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w16-conditional_questions.pdf?d=wfe26870562a3426f92e25901253c83c5&csf=1&web=1&e=qSOtbc)
 
 ### Session 17, 23rd-24th November
