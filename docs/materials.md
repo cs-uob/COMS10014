@@ -116,6 +116,8 @@ Files linked to on this page will require you to log in with your university use
 ### Session 17, 23rd-24th November
 
  - Topic: Random Variables
+ - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/17-randomvariables.pdf?d=w60b81db1bc744cf7b314fb4dfe9f17f7&csf=1&web=1&e=ZHKd2H)
+ - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w17-randomvariables_questions.pdf?d=w46c0f8cc57c2404d91220e1feadd42a3&csf=1&web=1&e=6Wgdts)
 
 ### Session 18, 25rd-26th November
 
