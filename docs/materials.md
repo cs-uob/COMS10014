@@ -111,7 +111,7 @@ Files linked to on this page will require you to log in with your university use
 
  - Topic: Conditional Probability
  - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/16-conditional.pdf?d=wfe430f6bb0b3476c9ea241d927f28bda&csf=1&web=1&e=PMhFwK), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/a58f8cbfd9cb418d87b155f081ead4641d)
- - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w16-conditional_questions.pdf?d=wfe26870562a3426f92e25901253c83c5&csf=1&web=1&e=qSOtbc)
+ - Problem Class: [worksheet](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w16-conditional_questions.pdf?d=wfe26870562a3426f92e25901253c83c5&csf=1&web=1&e=qSOtbc), [solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Worksheets/w16-conditional_solutions.pdf?d=w892dde3770b04e318e0ec9f8a3154565&csf=1&web=1&e=P9Bwvi)
 
 ### Session 17, 23rd-24th November
 
