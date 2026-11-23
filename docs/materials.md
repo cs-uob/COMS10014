@@ -121,7 +121,8 @@ Files linked to on this page will require you to log in with your university use
 
 ### Session 18, 25rd-26th November
 
- - Topic: Expectation
+ - Topic: Continuous Variables and Expectation
+ - Material: [notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Notes/18-expectation.pdf?d=waceb2893328942b5b567da941e4011d9&csf=1&web=1&e=vc5O0k)
 
 ### Session 19, 30th Novemenber - 1st December
 
