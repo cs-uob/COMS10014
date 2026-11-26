@@ -11,7 +11,8 @@ They are not a complete guide to all the content, you should still incorporate t
 
 ## Topic: Booleans, Propositional Logic, and Natural Deduction
   
-  - [Notes](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Revision/Propositional%20Logic.pdf?d=wf5a59cb883864cd48ec731260dbbe5a8&csf=1&web=1&e=8zyEhE)
+  - [Exercises](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Revision/Propositional%20Logic.pdf?d=wf5a59cb883864cd48ec731260dbbe5a8&csf=1&web=1&e=8zyEhE)
+  - [Solutions](https://uob.sharepoint.com/:b:/r/teams/MathematicsforComputerScien_a25ddc36-68d6-11f1-bf67-9d9551d49f9e/Class%20Materials/Revision/Propositional%20Logic%20(Solutions).pdf?d=w0658707be12c414fbdba4dfb897261d7&csf=1&web=1&e=Dw37CL)
 
 <!-- ## Topic: Quantifiers, Predicate Logic, and Natural Deduction for Predicate Logic
   
